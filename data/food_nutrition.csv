@@ -1,0 +1,2396 @@
+Food_Name,Calories_kcal,Carbs_g,Protein_g,Fat_g,Sodium_mg,Fiber_g,Saturated_Fat_g,Meal_Type
+cream cheese,51,0.8,0.9,5.0,16.0,0.0,2.9,Dinner
+neufchatel cheese,215,3.1,7.8,19.4,300.0,0.0,10.9,Snack
+requeijao cremoso light catupiry,49,0.9,0.8,3.6,0.0,0.1,2.3,Breakfast
+ricotta cheese,30,1.5,1.5,2.0,17.0,0.0,1.3,Dinner
+cream cheese low fat,30,1.2,1.2,2.3,46.0,0.0,1.4,Dinner
+cream cheese fat free,19,1.4,2.8,0.2,100.0,0.0,0.1,Snack
+gruyere cheese,116,0.1,8.3,9.1,200.0,0.0,5.3,Breakfast
+cheddar cheese,113,0.9,6.4,9.3,200.0,0.0,5.3,Breakfast
+parmesan cheese,71,0.6,6.4,4.5,200.0,0.0,2.7,Dinner
+romano cheese,19,0.2,1.6,1.3,8.0,0.0,0.9,Lunch
+parmesan cheese grated,21,0.7,1.4,1.4,43.0,0.0,0.8,Dinner
+port salut cheese,465,0.8,31.4,37.2,700.0,0.0,22.0,Dinner
+swiss cheese,98,0.4,6.7,7.7,57.0,0.0,4.6,Dinner
+goat cheese hard,128,0.6,8.6,10.1,76.0,0.0,7.0,Dinner
+gouda cheese,100,0.6,7.0,7.7,200.0,0.0,4.9,Snack
+pepper jack cheese lucerne,75,0.0,5.0,6.0,0.0,2.5,4.0,Breakfast
+caraway cheese,106,0.9,7.1,8.3,200.0,0.0,5.3,Snack
+gjetost cheese,1058,96.8,21.9,67.0,1400.0,0.0,43.5,Snack
+tilsit cheese,136,0.8,9.8,10.4,300.0,0.0,6.7,Snack
+goat cheese,103,0.009,6.1,8.4,100.0,0.0,5.8,Dinner
+brick cheese,111,0.8,7.0,8.9,200.0,0.0,5.6,Lunch
+asadero cheese,402,3.2,25.5,31.9,700.0,0.0,20.3,Breakfast
+camembert cheese,90,0.1,5.9,7.3,300.0,0.0,4.6,Lunch
+provolone cheese reduced fat,310,4.0,27.9,19.9,1000.0,0.0,12.8,Snack
+roquefort cheese,314,1.7,18.3,26.0,1500.0,0.0,16.4,Snack
+queso blanco cheese,366,3.0,24.0,28.7,800.0,0.0,16.1,Lunch
+queso seco cheese,315,2.0,23.8,23.6,1800.0,0.0,13.3,Lunch
+goat cheese soft,75,0.0,5.2,6.0,100.0,0.0,4.1,Lunch
+mozzarella cheese,90,0.7,6.7,6.6,100.0,0.0,4.2,Snack
+chihuahua cheese,494,7.3,28.5,39.2,800.0,0.0,24.9,Snack
+limburger cheese,98,0.1,6.0,8.2,200.0,0.0,5.0,Breakfast
+muenster cheese,486,1.5,30.9,39.7,800.0,0.0,25.2,Breakfast
+queso fresco cheese,365,3.6,22.1,29.1,900.0,0.0,15.8,Snack
+brie cheese,100,0.1,6.2,8.3,200.0,0.0,5.2,Lunch
+pimento cheese,525,2.4,31.0,43.7,2000.0,0.1,27.5,Lunch
+mexican cheese,316,3.8,27.7,21.7,900.0,0.0,13.0,Breakfast
+feta cheese,80,1.2,4.3,6.4,300.0,0.0,4.0,Snack
+mozzarella cheese fat free,159,4.0,35.8,0.0,800.0,2.0,0.0,Breakfast
+provolone cheese,463,2.8,33.8,35.1,1200.0,0.0,22.5,Breakfast
+anejo cheese,492,6.1,28.3,39.6,1500.0,0.0,25.1,Dinner
+honey,64,17.3,0.08,0.0,11.0,0.025,0.0,Dinner
+apple butter,35,8.5,0.045,0.063,3.0,0.3,0.038,Dinner
+fruit jam,56,13.8,0.0,0.095,52.0,0.2,0.021,Lunch
+chocolate hazelnut spread,100,11.5,1.0,5.5,99.0,1.0,5.3,Snack
+peanut butter,88,3.6,3.3,7.4,85.0,0.9,1.4,Snack
+peanut spread,101,2.2,3.8,8.5,28.0,1.2,1.6,Snack
+chicken spread,88,2.3,10.1,9.8,400.0,0.2,1.8,Snack
+cheese spread,708,8.4,17.0,68.6,1200.0,0.0,43.2,Dinner
+tahini,86,3.9,2.7,7.2,98.0,1.4,1.0,Lunch
+orange marmalade,49,13.3,0.014,0.0,16.0,0.1,0.0,Lunch
+american cheese spread,46,1.4,2.6,3.4,300.0,0.0,2.1,Dinner
+apricot jam,48,12.9,0.1,0.01,4.0,0.044,0.042,Lunch
+chunky peanut butter,94,3.5,3.8,8.0,30.0,1.3,1.2,Dinner
+ham and cheese spread,37,0.3,2.4,2.8,200.0,0.0,1.3,Snack
+chicken and rice casserole homade,27,2.4,2.0,1.0,0.0,0.3,0.0,Dinner
+picnic loaf,65,1.3,4.2,4.7,300.0,0.0,1.7,Snack
+corn tamale,309,44.3,5.8,12.0,500.0,5.3,4.4,Snack
+baked potato with cheese sauce bacon,451,44.4,18.4,25.9,1000.0,0.0,10.1,Breakfast
+chinese egg roll,223,24.3,7.4,10.6,400.0,2.3,1.9,Dinner
+butter croissant,231,26.1,4.7,12.0,200.0,1.5,6.6,Breakfast
+enchilada with cheese beef,323,30.5,11.9,17.6,1300.0,0.0,9.0,Dinner
+corned beef hash with potatoes,387,21.9,20.6,24.2,1000.0,2.6,10.2,Dinner
+biscuit with egg cheese bacon,436,35.4,17.4,25.3,1200.0,0.3,8.5,Breakfast
+bagel with ham egg cheese,483,52.4,26.7,18.5,1300.0,0.4,7.9,Breakfast
+quesadilla with chicken,529,43.3,27.1,27.5,1300.0,3.1,11.1,Dinner
+corn rice,110,25.2,1.8,0.3,200.0,0.4,0.02,Lunch
+kung pao chicken,779,41.5,59.0,42.2,2400.0,9.1,8.2,Snack
+beef empanada,298,27.8,10.1,16.3,400.0,1.8,4.6,Breakfast
+frijoles with cheese,225,28.7,11.4,7.8,900.0,0.0,4.1,Snack
+burrito with beef,285,43.9,9.1,8.1,500.0,4.4,1.7,Lunch
+crispy chicken sandwich,350,33.2,14.8,17.6,700.0,0.0,3.3,Lunch
+enchilada with cheese,374,21.2,15.4,25.3,700.0,2.6,11.5,Lunch
+pork egg roll,189,25.1,8.4,6.1,300.0,1.8,1.3,Breakfast
+corn on the cob with butter,155,31.9,4.5,3.4,56.0,0.0,1.6,Lunch
+pancakes with butter syrup,260,45.4,4.1,7.0,600.0,0.0,2.9,Breakfast
+burrito with beans,224,35.7,7.0,6.7,500.0,0.0,3.4,Lunch
+scrambled eggs,100,1.0,6.5,7.6,100.0,0.0,2.9,Snack
+baked potato with sour cream,393,50.0,6.7,22.3,200.0,0.0,10.0,Snack
+turkey and gravy,161,11.1,14.1,6.3,1300.0,0.0,2.0,Dinner
+chicken egg roll,158,22.8,8.4,3.6,400.0,1.9,0.8,Snack
+vegetable egg roll,153,25.0,5.2,3.6,400.0,2.2,0.6,Dinner
+ham cheese roll,67,1.1,3.8,5.2,300.0,0.0,2.0,Snack
+biscuit with ham,386,43.8,13.4,18.4,1100.0,0.8,11.4,Breakfast
+lemon chicken,1440,122.0,68.6,74.9,1500.0,7.0,12.2,Snack
+hummus,435,49.5,12.0,21.1,600.0,9.8,2.8,Dinner
+croissant with egg cheese,368,24.3,12.8,24.7,600.0,0.0,14.1,Dinner
+enchirito with cheese beef beans,344,33.8,17.9,16.1,1300.0,0.0,7.9,Lunch
+sweet sour pork,38,3.3,1.2,2.2,3.0,0.1,0.4,Breakfast
+crab cake,160,5.1,11.3,10.4,500.0,0.2,2.2,Snack
+egg dinner roll,107,18.2,3.3,2.2,200.0,1.3,0.6,Lunch
+english muffin with egg cheese sausage,472,28.8,22.1,29.9,800.0,0.3,11.4,Snack
+buttermilk pancakes,86,10.9,2.6,3.5,200.0,0.0,0.7,Snack
+omelet,94,0.4,6.4,7.1,13.0,0.0,2.0,Lunch
+taco with chicken cheese lettuce,185,19.3,13.0,6.2,600.0,1.2,2.5,Lunch
+spinach souffle,230,8.0,10.7,17.6,800.0,1.0,10.1,Lunch
+english muffin with cheese sausage,365,27.3,14.3,22.3,700.0,0.5,8.8,Lunch
+potato gratin,328,27.6,12.4,18.6,1100.0,4.4,11.6,Lunch
+biscuit with egg,436,35.4,17.4,25.3,1200.0,0.3,8.5,Snack
+french fries deep fried,222,29.4,2.4,10.5,100.0,2.7,1.7,Lunch
+sweet sour chicken,46,4.4,1.8,2.3,43.0,0.2,0.4,Breakfast
+burrito with beans beef,460,47.0,27.8,18.0,1400.0,7.2,7.0,Dinner
+nachos with cinnamon sugar,592,63.4,7.2,36.0,400.0,0.0,18.2,Lunch
+arroz con grandules,209,35.4,4.0,5.7,700.0,1.6,0.9,Lunch
+chili con carne,271,33.1,14.7,8.8,1100.0,8.3,3.2,Snack
+arroz con abichuelas,223,37.3,6.2,5.4,600.0,4.1,0.8,Lunch
+biscuit with sausage,412,33.3,10.7,27.1,900.0,0.4,8.2,Lunch
+vegetarian stew,304,17.3,42.0,7.4,1000.0,2.7,1.2,Lunch
+chicken sandwich with cheese,632,41.6,29.4,38.8,1200.0,0.0,12.4,Snack
+biscuit with egg steak,410,21.3,17.9,28.4,900.0,0.0,8.6,Lunch
+taco salad,212,17.9,10.0,11.2,600.0,0.0,5.2,Dinner
+succotash,213,46.8,9.7,1.5,500.0,0.0,0.3,Snack
+nachos with cheese jalapeno peppers,608,60.1,16.8,34.1,1700.0,0.0,14.0,Dinner
+biscuit with egg ham,442,31.4,20.4,27.0,1400.0,0.8,5.9,Snack
+ladyfingers,103,16.9,3.0,2.6,16.0,0.3,0.9,Lunch
+mozzarella steak fried,102,7.7,4.6,5.9,200.0,0.6,2.2,Dinner
+tamale navajo,285,33.7,11.7,11.4,800.0,5.8,4.5,Snack
+blueberry pancakes,84,11.0,2.3,3.5,200.0,0.0,0.8,Breakfast
+chimichanga with beef cheese,443,39.3,20.1,23.4,1000.0,0.0,11.2,Lunch
+egg cheese sandwich,340,25.9,15.6,19.4,800.0,0.0,6.6,Snack
+biscuit with egg bacon,458,28.6,17.0,31.1,1300.0,0.8,8.0,Breakfast
+pupusas con queso,300,26.2,13.7,15.5,500.0,3.4,7.6,Snack
+apple croissant,145,21.1,4.2,5.0,200.0,1.4,2.8,Breakfast
+refried red beans,336,36.0,11.7,16.1,900.0,11.0,2.2,Lunch
+tostada with guacamole,180,16.0,6.2,11.6,400.0,0.0,4.9,Dinner
+chicken sandwich,468,39.1,30.4,20.9,1400.0,2.6,4.0,Breakfast
+fried rice,228,43.4,6.5,3.2,600.0,1.5,0.7,Snack
+pupusas del cerdo,283,28.1,14.0,12.7,500.0,3.2,3.9,Lunch
+turkey pot pie,699,70.3,25.8,34.9,1400.0,4.4,11.4,Breakfast
+cheese croissant,331,37.6,7.4,16.7,300.0,2.1,8.5,Snack
+chimichanga with beef,425,42.8,19.6,19.7,900.0,0.0,8.5,Snack
+french toast with butter,178,18.0,5.2,9.4,300.0,0.0,3.9,Snack
+ham egg cheese sandwich,347,30.9,19.2,16.3,1000.0,0.0,7.4,Breakfast
+english muffin with butter,189,30.4,4.9,5.8,400.0,0.0,2.4,Breakfast
+savoury noodle one pan dinner tandaco,172,5.5,0.0,1.2,0.0,0.0,0.5,Breakfast
+ham cheese sandwich,352,33.3,20.7,15.5,800.0,0.0,6.4,Dinner
+sweet gefilte fish,35,3.1,3.8,0.7,200.0,0.0,0.2,Breakfast
+poached egg,72,0.4,6.3,4.7,100.0,0.0,1.6,Breakfast
+tostada with beef cheese,315,22.8,19.0,16.3,900.0,0.0,10.4,Breakfast
+tostada with beans cheese,223,26.5,9.6,9.9,500.0,0.0,5.4,Dinner
+pork tamale,247,22.4,10.4,12.8,700.0,3.4,3.8,Breakfast
+nachos with cheese,274,27.9,3.5,17.2,300.0,2.6,1.7,Snack
+pulled pork in barbecue sauce,418,46.7,32.8,11.0,1700.0,3.0,3.5,Breakfast
+baked potato with cheese sauce,474,46.5,14.6,28.7,400.0,0.0,10.6,Snack
+baked beans,310,43.3,11.1,10.3,800.0,11.0,3.9,Snack
+arroz con frijoles,220,35.6,6.8,5.6,600.0,5.0,1.1,Snack
+taco with beef cheese lettuce,156,13.7,6.1,8.8,300.0,2.7,3.0,Dinner
+burrito with beans cheese beef,165,19.8,7.3,6.6,500.0,0.0,3.6,Dinner
+egg mix,30,0.098,2.4,2.2,12.0,0.0,0.8,Dinner
+falafel,57,5.4,2.3,3.0,81.0,0.0,0.4,Breakfast
+taco salad with chili con carne,193,17.7,11.6,8.8,600.0,0.0,4.0,Snack
+wonton wrappers,93,18.5,3.1,0.5,200.0,0.6,0.022,Dinner
+hushpuppies,512,69.9,11.7,20.5,1000.0,4.3,3.2,Dinner
+chicken pot pie,598,57.3,14.6,34.6,1200.0,3.0,12.6,Breakfast
+general tsos chicken,1578,128.3,69.0,87.5,2300.0,4.8,14.8,Dinner
+burrito with beans cheese,379,57.8,13.6,11.2,1000.0,7.8,4.3,Breakfast
+vegetarian fillets,247,7.7,19.6,15.3,400.0,5.2,2.4,Lunch
+biscuit with egg sausage,505,34.1,18.0,33.6,1100.0,0.3,10.4,Dinner
+chicken chow mein,513,50.1,40.8,16.9,1900.0,6.0,3.0,Lunch
+fruit burrito,231,35.0,2.5,9.5,200.0,0.0,4.6,Breakfast
+arroz con leche,369,63.0,8.1,9.3,300.0,1.3,4.8,Snack
+caramel custard flan,444,69.7,13.9,12.3,200.0,0.0,5.5,Dinner
+gelatin dessert,167,38.3,3.3,0.0,200.0,0.0,0.0,Breakfast
+chocolate milk dessert,229,51.6,5.9,1.4,100.0,0.0,0.8,Snack
+chocolate mousse,338,24.1,6.2,24.0,81.0,0.9,13.7,Snack
+dulce de leche,60,10.5,1.3,1.4,36.0,0.0,0.9,Lunch
+apple crisp,454,87.0,4.9,9.7,1000.0,3.9,1.9,Breakfast
+spinach spaghetti cooked,182,36.6,6.4,0.9,61.0,0.0,0.1,Snack
+corn pasta cooked,176,39.1,3.7,1.0,0.0,6.7,0.1,Dinner
+spaghetti with meat sauce,255,43.1,14.3,2.9,700.0,5.1,1.0,Dinner
+pasta with meatballs in tomato sauce,273,28.3,10.6,13.0,700.0,6.9,5.0,Lunch
+cheese tortellini,332,50.8,14.6,7.8,400.0,2.1,3.9,Snack
+pasta with sliced franks in tomato sauce,227,32.0,11.0,6.0,700.0,4.0,2.5,Breakfast
+lasagna,166,18.9,9.0,6.1,500.0,2.1,2.9,Dinner
+macaroni cheese,310,43.7,12.6,9.4,900.0,2.3,3.1,Snack
+vegetable lasagna,316,32.2,15.6,13.7,1000.0,4.3,5.5,Snack
+spinach egg noodles cooked,211,38.8,8.1,2.5,68.0,3.7,0.6,Lunch
+cheese lasagna,316,33.6,15.9,13.0,700.0,4.1,5.1,Dinner
+pasta with tomato sauce,176,35.1,5.6,1.8,1000.0,2.3,0.4,Dinner
+spinach pasta cooked,37,7.1,1.4,0.3,4.0,0.0,0.078,Breakfast
+vegetable chicken soup,166,21.1,12.3,4.8,75.0,1.0,1.4,Dinner
+bean ham soup,198,33.5,10.3,2.5,500.0,9.8,0.6,Breakfast
+cream of chicken soup,227,18.0,6.0,14.5,1800.0,0.0,4.3,Dinner
+tomato soup canned,139,22.6,6.3,3.3,500.0,1.5,1.8,Lunch
+egg drop soup,65,10.3,2.8,1.5,900.0,1.0,0.4,Dinner
+scotch broth,197,23.0,12.1,6.4,2100.0,3.0,2.7,Breakfast
+cream of onion soup,268,31.7,6.7,12.8,1900.0,1.2,3.6,Breakfast
+chicken broth dry,10,1.1,0.7,0.2,1200.0,0.0,0.055,Lunch
+vegetable soup with beef broth,162,26.3,6.0,3.8,1300.0,3.2,0.9,Dinner
+chili with beans canned,287,30.5,14.6,14.1,1300.0,11.3,6.0,Dinner
+beef noodle soup,168,17.9,9.6,6.2,1600.0,1.5,2.3,Lunch
+consomme dry,17,1.9,2.2,0.2,800.0,0.0,0.0,Dinner
+chicken mushroom soup,126,15.1,2.0,6.1,800.0,4.0,1.6,Dinner
+beef vegetable soup,120,15.4,8.0,2.9,800.0,3.0,1.0,Breakfast
+black bean soup,234,39.6,12.4,3.4,2500.0,17.5,0.9,Dinner
+split pea soup with ham bacon,189,28.6,11.6,3.1,1000.0,4.1,0.9,Dinner
+cream of mushroom soup,199,17.1,3.4,13.4,1700.0,1.8,2.4,Lunch
+green pea soup,320,51.7,16.7,5.7,1700.0,10.0,2.7,Lunch
+chicken broth soup,78,1.9,11.1,2.6,1600.0,0.0,0.8,Snack
+chicken mushroom chowder soup,431,38.3,16.2,23.7,1800.0,7.5,6.2,Breakfast
+chicken dumplings soup,235,14.7,13.6,13.4,1800.0,1.2,3.2,Dinner
+chicken vegetable soup,148,17.0,7.1,5.6,1700.0,1.7,1.7,Dinner
+turkey vegetable soup,72,8.6,3.1,3.0,900.0,0.5,0.9,Snack
+wonton soup,71,11.7,4.6,0.6,900.0,0.4,0.1,Dinner
+beef stock,31,2.9,4.7,0.2,500.0,0.0,0.003,Breakfast
+mushroom barley soup,186,29.3,4.6,5.5,1700.0,0.0,1.1,Snack
+gazpacho soup,70,6.6,10.7,0.4,1100.0,0.7,0.008,Breakfast
+beef mushroom soup,186,15.9,14.0,7.3,2200.0,0.6,3.7,Snack
+chicken rice soup,127,13.0,12.3,3.2,900.0,1.0,1.0,Snack
+pepperpot soup,100,9.1,6.2,4.5,900.0,0.5,2.0,Lunch
+vegetable soup,149,24.6,4.3,4.0,1300.0,1.3,0.6,Breakfast
+chili beef soup,308,49.6,13.4,6.7,2100.0,6.6,3.3,Dinner
+chicken soup,174,16.9,12.4,6.5,900.0,1.5,1.9,Dinner
+bean with frankfurters soup,188,22.0,10.0,7.0,1100.0,0.0,2.1,Breakfast
+pea soup,161,25.6,8.3,2.8,15.0,4.9,1.4,Dinner
+turkey soup,135,14.1,10.2,4.4,900.0,0.0,1.2,Dinner
+stockpot soup,201,23.1,9.8,7.8,2100.0,0.0,1.7,Breakfast
+hot sour soup,91,10.1,6.0,2.8,900.0,1.2,0.5,Snack
+cheese soup,203,28.0,2.0,9.7,1700.0,5.5,6.1,Breakfast
+cream of potato soup,186,32.2,3.8,4.7,1500.0,3.3,2.4,Snack
+bean with bacon soup,106,16.4,5.5,2.1,900.0,9.0,1.0,Dinner
+fish stock,40,0.0,5.3,1.9,400.0,0.0,0.5,Dinner
+split pea soup with ham,381,56.2,20.7,8.9,1700.0,4.6,3.5,Dinner
+beef broth soup,17,0.01,2.7,0.5,900.0,0.0,0.3,Lunch
+lentil soup with ham,139,20.2,9.3,2.8,1300.0,0.0,1.1,Snack
+tomato soup,98,22.5,2.2,0.7,600.0,1.6,0.2,Lunch
+fish broth,39,1.0,4.9,1.5,500.0,0.0,0.3,Lunch
+chili without beans canned,283,14.6,18.1,17.0,900.0,0.0,5.4,Breakfast
+minestrone soup,167,22.6,8.6,5.0,1300.0,2.0,1.1,Lunch
+clam chowder soup,154,24.5,4.4,4.4,1800.0,3.0,0.8,Breakfast
+tomato vegetable soup,54,9.9,1.9,0.8,300.0,0.7,0.4,Breakfast
+cream of rice coup,127,28.1,2.2,0.2,400.0,0.2,0.07,Lunch
+cream of celery soup,181,17.7,3.3,11.2,1300.0,1.5,2.8,Snack
+chicken gravy,188,12.9,4.6,13.6,1000.0,1.0,3.4,Snack
+tomato rice soup,240,44.1,4.2,5.5,1600.0,3.4,1.0,Snack
+vegetable beef soup,128,9.6,18.1,2.0,1100.0,4.4,0.6,Snack
+tomato beef noodle soup,281,42.3,8.9,8.6,1800.0,3.0,3.2,Snack
+oyster stew soup,118,8.2,4.2,7.7,1800.0,0.0,5.0,Lunch
+ramen noodle soup dry,371,53.9,8.9,13.3,1700.0,2.0,6.4,Lunch
+chicken noodle soup,145,18.4,7.2,4.7,2100.0,2.7,1.2,Dinner
+chicken bouillon dry,11,0.7,0.7,0.6,1000.0,0.0,0.1,Snack
+cream of asparagus soup,174,21.5,4.6,8.2,1700.0,1.0,2.1,Lunch
+turkey noodle soup,139,17.3,7.8,4.0,1600.0,1.5,1.1,Dinner
+cream of shrimp soup,181,16.5,5.6,10.4,1700.0,0.5,6.5,Snack
+bean with pork soup,335,44.1,15.3,11.5,1700.0,15.3,3.0,Breakfast
+chicken broth,12,1.0,1.0,0.5,900.0,0.0,0.008,Dinner
+beef broth powder,8,0.6,0.6,0.3,900.0,0.0,0.2,Lunch
+split pea soup,180,29.9,9.7,2.3,400.0,4.8,0.8,Breakfast
+escarole soup,61,4.0,3.4,4.0,2300.0,0.0,1.2,Breakfast
+chicken stock,86,8.5,6.0,2.9,300.0,0.0,0.8,Breakfast
+tomato bisque soup,248,47.7,4.5,5.0,1800.0,2.1,1.1,Dinner
+shark fin soup,99,8.2,6.9,4.3,1100.0,0.0,1.1,Lunch
+onion soup,113,16.4,7.5,3.5,1300.0,1.7,0.5,Breakfast
+chicken gumbo soup,113,16.8,5.3,2.9,1700.0,4.0,0.7,Snack
+crab soup,95,12.5,10.4,0.8,600.0,2.4,0.2,Breakfast
+tripe soup,148,8.1,17.2,5.2,800.0,0.0,2.1,Breakfast
+little india little lunch,164,2.0,0.0,10.6,0.0,0.0,15.6,Dinner
+original chicken sandwich chick fil a,125,0.0,0.0,5.1,0.0,0.0,11.6,Dinner
+sausage mcmuffin mcdonalds,383,28.2,14.6,24.2,800.0,1.6,8.3,Lunch
+sausage mcgriddles mcdonalds,421,42.2,11.4,24.0,1000.0,1.4,7.3,Snack
+crispy chicken drumstick kentucky fried chicken,70,0.0,10.6,3.0,200.0,0.0,0.8,Dinner
+chicken crispy drumsticks kentucky fried chicken,156,4.5,11.8,10.1,400.0,0.0,2.2,Breakfast
+biscuit kentucky fried chicken,185,22.1,3.8,9.1,500.0,0.8,2.2,Lunch
+english muffin mcdonalds,97,2.9,5.7,2.3,31.0,0.2,1.1,Breakfast
+french fries mcdonalds,378,49.8,4.0,18.1,200.0,4.6,2.7,Breakfast
+hotdog,383,28.5,16.4,23.0,1100.0,0.0,8.1,Dinner
+french fries burger king,207,28.6,2.4,9.2,200.0,2.1,1.6,Lunch
+original taco with beef cheese lettuce taco bell,158,13.7,6.1,8.8,300.0,2.7,3.0,Snack
+hotdog with chili,296,31.3,13.5,13.4,500.0,0.0,4.9,Snack
+chicken crispy wings kentucky fried chicken,148,5.1,9.2,10.1,300.0,0.0,2.1,Dinner
+egg white delight mcdonalds,250,0.0,0.0,16.0,0.0,0.0,4.0,Dinner
+french toast sticks burger king,73,8.7,1.3,3.7,14.0,0.3,0.8,Lunch
+mcchicken mcdonalds,358,36.6,13.7,17.3,800.0,1.7,3.1,Snack
+nachos supreme taco bell,480,45.0,14.8,26.6,800.0,8.0,7.8,Snack
+crispy chicken wing kentucky fried chicken,104,1.3,12.6,5.3,300.0,0.0,1.1,Snack
+chicken strips burger king,105,7.4,6.6,5.5,300.0,0.5,1.0,Breakfast
+crispy chicken breast kentucky fried chicken,214,0.4,38.2,6.7,700.0,0.0,1.7,Snack
+sausage biscuit mcdonalds,440,31.8,11.3,29.7,1000.0,1.4,12.5,Breakfast
+sausage burrito mcdonalds,339,24.2,13.0,17.1,800.0,1.2,6.1,Lunch
+onion rings fried,27,2.8,0.3,1.6,15.0,0.2,0.3,Breakfast
+onion rings burger king,379,39.7,3.5,23.0,700.0,2.5,3.8,Lunch
+turkey patty fried,79,4.4,3.9,5.0,200.0,0.1,1.3,Snack
+hotcakes with syrup mcdonalds,601,101.8,9.0,17.8,600.0,2.0,1.8,Snack
+crispy chicken thigh kentucky fried chicken,163,0.0,20.4,9.1,500.0,0.0,2.5,Lunch
+corn dog,195,21.0,6.7,9.4,500.0,0.8,2.7,Dinner
+chicken box mcdonalds,70,5.5,0.2,4.0,0.0,0.0,0.8,Lunch
+potato wedges kentucky fried chicken,379,45.0,5.4,19.8,1000.0,4.2,4.0,Dinner
+scrambled eggs mcdonalds,98,0.9,7.7,7.5,40.0,0.0,2.1,Breakfast
+egg mcmuffin mcdonalds,287,27.3,17.2,12.2,800.0,1.4,4.5,Breakfast
+nachos taco bell,362,36.0,5.1,21.9,500.0,3.8,4.7,Breakfast
+biscuit large mcdonalds,310,39.4,5.5,14.4,900.0,1.8,8.3,Snack
+crispy chicken strips kentucky fried chicken,129,6.4,9.5,7.2,400.0,0.7,1.4,Breakfast
+hotcakes mcdonalds,113,19.0,3.0,2.9,200.0,0.7,0.6,Dinner
+chicken crispy breast kentucky fried chicken,375,11.9,29.7,23.2,800.0,0.0,5.0,Breakfast
+hotcakes sausage mcdonalds,776,102.4,15.5,34.9,900.0,2.1,7.3,Lunch
+chicken mcnuggets mcdonalds,48,2.4,2.5,3.2,9.0,0.0,0.5,Lunch
+chips chipotle,151,2.1,0.2,7.1,0.0,0.0,0.9,Snack
+biscuit mcdonalds,261,33.3,4.7,12.2,700.0,1.5,7.0,Lunch
+rice bowl with chicken,36,6.4,1.6,0.4,64.0,0.2,0.01,Dinner
+spaghetti with meatballs,200,22.9,8.7,8.2,600.0,5.4,2.9,Breakfast
+meat ravioli canned,259,36.0,8.9,8.9,900.0,4.2,3.7,Snack
+cheese ravioli canned,186,33.0,6.0,3.5,700.0,3.1,1.7,Breakfast
+premium crispy chicken ranch blt sandwich mcdonalds,586,59.8,35.3,22.9,1200.0,3.4,4.7,Breakfast
+steak sandwich,459,52.0,30.3,14.1,800.0,0.0,3.8,Dinner
+cheeseburger burger king,380,31.5,19.4,19.7,800.0,3.7,9.1,Lunch
+cheeseburger mcdonalds,313,33.1,15.4,14.0,700.0,1.3,5.3,Lunch
+double cheeseburger,643,41.0,37.0,36.9,900.0,2.1,15.9,Breakfast
+double hamburger,942,51.4,52.1,58.6,1100.0,5.2,21.6,Snack
+premium grilled chicken classic sandwich mcdonalds,366,44.6,28.3,8.6,800.0,2.8,1.7,Lunch
+big n tasty with cheese mcdonalds,573,39.7,27.2,36.0,1000.0,3.2,10.8,Snack
+premium grilled chicken club sandwich mcdonalds,493,44.3,38.3,18.0,1000.0,2.7,6.4,Lunch
+quarter pounder mcdonalds,417,37.9,24.1,19.8,700.0,2.7,6.9,Snack
+premium crispy chicken classic sandwich mcdonalds,524,58.6,27.8,20.0,1000.0,3.2,3.2,Dinner
+veggie burger,124,10.0,11.0,4.4,400.0,3.4,1.0,Snack
+quarter pounder with cheese mcdonalds,513,39.7,29.0,28.3,1200.0,2.8,11.2,Dinner
+beef sandwich steak raw,173,0.0,9.2,15.1,43.0,0.0,6.5,Dinner
+cheeseburger,292,28.7,15.0,13.2,600.0,1.6,6.0,Snack
+premium grilled chicken ranch blt sandwich mcdonalds,412,44.3,33.7,10.9,1000.0,2.8,3.0,Dinner
+double whopper with cheese burger king,1061,53.9,57.7,68.1,1500.0,6.4,27.9,Breakfast
+big mac mcdonalds,563,44.0,25.9,32.8,1000.0,3.5,8.3,Dinner
+sandwich with cold cuts,833,79.9,41.1,39.3,2200.0,4.7,13.9,Lunch
+filet o fish mcdonalds,378,35.4,15.1,19.6,600.0,1.9,3.8,Snack
+hand breaded chicken tenders carls jr,57,0.2,0.0,2.9,0.0,0.0,0.6,Breakfast
+grilled chicken sandwich wendys,370,0.0,0.0,8.0,0.0,0.0,42.0,Snack
+sandwich with roast beef,410,44.3,28.6,13.0,800.0,0.0,7.1,Lunch
+hamburger burger king,258,26.5,14.7,10.4,500.0,2.0,3.8,Lunch
+big n tasty mcdonalds,524,38.5,24.7,31.7,700.0,3.2,8.6,Lunch
+roast beef sandwich,364,33.1,22.6,15.3,1000.0,1.9,5.1,Dinner
+roast beef sandwich with cheese,473,45.4,32.2,18.0,1600.0,0.0,9.0,Dinner
+hamburger,255,28.7,12.9,9.9,500.0,1.7,3.5,Snack
+premium fish sandwich burger king,572,58.7,22.6,27.4,1300.0,2.0,4.3,Snack
+whopper burger king,790,52.8,35.4,48.4,1400.0,3.2,18.3,Breakfast
+sandwich with tuna salad,584,55.4,29.7,28.0,1300.0,0.0,5.3,Breakfast
+original chicken sandwich burger king,569,52.2,24.2,29.2,1300.0,4.8,5.4,Snack
+double whopper burger king,942,51.4,52.1,58.6,1100.0,5.2,21.6,Dinner
+premium crispy chicken club sandwich mcdonalds,635,57.4,39.1,29.9,1200.0,3.0,8.5,Lunch
+hamburger mcdonalds,251,28.8,12.3,9.6,500.0,1.2,3.3,Snack
+pepperoni pizza dominos,308,36.0,12.7,12.6,700.0,2.4,5.4,Breakfast
+sausage pizza,325,35.5,13.3,14.3,700.0,2.7,5.8,Dinner
+pepperoni pizza,313,35.5,13.0,13.2,800.0,2.6,5.7,Snack
+pepperoni pizza pizza hut,269,30.3,12.3,10.9,800.0,1.6,5.0,Snack
+cheese pizza pizza hut,260,30.0,11.5,10.5,700.0,1.7,4.8,Dinner
+cheese pizza,285,35.7,12.2,10.4,600.0,2.5,4.8,Snack
+cheese pizza dominos,278,35.9,11.7,9.7,600.0,2.4,4.4,Dinner
+meat vegetable pizza,332,34.5,15.0,14.8,800.0,3.0,6.0,Lunch
+sucker raw,146,0.0,26.6,3.7,0.0,0.0,0.7,Dinner
+northern pike raw,348,0.0,76.3,2.7,200.0,0.0,0.5,Dinner
+haddock cooked,135,0.0,30.0,0.8,400.0,0.0,0.2,Dinner
+burbot cooked,104,0.0,22.3,0.9,100.0,0.0,0.2,Snack
+pollock cooked,356,0.0,75.3,3.8,300.0,0.0,0.5,Snack
+rainbow smelt raw,27,0.0,5.0,0.7,19.0,0.0,0.1,Dinner
+whitefish cooked,265,0.0,37.7,11.6,100.0,0.0,1.8,Snack
+walleye pike raw,148,0.0,30.4,1.9,11.0,0.0,0.4,Breakfast
+carp cooked,275,0.0,38.9,12.2,100.0,0.0,2.4,Breakfast
+wolffish cooked,293,0.0,53.4,7.3,300.0,0.0,1.1,Snack
+snapper cooked,218,0.0,44.7,2.9,66.0,0.0,0.6,Snack
+roe cooked,58,0.5,8.1,2.3,55.0,0.0,0.5,Dinner
+anchovy raw,37,0.0,5.8,1.4,12.0,0.0,0.4,Lunch
+herring raw,291,0.0,33.0,16.6,200.0,0.0,3.8,Snack
+cod raw,189,0.0,41.1,1.5,100.0,0.0,0.3,Breakfast
+tilapia raw,111,0.0,23.3,2.0,9.0,0.0,0.7,Dinner
+whiting cooked,84,0.0,16.9,1.2,18.0,0.0,0.3,Snack
+skipjack tuna cooked,407,0.0,86.9,4.0,100.0,0.0,1.3,Breakfast
+salmon cooked,733,0.0,78.7,44.0,200.0,0.0,8.5,Breakfast
+chum salmon cooked,474,0.0,79.5,14.9,200.0,0.0,3.3,Lunch
+american shad cooked,363,0.0,31.3,25.4,43.0,0.0,0.0,Dinner
+shark cooked,65,1.8,5.3,3.9,68.0,0.0,0.9,Dinner
+trout cooked,118,0.0,16.5,5.3,27.0,0.0,0.9,Lunch
+swordfish raw,196,0.0,26.7,9.0,100.0,0.0,2.2,Lunch
+rainbow trout cooked,119,0.0,16.9,5.2,41.0,0.0,1.2,Dinner
+fish sandwich with cheese,374,35.4,15.1,19.6,600.0,0.0,3.8,Dinner
+jellyfish dried,21,0.0,3.2,0.8,5600.0,0.0,0.2,Snack
+mullet raw,139,0.0,23.0,4.5,98.0,0.0,1.3,Snack
+halibut cooked,353,0.0,71.7,5.1,300.0,0.0,1.1,Lunch
+lingcod raw,213,0.0,44.2,2.7,100.0,0.0,0.5,Snack
+orange roughy cooked,30,0.0,6.4,0.3,79.0,0.0,0.046,Breakfast
+cisco raw,77,0.0,15.0,1.5,42.0,0.0,0.3,Snack
+florida pompano cooked,186,0.0,20.8,10.7,50.0,0.0,4.0,Snack
+snapper raw,218,0.0,44.7,2.9,100.0,0.0,0.6,Breakfast
+fish sandwich,565,58.7,22.6,27.4,1300.0,0.0,4.3,Lunch
+haddock raw,143,0.0,31.5,0.9,400.0,0.0,0.2,Breakfast
+ocean perch raw,51,0.0,9.8,1.0,200.0,0.0,0.2,Snack
+cuttlefish cooked,45,0.5,9.2,0.4,200.0,0.0,0.08,Lunch
+cod cooked,189,0.0,41.1,1.5,100.0,0.0,0.3,Snack
+seatrout raw,248,0.0,39.8,8.6,100.0,0.0,2.4,Breakfast
+flounder raw,114,0.0,20.2,3.1,500.0,0.0,0.7,Breakfast
+spot cooked,79,0.0,11.9,3.1,22.0,0.0,0.9,Snack
+walleye pike cooked,148,0.0,30.4,1.9,69.0,0.0,0.4,Dinner
+perch raw,55,0.0,11.6,0.6,37.0,0.0,0.1,Dinner
+pumpkin seed sunfish raw,43,0.0,9.3,0.3,60.0,0.0,0.051,Breakfast
+salt mackerel,415,0.0,25.2,34.1,6100.0,0.0,9.7,Breakfast
+mackerel cooked,231,0.0,21.0,15.7,64.0,0.0,3.7,Dinner
+tilapia cooked,111,0.0,22.8,2.3,11.0,0.0,0.8,Dinner
+drum raw,236,0.0,34.7,9.8,100.0,0.0,2.2,Snack
+atlantic croaker fried,192,6.6,15.8,11.0,300.0,0.3,3.0,Snack
+pumpkin seed sunfish cooked,42,0.0,9.2,0.3,46.0,0.0,0.025,Dinner
+wolffish raw,294,0.0,53.6,7.3,300.0,0.0,1.1,Snack
+bluefin tuna cooked,276,0.0,44.9,9.4,20.0,0.0,2.4,Snack
+scup cooked,68,0.0,12.1,1.8,61.0,0.0,0.0,Lunch
+herring cooked,290,0.0,32.9,16.6,200.0,0.0,3.7,Snack
+bluefish raw,186,0.0,30.1,6.4,28.0,0.0,1.4,Breakfast
+sheepshead cooked,234,0.0,48.4,3.0,100.0,0.0,0.7,Snack
+bass cooked,91,0.0,15.0,2.9,78.0,0.0,0.6,Snack
+pout cooked,279,0.0,58.4,3.2,200.0,0.0,1.1,Dinner
+chinook salmon raw,709,0.0,78.9,41.3,200.0,0.0,12.3,Breakfast
+rockfish raw,172,0.0,35.1,2.6,100.0,0.0,0.7,Snack
+tilefish raw,371,0.0,67.6,8.9,200.0,0.0,1.7,Snack
+scup raw,174,0.0,31.3,4.5,82.0,0.0,1.1,Lunch
+sablefish cooked,755,0.0,51.9,59.3,200.0,0.0,12.4,Snack
+tuna salad,383,19.3,32.9,19.0,800.0,0.0,3.2,Snack
+coho salmon cooked,255,0.0,34.7,11.8,60.0,0.0,2.8,Lunch
+roe raw,20,0.2,3.1,0.9,52.0,0.0,0.2,Dinner
+sea bass raw,125,0.0,23.8,2.6,84.0,0.0,0.7,Snack
+pink salmon cooked,349,0.0,56.0,12.0,200.0,0.0,2.2,Lunch
+sockeye salmon cooked,493,0.0,82.1,17.3,300.0,0.0,3.0,Breakfast
+whitefish raw,265,0.0,37.8,11.6,100.0,0.0,1.8,Dinner
+greenland halibut cooked,760,0.0,58.6,56.4,300.0,0.0,9.9,Breakfast
+northern pike cooked,350,0.0,76.5,2.7,200.0,0.0,0.5,Breakfast
+salmon raw,824,0.0,80.9,53.1,200.0,0.0,12.1,Lunch
+turbot cooked,388,0.0,65.4,12.0,600.0,0.0,0.0,Snack
+surimi,28,1.9,4.3,0.3,42.0,0.0,0.059,Lunch
+chinook salmon cooked,711,0.0,79.2,41.2,200.0,0.0,9.9,Lunch
+mullet cooked,140,0.0,23.1,4.5,1.0,0.0,1.3,Lunch
+chum salmon raw,3,0.0,0.6,0.1,29.0,0.0,0.08,Lunch
+butterfish raw,47,0.0,5.5,2.6,72.0,0.0,1.1,Dinner
+sea bass cooked,125,0.0,23.9,2.6,58.0,0.0,0.7,Snack
+greenland halibut raw,759,0.0,58.6,56.5,300.0,0.0,9.9,Breakfast
+halibut raw,371,0.0,75.7,5.4,300.0,0.0,1.2,Breakfast
+sturgeon cooked,184,0.0,28.2,7.0,19.0,0.0,1.6,Snack
+fish fillet fried,211,15.4,13.3,11.2,500.0,0.5,2.6,Breakfast
+rainbow trout raw,111,0.0,15.8,4.9,22.0,0.0,1.1,Snack
+pout raw,278,0.0,58.6,3.2,200.0,0.0,1.1,Breakfast
+rainbow smelt cooked,35,0.0,6.4,0.9,47.0,0.0,0.2,Lunch
+monkfish raw,22,0.0,4.1,0.4,59.0,0.0,0.079,Breakfast
+trout raw,117,0.0,16.4,5.2,51.0,0.0,0.9,Snack
+shark raw,37,0.0,5.9,1.3,3.0,0.0,0.3,Snack
+burbot raw,104,0.0,22.4,0.9,100.0,0.0,0.2,Snack
+dolphinfish cooked,173,0.0,37.7,1.4,200.0,0.0,0.4,Snack
+crayfish cooked,25,0.0,5.0,0.4,58.0,0.0,0.089,Snack
+dolphinfish raw,173,0.0,37.7,1.4,200.0,0.0,0.4,Dinner
+perch cooked,54,0.0,11.4,0.5,43.0,0.0,0.1,Dinner
+cusk raw,106,0.0,23.2,0.8,86.0,0.0,0.2,Breakfast
+bluefin tuna raw,41,0.0,6.6,1.4,13.0,0.0,0.4,Snack
+milkfish cooked,54,0.0,7.4,2.4,76.0,0.0,0.0,Breakfast
+carp raw,277,0.0,38.9,12.2,100.0,0.0,2.4,Snack
+sturgeon raw,30,0.0,4.6,1.1,7.0,0.0,0.3,Snack
+orange roughy raw,22,0.0,4.6,0.2,63.0,0.0,0.057,Dinner
+catfish fried,199,7.0,15.7,11.6,200.0,0.6,2.9,Dinner
+cuttlefish raw,22,0.2,4.6,0.2,100.0,0.0,0.002,Lunch
+bass raw,90,0.0,14.9,2.9,55.0,0.0,0.6,Dinner
+flounder cooked,109,0.0,19.4,3.0,500.0,0.0,0.7,Lunch
+milkfish raw,42,0.0,5.8,1.9,98.0,0.0,0.5,Lunch
+eel raw,375,0.0,37.6,23.8,100.0,0.0,4.8,Lunch
+catfish raw,189,0.0,24.2,9.4,200.0,0.0,2.1,Lunch
+fish sticks,78,6.1,3.1,4.5,100.0,0.4,1.0,Lunch
+coho salmon raw,254,0.0,33.8,12.2,54.0,0.0,2.9,Breakfast
+monkfish cooked,27,0.0,5.3,0.6,4.0,0.0,0.0,Dinner
+yellowtail cooked,546,0.0,86.6,19.6,100.0,0.0,0.0,Lunch
+yellowfin tuna cooked,37,0.0,8.2,0.2,11.0,0.0,0.054,Snack
+ling cooked,168,0.0,36.8,1.2,300.0,0.0,0.0,Dinner
+eel cooked,67,0.0,6.7,4.2,69.0,0.0,0.9,Dinner
+sablefish raw,753,0.0,51.8,59.1,200.0,0.0,12.4,Lunch
+salmon nuggets,60,4.0,3.6,3.3,5.0,0.0,0.4,Breakfast
+yellowtail raw,546,0.0,86.5,19.6,100.0,0.0,4.8,Lunch
+butterfish cooked,47,0.0,5.5,2.6,42.0,0.0,0.0,Breakfast
+caviar,42,0.6,3.9,2.9,200.0,0.0,0.6,Snack
+pollock raw,355,0.0,75.0,3.8,300.0,0.0,0.5,Dinner
+catfish cooked,206,0.0,26.4,10.3,200.0,0.0,2.3,Snack
+whiting raw,83,0.0,16.8,1.2,16.0,0.0,0.2,Breakfast
+pink salmon raw,404,0.0,65.2,14.0,200.0,0.0,2.6,Breakfast
+yellowfin tuna raw,31,0.0,6.9,0.1,49.0,0.0,0.073,Snack
+mackerel raw,230,0.0,20.8,15.6,100.0,0.0,3.6,Breakfast
+turbot raw,388,0.0,65.5,12.0,600.0,0.0,3.1,Snack
+cusk cooked,106,0.0,23.1,0.8,47.0,0.0,0.0,Dinner
+atlantic croaker raw,82,0.0,14.0,2.5,14.0,0.0,0.9,Snack
+sucker cooked,148,0.0,26.6,3.7,19.0,0.0,0.7,Dinner
+spot raw,79,0.0,11.8,3.1,22.0,0.0,0.9,Snack
+drum cooked,236,0.0,34.6,9.7,100.0,0.0,2.2,Breakfast
+crayfish raw,3,0.0,0.6,0.048,24.0,0.0,0.01,Snack
+tilefish cooked,441,0.0,73.5,14.1,200.0,0.0,2.6,Breakfast
+bluefish cooked,186,0.0,30.1,6.4,45.0,0.0,1.4,Snack
+grouper cooked,238,0.0,50.2,2.6,100.0,0.0,0.6,Snack
+sheepshead raw,257,0.0,48.1,5.7,200.0,0.0,1.4,Lunch
+herring kippered,87,0.0,9.8,4.9,400.0,0.0,1.1,Breakfast
+grouper raw,238,0.0,50.2,2.6,100.0,0.0,0.6,Lunch
+ocean perch cooked,48,0.0,9.3,0.9,200.0,0.0,0.2,Breakfast
+ling raw,168,0.0,36.7,1.2,300.0,0.0,0.2,Lunch
+lingcod cooked,329,0.0,68.4,4.1,200.0,0.0,0.8,Dinner
+florida pompano raw,184,0.0,20.7,10.6,81.0,0.0,3.9,Snack
+rockfish cooked,162,0.0,33.1,2.4,100.0,0.0,0.6,Breakfast
+seatrout cooked,247,0.0,39.9,8.6,100.0,0.0,2.4,Breakfast
+sockeye salmon raw,562,0.0,84.4,22.2,400.0,0.0,4.7,Snack
+swordfish cooked,182,0.0,24.9,8.4,100.0,0.0,2.0,Breakfast
+american shad raw,362,0.0,31.2,25.3,1.0,0.0,5.8,Breakfast
+sardine canned in oil,310,0.0,36.7,17.1,500.0,0.0,2.3,Lunch
+anchovy canned in oil,8,0.0,1.2,0.4,100.0,0.0,0.001,Breakfast
+salmon canned,520,0.0,79.1,20.3,1800.0,0.0,5.5,Dinner
+sardines in tomato sauce canned,165,0.5,18.6,9.3,400.0,0.009,2.4,Dinner
+sockeye salmon canned,563,0.0,79.5,24.9,1400.0,0.0,4.9,Snack
+tuna canned,102,0.0,18.9,2.4,300.0,0.0,0.6,Breakfast
+pink salmon canned,530,0.0,80.9,20.4,1700.0,0.0,3.5,Snack
+cod canned,328,0.0,71.0,2.7,700.0,0.0,0.5,Dinner
+eastern oyster canned,110,6.3,11.4,4.0,200.0,0.0,1.0,Breakfast
+chum salmon canned,520,0.0,79.1,20.3,300.0,0.0,5.5,Breakfast
+tuna canned in oil,331,0.0,47.2,14.4,700.0,0.0,2.3,Snack
+wild pink salmon oceans,320,0.0,0.0,16.0,0.0,0.0,0.0,Dinner
+shrimp canned,128,0.0,26.1,1.7,1100.0,0.0,0.2,Breakfast
+alaska king crab raw,144,0.0,31.5,1.0,1400.0,0.0,0.2,Snack
+scallops fried,64,6.4,2.6,3.2,200.0,0.0,0.8,Dinner
+shrimp cooked,7,0.013,1.3,0.092,12.0,0.0,0.023,Snack
+clams fried,19,1.0,1.3,1.0,68.0,0.0,0.3,Lunch
+alaska king crab cooked,130,0.0,25.9,2.1,1400.0,0.0,0.2,Breakfast
+scallops cooked,11,0.5,2.1,0.058,60.0,0.0,0.092,Lunch
+squid fried,140,6.2,14.4,6.0,200.0,0.0,1.5,Dinner
+oyster raw,41,2.5,4.7,1.2,59.0,0.0,0.3,Lunch
+abalone,89,5.1,14.5,0.6,300.0,0.0,0.1,Lunch
+queen crab raw,25,0.0,5.2,0.3,200.0,0.0,0.096,Dinner
+whelk cooked,78,4.4,13.5,0.2,100.0,0.0,0.003,Snack
+oyster cooked,41,2.5,4.7,1.2,66.0,0.0,0.3,Lunch
+eastern oyster cooked,8,0.7,0.7,0.2,38.0,0.0,0.073,Snack
+blue mussels cooked,344,14.8,47.6,9.0,700.0,0.0,1.7,Lunch
+octopus raw,23,0.6,4.2,0.3,64.0,0.0,0.002,Snack
+spiny lobster cooked,233,5.1,43.0,3.2,400.0,0.0,0.5,Dinner
+blue mussels raw,129,5.5,17.9,3.4,400.0,0.0,0.6,Lunch
+queen crab cooked,98,0.0,20.2,1.3,600.0,0.0,0.2,Dinner
+dungeness crab cooked,140,1.2,28.3,1.6,500.0,0.0,0.2,Lunch
+dungeness crab raw,140,1.2,28.4,1.6,500.0,0.0,0.2,Dinner
+shrimp fried,52,4.8,1.3,3.2,200.0,0.1,0.7,Dinner
+shrimp raw,4,0.041,0.7,0.023,83.0,0.0,0.061,Lunch
+blue crab cooked,71,0.0,15.2,0.6,300.0,0.0,0.2,Lunch
+shrimp imitation,29,2.6,3.5,0.4,200.0,0.0,0.019,Lunch
+conch baked,165,2.2,33.4,1.5,200.0,0.0,0.5,Breakfast
+squid raw,26,0.9,4.4,0.4,90.0,0.0,0.1,Snack
+scallop raw,10,0.5,1.8,0.091,57.0,0.0,0.089,Breakfast
+lobster raw,116,0.0,24.8,1.1,600.0,0.0,0.3,Breakfast
+scallop imitation,28,3.0,3.6,0.1,200.0,0.0,0.065,Dinner
+blue crab raw,18,0.018,3.8,0.2,79.0,0.0,0.067,Lunch
+whelk raw,39,2.2,6.7,0.1,73.0,0.0,0.096,Snack
+spiny lobster raw,234,5.1,43.1,3.2,400.0,0.0,0.5,Dinner
+clams canned,227,9.4,38.8,2.5,200.0,0.0,0.5,Breakfast
+lobster cooked,134,0.0,28.5,1.3,700.0,0.0,0.3,Lunch
+eastern oyster fried,29,1.7,1.3,1.8,15.0,0.0,0.5,Dinner
+clams raw,195,8.1,33.3,2.2,1400.0,0.0,0.4,Lunch
+octopus cooked,139,3.7,25.3,1.8,400.0,0.0,0.4,Dinner
+eastern oyster raw,8,0.8,0.7,0.2,21.0,0.0,0.0,Lunch
+oyster fried,61,6.7,2.1,3.0,100.0,0.0,0.8,Breakfast
+sturgeon smoked,49,0.0,8.8,1.2,200.0,0.0,0.3,Snack
+chinook salmon smoked,159,0.0,24.9,5.9,1100.0,0.0,1.3,Breakfast
+cisco smoked,50,0.0,4.6,3.4,100.0,0.0,0.5,Snack
+haddock smoked,33,0.0,7.1,0.3,200.0,0.0,0.049,Lunch
+whitefish smoked,147,0.0,31.8,1.3,1400.0,0.0,0.3,Dinner
+red salmon sockeye filets smoked,373,0.0,65.5,12.3,65.0,0.0,2.8,Breakfast
+eggnog,224,20.4,11.6,10.6,100.0,0.0,6.6,Snack
+beer light,96,5.4,0.8,0.0,95.0,0.0,0.0,Breakfast
+beer budweiser,12,0.9,0.1,0.0,95.0,0.0,0.0,Snack
+weizenbier erdinger,220,0.0,0.0,18.0,0.0,0.0,13.0,Breakfast
+beer light budweiser,9,0.4,0.066,0.0,16.0,0.0,0.0,Snack
+beer,142,11.7,1.5,0.0,67.0,0.0,0.0,Snack
+root beer,202,52.3,0.0,0.0,68.0,0.0,0.0,Lunch
+whiskey sour mix,26,6.3,0.051,0.072,73.0,0.0,0.069,Snack
+whiskey sour,158,13.9,0.0,0.0,67.0,0.0,0.018,Lunch
+tequila sunrise,232,23.8,0.6,0.2,100.0,0.0,0.0,Snack
+daiquiri,112,4.2,0.035,0.036,8.0,0.001,0.063,Dinner
+pina colada,245,32.0,0.6,2.7,89.0,0.4,2.3,Dinner
+whiskey,58,0.1,0.0,0.0,0.0,0.0,0.0,Dinner
+rum,49,0.0,0.0,0.0,53.0,0.0,0.0,Snack
+vodka smirnoff,13,2.0,0.0,0.4,0.0,0.0,0.013,Lunch
+coffee liqueur,96,13.8,0.041,0.038,93.0,0.0,0.096,Lunch
+gin,53,0.0,0.0,0.0,29.0,0.0,0.0,Snack
+dessert wine sweet,165,14.1,0.2,0.0,47.0,0.0,0.0,Dinner
+chenin blanc white wine,118,4.9,0.1,0.0,0.0,0.0,0.0,Dinner
+gamay red wine,115,3.5,0.1,0.0,0.0,14.4,0.0,Lunch
+late harvest white wine,172,20.6,0.1,0.0,0.0,13.1,0.0,Dinner
+gewurztraminer white wine,119,3.8,0.1,0.0,0.0,0.0,0.0,Breakfast
+burgundy red wine,172,7.4,0.1,0.0,0.0,0.0,0.0,Lunch
+zinfandel red wine,129,4.2,0.1,0.0,0.0,0.0,0.0,Dinner
+muller thurgau white wine,112,5.2,0.1,0.0,0.0,13.3,0.0,Lunch
+mouvedre red wine,129,3.9,0.1,0.0,0.0,16.5,0.0,Breakfast
+table wine,123,4.0,0.1,0.0,87.0,0.0,0.0,Lunch
+wine light,73,1.7,0.1,0.0,46.0,0.0,0.0,Lunch
+white wine,121,3.8,0.1,0.0,98.0,0.0,0.0,Lunch
+petite sirah red wine,125,3.9,0.1,0.0,0.0,15.7,0.0,Lunch
+non alcoholic wine,2,0.3,0.1,0.0,95.0,0.0,0.0,Breakfast
+pinot noir red wine,121,3.4,0.1,0.0,0.0,0.0,0.0,Snack
+pinot gris grigio white wine,122,3.0,0.1,0.0,0.0,0.0,0.0,Lunch
+riesling white wine,118,5.5,0.1,0.0,0.0,0.0,0.0,Lunch
+barbera red wine,170,5.6,0.1,0.0,0.0,0.0,0.0,Dinner
+lemberger red wine,118,3.6,0.1,0.0,0.0,15.0,0.0,Lunch
+merlot red wine,122,3.7,0.1,0.0,11.0,0.0,0.0,Dinner
+sangiovese red wine,126,3.9,0.1,0.0,0.0,0.0,0.0,Snack
+sauvignon blanc white wine,119,3.0,0.1,0.0,0.0,0.0,0.0,Breakfast
+syrah red wine,122,3.8,0.1,0.0,0.0,0.0,0.0,Breakfast
+carignane red wine,370,12.0,0.4,0.0,0.0,0.0,0.0,Snack
+pinot blanc white wine,119,2.9,0.1,0.0,0.0,0.0,0.0,Breakfast
+semillon white wine,121,4.6,0.1,0.0,0.0,14.9,0.0,Snack
+dessert wine dry,760,58.4,1.0,0.0,0.0,76.5,0.0,Snack
+red wine,125,3.8,0.1,0.0,27.0,0.0,0.0,Snack
+cabernet sauvignon red wine,166,5.2,0.1,0.0,0.0,0.0,0.0,Breakfast
+muscat white wine,123,7.8,0.1,0.0,0.0,0.0,0.0,Dinner
+cooking wine,2,0.3,0.028,0.0,2.0,0.0,0.0,Snack
+chardonnay white wine,168,4.3,0.1,0.0,27.0,0.0,0.0,Lunch
+claret red wine,122,4.4,0.1,0.0,0.0,15.0,0.0,Breakfast
+rice sake,197,7.4,0.7,0.0,46.0,0.0,0.0,Snack
+fume blanc white wine,121,3.3,0.1,0.0,0.0,15.4,0.0,Snack
+cabarnet franc red wine,122,3.6,0.1,0.0,0.0,0.0,0.0,Lunch
+chocolate frosting,81,13.0,0.2,3.6,25.0,0.2,1.1,Dinner
+white sugar,19,5.0,0.0,0.0,12.0,0.0,0.0,Dinner
+egg substitute,115,4.8,24.0,0.0,500.0,0.0,0.0,Dinner
+agave syrup,21,5.3,0.025,0.081,90.0,0.01,0.0,Snack
+splenda sweetener,336,91.2,0.0,0.0,0.0,0.0,0.0,Snack
+vanilla extract,12,0.5,0.0,0.069,61.0,0.0,0.003,Snack
+egg yolk dried,27,0.054,1.3,2.3,71.0,0.0,0.7,Breakfast
+granulated sugar,16,4.2,0.0,0.0,19.0,0.0,0.0,Lunch
+baking chocolate,145,8.7,3.7,15.2,49.0,4.8,9.4,Snack
+bakers yeast,18,3.1,1.4,0.3,66.0,1.4,0.089,Lunch
+fondant,106,26.4,0.0,0.009,22.0,0.0,0.0,Lunch
+brown sugar,16,4.1,0.024,0.0,94.0,0.0,0.0,Dinner
+white frosting dry,768,196.4,4.8,0.0,500.0,0.0,0.0,Breakfast
+maple sugar,42,10.9,0.036,0.061,31.0,0.0,0.076,Snack
+fructose sweetener,15,4.2,0.0,0.0,13.0,0.0,0.0,Dinner
+saccharin sweetener,360,89.1,0.9,0.0,400.0,0.0,0.0,Dinner
+egg white raw,17,0.2,3.6,0.063,38.0,0.0,0.0,Snack
+turbinado sugar,18,4.6,0.0,0.0,8.0,0.0,0.0,Lunch
+vanilla frosting,1931,313.7,0.0,75.0,900.0,0.0,13.7,Dinner
+aspartame sweetener,365,89.1,2.2,0.0,0.0,0.0,0.0,Lunch
+egg raw,80,0.4,7.0,5.3,80.0,0.0,1.8,Breakfast
+pineapple topping,860,225.8,0.3,0.3,100.0,1.4,0.066,Lunch
+egg white dried,26,0.3,5.8,0.087,52.0,0.0,0.0,Breakfast
+egg yolk raw,55,0.6,2.7,4.5,6.0,0.0,1.6,Lunch
+baking soda,0,0.0,0.0,0.0,1300.0,0.0,0.0,Dinner
+egg dried,30,0.047,2.4,2.2,60.0,0.0,0.7,Dinner
+strawberry topping,53,13.9,0.014,0.096,99.0,0.1,0.071,Breakfast
+bakers yeast dry,13,1.6,1.6,0.3,81.0,1.1,0.078,Snack
+almond paste,1040,108.5,20.4,63.0,51.0,10.9,6.0,Breakfast
+cream of tartar,8,1.8,0.0,0.0,9.0,0.01,0.0,Breakfast
+popover dry mix,631,120.7,17.7,7.3,1500.0,0.0,1.7,Lunch
+egg substitute powder,126,6.2,15.7,3.7,200.0,0.0,1.1,Lunch
+gelatin powder,17,0.0,4.3,0.086,29.0,0.0,0.09,Breakfast
+tapioca pearls,544,134.8,0.3,0.093,77.0,1.4,0.075,Dinner
+baking powder,2,1.3,0.0,0.0,500.0,0.03,0.0,Lunch
+egg boiled,93,0.7,7.5,6.4,42.0,0.0,2.0,Snack
+millet flour,444,86.9,12.8,5.1,56.0,4.2,0.6,Lunch
+triticale flour,439,95.1,17.1,2.4,96.0,19.0,0.4,Lunch
+corn flour white,414,87.3,9.6,4.2,36.0,7.3,0.6,Snack
+rice flour brown,574,120.8,11.4,4.4,39.0,7.3,0.9,Breakfast
+sorghum flour,437,93.7,9.5,4.0,23.0,8.0,0.6,Snack
+cornmeal whole grain,442,93.8,9.9,4.4,22.0,8.9,0.6,Breakfast
+cornmeal white,581,124.7,11.2,2.7,94.0,6.1,0.3,Breakfast
+barley flour,511,110.3,15.5,2.4,62.0,14.9,0.5,Breakfast
+safflower seed meal,97,13.8,10.1,0.7,6.0,0.0,0.029,Snack
+sesame flour,658,33.3,38.5,46.4,41.0,0.0,6.5,Breakfast
+whole grain wheat flour,408,86.4,15.9,3.0,27.0,12.8,0.5,Dinner
+corn flour yellow,422,89.9,8.1,4.5,40.0,8.5,0.6,Snack
+corn flour whole grain,422,89.9,8.1,4.5,33.0,8.5,0.6,Dinner
+cottonseed flour low fat,94,10.2,14.1,0.4,22.0,0.0,0.082,Breakfast
+sunflower seed flour,13,1.4,1.9,0.013,73.0,0.2,0.036,Lunch
+sesame meal,160,7.4,4.8,13.6,73.0,0.0,1.9,Breakfast
+acorn flour,626,68.3,9.4,37.7,0.0,0.0,4.9,Dinner
+rice flour white,578,126.6,9.4,2.2,0.0,3.8,0.6,Dinner
+sesame flour low fat,94,10.0,14.2,0.5,72.0,0.0,0.011,Snack
+potato flour,571,133.0,11.0,0.5,42.0,9.4,0.1,Lunch
+cornmeal yellow,581,124.7,11.2,2.7,11.0,6.1,0.3,Snack
+rye flour,364,78.2,10.0,1.4,61.0,8.2,0.2,Dinner
+arrowroot flour,457,112.8,0.4,0.1,2.0,4.4,0.019,Breakfast
+chickpea flour,356,53.2,20.6,6.2,50.0,9.9,0.6,Lunch
+wheat flour,455,95.4,12.9,1.2,61.0,3.4,0.2,Breakfast
+cornstarch,488,116.8,0.3,0.03,93.0,1.2,0.077,Breakfast
+carob flour,13,5.3,0.3,0.061,33.0,2.4,0.041,Lunch
+buckwheat flour,402,84.7,15.1,3.7,33.0,12.0,0.8,Snack
+pecan pie,503,63.7,6.0,27.1,300.0,0.0,4.9,Breakfast
+apple pie,331,46.4,3.0,15.6,300.0,0.0,3.8,Dinner
+vanilla wafer pie crust,935,88.4,6.5,63.7,900.0,0.2,13.1,Breakfast
+chocolate pie crust,881,117.4,11.1,40.8,900.0,4.9,8.6,Lunch
+apple strudel,195,29.2,2.3,8.0,20.0,1.6,1.5,Lunch
+chocolate snack cake,200,30.2,1.8,8.0,200.0,1.6,2.4,Lunch
+fruit fried pie,404,54.5,3.8,20.6,400.0,3.3,3.1,Snack
+pumpkin pie,316,40.9,7.0,14.4,300.0,0.0,4.9,Breakfast
+corn cake,35,7.5,0.7,0.2,10.0,0.2,0.019,Snack
+sponge snack cake,157,26.9,1.5,4.8,200.0,0.4,1.7,Snack
+danish pastry with nuts,280,29.7,4.6,16.4,200.0,1.3,3.8,Lunch
+chocolate cream pie,301,33.3,2.6,19.2,100.0,2.0,4.9,Lunch
+angel food cake,72,16.2,1.7,0.2,200.0,0.4,0.071,Snack
+lemon meringue pie,362,49.7,4.8,16.4,300.0,0.0,4.0,Breakfast
+danish pastry with cinnamon,349,46.9,4.8,16.7,300.0,0.0,3.5,Dinner
+cinnamon coffeecake,238,26.6,3.9,13.3,200.0,1.1,3.3,Snack
+cheesecake,257,20.4,4.4,18.0,400.0,0.3,7.9,Breakfast
+fruitcake,139,26.5,1.2,3.9,13.0,1.6,0.5,Lunch
+egg custard,293,31.0,14.2,12.9,200.0,0.0,6.1,Lunch
+mince pie,477,79.2,4.3,17.8,400.0,4.3,4.4,Breakfast
+yellow cake with chocolate frosting,546,79.7,4.6,25.6,400.0,2.2,8.3,Dinner
+danish pastry with fruit,335,45.1,4.8,15.9,300.0,0.0,3.3,Lunch
+white cake with coconut frosting,399,70.8,4.9,11.5,300.0,1.1,4.4,Lunch
+danish pastry with cheese,353,28.7,5.8,24.6,300.0,0.0,5.1,Lunch
+graham cracker pie crust,917,117.7,9.3,45.4,900.0,3.5,9.1,Breakfast
+blueberry pie,360,49.2,4.0,17.5,300.0,0.0,4.3,Snack
+yellow cake with vanilla frosting,239,37.6,2.2,9.3,200.0,0.2,1.5,Lunch
+pie crust,121,10.9,1.5,8.0,100.0,0.4,2.0,Snack
+chocolate cake with chocolate frosting,537,72.9,4.8,27.7,500.0,3.0,8.2,Dinner
+cheese coffeecake,258,33.7,5.3,11.6,300.0,0.8,4.1,Lunch
+vanilla cream pie,350,41.1,6.0,18.1,300.0,0.8,5.1,Lunch
+pineapple cake,367,58.1,4.0,13.9,400.0,0.9,3.4,Dinner
+peach pie,262,38.5,2.2,11.7,300.0,0.9,1.8,Lunch
+fruit coffeecake,156,25.8,2.6,5.1,200.0,1.3,1.2,Snack
+pound cake,116,14.6,1.7,6.0,100.0,0.2,3.5,Breakfast
+pound cake bread,215,28.2,3.9,9.6,200.0,0.9,1.7,Snack
+white cake,264,42.3,4.0,9.2,200.0,0.6,2.4,Breakfast
+coffeecake with chocolate frosting,298,48.4,4.5,9.7,300.0,1.8,2.5,Breakfast
+popcorn cake,38,8.0,1.0,0.3,50.0,0.3,0.074,Snack
+banana cream pie,3190,390.2,52.2,161.3,2800.0,8.3,44.6,Snack
+baked apple pie mcdonalds,91,12.3,0.9,4.4,76.0,0.6,1.1,Snack
+sponge cake,187,36.4,4.6,2.7,100.0,0.0,0.8,Snack
+yellow cake,245,36.0,3.6,9.9,200.0,0.5,2.7,Dinner
+shortcake,98,13.7,1.7,4.0,100.0,0.0,1.1,Lunch
+cherry pie,486,69.3,5.0,22.0,300.0,0.0,5.4,Breakfast
+dutch apple pie,397,61.0,3.0,15.8,300.0,2.2,3.2,Snack
+chocolate cake,352,50.7,5.0,14.3,300.0,1.5,5.2,Snack
+marshmallow,64,16.3,0.4,0.033,39.0,0.013,0.045,Snack
+sugar apple,72,18.2,1.6,0.2,45.0,3.4,0.009,Dinner
+toffee,67,7.8,0.1,3.9,44.0,0.0,2.5,Snack
+vanilla fudge with nuts,123,21.1,0.8,3.9,75.0,0.3,1.1,Snack
+peanuts chocolate coated,21,2.0,0.5,1.3,63.0,0.2,0.6,Snack
+caramel with nuts chocolate coated,66,8.5,1.3,2.9,41.0,0.6,0.7,Lunch
+gingerbread,263,36.4,2.9,12.1,200.0,0.0,3.1,Dinner
+rolo nestle,24,0.2,0.009,1.0,0.0,0.0,0.6,Snack
+vanilla fudge,108,23.2,0.3,1.5,40.0,0.0,1.0,Breakfast
+halavah,328,42.3,8.7,15.1,100.0,3.2,2.9,Breakfast
+praline,189,23.2,1.3,10.1,16.0,1.4,0.9,Breakfast
+fruit juice bar,67,15.6,0.9,0.089,11.0,0.8,0.0,Dinner
+peanut brittle,138,20.2,2.1,5.4,100.0,0.7,1.2,Dinner
+butterscotch,21,4.8,0.079,0.2,39.0,0.0,0.1,Breakfast
+chocolate coffee beans,155,15.6,2.1,9.4,6.0,1.6,5.1,Snack
+nougat with almonds,56,12.9,0.5,0.2,61.0,0.5,0.2,Dinner
+carob,135,14.1,2.0,7.8,15.0,1.0,7.3,Breakfast
+peanut butter fudge,62,12.4,0.6,1.1,85.0,0.1,0.3,Breakfast
+sugar coated almonds,17,2.4,0.4,0.6,21.0,0.013,0.016,Snack
+chocolate coated marshmallow,118,19.0,1.1,4.7,2.0,0.6,1.3,Lunch
+raisins chocolate coated,390,68.4,4.1,14.8,21.0,3.1,10.3,Dinner
+chewing gum sugarless,5,1.9,0.0,0.013,1.0,0.078,0.09,Snack
+chewing gum,11,2.9,0.0,0.032,83.0,0.012,0.058,Breakfast
+chocolate syrup,109,25.4,0.8,0.4,61.0,1.0,0.2,Breakfast
+chocolate fudge syrup,67,12.0,0.9,1.7,84.0,0.5,0.8,Snack
+m ms milk chocolate mars,207,29.9,1.8,8.9,18.0,1.2,5.5,Dinner
+milk chocolate with almonds,216,21.9,3.7,14.1,51.0,2.5,7.3,Lunch
+chocolate fudge,70,13.0,0.4,1.8,32.0,0.3,1.1,Lunch
+milk chocolate with rice cereal,0,0.0,0.0,0.0,0.0,0.0,0.0,Breakfast
+m ms peanut chocolate mars,93,10.9,1.7,4.7,17.0,0.7,1.8,Dinner
+dark chocolate,165,18.0,1.5,9.7,13.0,2.2,5.7,Lunch
+chocolate semisweet,806,107.4,7.1,50.4,42.0,9.9,29.8,Dinner
+after eight mints nestle,36,6.7,0.1,1.0,25.0,0.2,0.7,Dinner
+milk chocolate,37,4.2,0.5,2.1,45.0,0.2,1.3,Breakfast
+white chocolate,162,17.8,1.8,9.6,9.0,0.081,5.8,Lunch
+chocolate,208,24.8,1.6,14.0,1.0,2.3,8.2,Snack
+twix mars,146,18.8,1.4,7.2,64.0,0.3,5.5,Breakfast
+kit kat nestle,62,7.6,0.7,3.3,22.0,0.2,2.2,Lunch
+snickers mars,280,35.1,4.3,13.6,100.0,1.3,5.2,Lunch
+milky way mars,264,41.3,2.3,10.0,21.0,0.6,7.0,Lunch
+clif bar,235,44.5,10.0,4.0,100.0,5.0,1.0,Lunch
+gum drops,18,4.4,0.0,0.042,8.0,0.0,0.05,Lunch
+skittles wild berry mars,249,56.3,0.1,2.6,36.0,0.0,2.6,Dinner
+skittles original mars,251,56.3,0.1,2.7,25.0,0.0,2.6,Breakfast
+skittles tropical mars,251,56.3,0.1,2.7,95.0,0.0,0.0,Dinner
+fruit leather,52,12.0,0.029,0.4,0.0,0.0,0.025,Snack
+taffy,60,13.7,0.087,0.5,28.0,0.0,0.3,Lunch
+eisbonbons mac iver,23,0.0,0.0,0.0,0.0,0.0,0.0,Breakfast
+caramels,39,7.8,0.5,0.8,15.0,0.0,0.3,Lunch
+hard candy,24,5.9,0.0,0.067,21.0,0.0,0.0,Breakfast
+jellybeans,4,1.0,0.0,0.043,76.0,0.083,0.0,Dinner
+jellies,56,14.7,0.005,0.069,16.0,0.2,0.033,Breakfast
+wheat germ toasted,115,14.9,8.7,3.2,60.0,4.5,0.5,Snack
+crispy brown rice,124,27.5,2.3,1.1,86.0,2.3,0.2,Snack
+bran flakes asda,109,0.2,0.0,0.6,0.0,0.0,0.2,Breakfast
+amaranth cooked,251,46.0,9.3,3.9,95.0,5.2,0.0,Breakfast
+triticale,645,138.5,25.1,4.0,49.0,0.0,0.7,Breakfast
+barley raw,42,9.3,1.2,0.1,16.0,1.9,0.041,Breakfast
+bulgur dry,171,37.9,6.1,0.7,71.0,9.2,0.1,Snack
+cottonseed kernels roasted,754,32.6,48.6,54.1,73.0,8.2,14.5,Lunch
+rice bran,373,58.6,15.8,24.6,36.0,24.8,4.9,Breakfast
+chaptti roti indian bread,491,0.089,7.0,2.5,0.0,0.0,2.5,Breakfast
+quinoa cooked,222,39.4,8.1,3.6,26.0,5.2,0.4,Snack
+dar vida swiss original,116,0.5,0.0,3.1,0.0,0.0,0.3,Snack
+teff cooked,255,50.0,9.8,1.6,53.0,7.1,0.0,Dinner
+couscous dry,650,134.0,22.1,1.1,31.0,8.7,0.2,Breakfast
+weetabix weetabix,2078,0.0,0.0,11.5,0.0,0.0,396.1,Dinner
+oat bran cooked,88,25.1,7.0,1.9,82.0,5.7,0.4,Snack
+buckwheat cooked,155,33.5,5.7,1.0,53.0,4.5,0.2,Snack
+millet puffed,74,16.8,2.7,0.7,76.0,0.6,0.1,Lunch
+oat bran raw,23,4.9,1.3,0.5,36.0,1.2,0.077,Breakfast
+popcorn oil popped,64,5.0,0.8,4.8,18.0,0.9,0.8,Dinner
+kamut cooked,251,52.4,11.1,1.6,38.0,6.7,0.0,Snack
+wheat bran,125,37.4,9.0,2.5,15.0,24.8,0.4,Snack
+cheese popcorn,58,5.7,1.0,3.7,2.0,1.1,0.7,Dinner
+raisin bran crunch kelloggs,90,21.2,1.9,0.5,0.0,0.0,0.0,Lunch
+couscous cooked,176,36.5,6.0,0.3,54.0,2.2,0.091,Snack
+multigrain cheerios general mills,4,1.0,0.038,0.005,0.0,0.1,0.0,Breakfast
+bulgur cooked,151,33.8,5.6,0.4,49.0,8.2,0.053,Snack
+popcorn air popped,31,6.2,1.0,0.4,16.0,1.2,0.011,Breakfast
+teff raw,708,141.1,25.7,4.6,53.0,15.4,0.9,Dinner
+spelt cooked,246,51.3,10.7,1.6,41.0,7.6,0.0,Breakfast
+millet raw,756,145.7,22.0,8.4,13.0,17.0,1.4,Dinner
+popcorn unpopped,106,20.9,3.1,1.2,1.0,3.6,0.2,Breakfast
+whole wheat cooked,150,33.2,4.8,1.0,600.0,3.9,0.1,Dinner
+wheat sprouted,214,45.9,8.1,1.4,26.0,1.2,0.2,Breakfast
+whole wheat dry,96,21.1,3.1,0.6,36.0,2.7,0.031,Lunch
+caramel popcorn,122,22.4,1.1,3.6,69.0,1.5,1.0,Breakfast
+wheat puffed,44,9.6,1.8,0.1,30.0,0.5,0.025,Breakfast
+roggenmischbrot sonnenblumenkerne aldi,82,0.0,0.0,3.1,0.0,0.0,9.9,Lunch
+wheat germ,112,16.1,7.2,3.0,37.0,4.1,0.5,Snack
+microwave popcorn,465,49.8,7.3,26.3,600.0,8.7,12.7,Snack
+millet cooked,207,41.2,6.1,1.7,46.0,2.3,0.3,Breakfast
+kamut raw,627,130.9,27.3,4.1,12.0,16.9,0.4,Lunch
+wheat durum,651,136.6,26.3,4.7,32.0,0.0,0.9,Breakfast
+sorghum,651,143.3,21.7,6.3,45.0,12.1,0.9,Dinner
+white wheat,657,145.7,21.7,3.3,94.0,23.4,0.5,Dinner
+rye,571,128.2,17.5,2.8,78.0,25.5,0.3,Breakfast
+spelt raw,588,122.1,25.4,4.2,76.0,18.6,0.7,Snack
+buckwheat raw,41,8.6,1.6,0.4,54.0,1.2,0.007,Snack
+honey cereali general mills,104,3.0,0.0,2.0,0.0,0.0,21.2,Breakfast
+barley cooked,193,44.3,3.5,0.7,64.0,6.0,0.1,Breakfast
+oats,39,6.6,1.7,0.7,74.0,1.1,0.1,Dinner
+amaranth raw,37,6.5,1.4,0.7,77.0,0.7,0.1,Snack
+semolina,601,121.6,21.2,1.8,97.0,6.5,0.3,Breakfast
+quinoa dry,221,38.5,8.5,3.6,26.0,4.2,0.4,Dinner
+wheat shredded,155,36.2,5.2,1.0,86.0,5.5,0.2,Snack
+cattail,5,1.0,0.2,0.0,31.0,0.9,0.0,Lunch
+peanut granola bar,116,15.0,2.4,5.7,6.0,0.7,0.8,Dinner
+vanilla bluberry bar kind,49,0.9,0.0,1.4,0.0,0.0,8.4,Snack
+coconut granola bar,150,15.6,1.5,9.1,6.0,1.8,6.4,Snack
+almond granola bar,119,14.9,1.8,6.1,67.0,1.2,3.0,Dinner
+chocolate chip granola bar,105,17.3,1.8,3.9,62.0,1.1,2.7,Lunch
+fruit granola bar,82,18.6,1.4,0.2,28.0,1.8,0.034,Dinner
+granola bar,99,13.5,2.1,4.2,84.0,1.1,0.5,Snack
+peanut bar,209,19.0,6.2,13.5,59.0,1.6,1.9,Breakfast
+milk cereal bar,103,18.0,1.6,2.7,87.0,0.1,2.3,Breakfast
+almond rice bar,128,18.1,2.0,5.7,0.0,1.0,1.1,Dinner
+fruit nut squares,55,10.3,0.3,1.3,86.0,0.3,0.1,Snack
+rice wheat cereal bar,90,16.0,2.0,2.0,100.0,0.4,0.0,Breakfast
+crisped rice bar,113,20.4,1.4,3.8,10.0,0.6,1.5,Snack
+brown rice raw,685,142.9,14.7,5.4,86.0,6.5,1.1,Dinner
+rice pilaf cooked,352,61.1,7.0,8.8,1000.0,1.4,1.8,Breakfast
+beef flavored rice raw,657,139.1,19.8,2.3,2400.0,2.9,0.0,Snack
+wild rice cooked,166,35.0,6.5,0.6,8.0,3.0,0.078,Breakfast
+wild rice raw,571,119.8,23.6,1.7,51.0,9.9,0.2,Dinner
+congee with pork shrimp and squid plus egg,178,0.0,0.0,0.3,0.0,0.0,39.3,Snack
+white rice pasta cooked,246,43.3,5.1,5.7,1100.0,5.1,1.1,Breakfast
+chicken flavored rice raw,601,127.3,17.9,2.2,2100.0,2.0,0.7,Dinner
+instant white rice raw,361,78.2,7.4,0.9,39.0,1.8,0.1,Breakfast
+rice crisps,107,24.1,1.8,0.4,200.0,0.2,0.065,Breakfast
+parboiled white rice raw,692,149.6,13.9,1.9,55.0,3.3,0.5,Lunch
+instant white rice cooked,193,41.4,3.6,0.8,1.0,1.0,0.088,Lunch
+rice pilaf raw,732,155.7,21.3,2.8,2700.0,2.4,0.0,Dinner
+rice cracker cake,111,23.0,2.0,1.2,97.0,1.2,0.2,Lunch
+parboiled white rice cooked,194,41.2,4.6,0.6,88.0,1.4,0.1,Dinner
+white rice steamed,199,44.7,4.2,0.4,9.0,1.2,0.0,Lunch
+brown rice cake,35,7.3,0.7,0.3,24.0,0.4,0.062,Breakfast
+glutinous white rice raw,685,151.1,12.6,1.0,15.0,5.2,0.2,Dinner
+white rice pasta raw,600,122.8,15.3,4.0,3000.0,0.0,0.7,Dinner
+glutinous white rice cooked,169,36.7,3.5,0.3,27.0,1.7,0.056,Breakfast
+brown rice cooked,218,45.8,4.5,1.6,86.0,3.5,0.3,Dinner
+beef flavored rice cooked,319,54.4,7.0,7.9,900.0,1.5,2.1,Dinner
+white rice cooked,205,44.5,4.3,0.4,77.0,0.6,0.1,Lunch
+chicken flavored rice cooked,317,54.8,6.2,8.0,900.0,1.6,1.7,Dinner
+white rice raw,675,147.9,13.2,1.2,81.0,2.4,0.3,Snack
+cheese imitation,441,1.1,28.3,36.2,800.0,0.0,6.6,Breakfast
+cheshire cheese,110,1.4,6.6,8.7,200.0,0.0,5.5,Lunch
+monterey cheese,421,0.8,27.7,34.2,700.0,0.0,21.5,Lunch
+edam cheese,107,0.4,7.5,8.3,300.0,0.0,5.6,Snack
+fontina cheese,420,1.7,27.6,33.6,900.0,0.0,20.7,Breakfast
+monterey cheese low fat,350,0.8,31.9,24.4,600.0,0.0,15.9,Breakfast
+colby cheese,445,2.9,26.8,36.3,700.0,0.0,22.8,Lunch
+american cheese,93,0.9,4.5,7.9,400.0,0.0,4.5,Dinner
+blue cheese,106,0.7,6.4,8.6,300.0,0.0,5.6,Lunch
+nectarine,66,15.8,1.6,0.5,0.0,2.6,0.066,Breakfast
+kiwifruit gold,51,12.8,0.8,0.2,46.0,1.1,0.008,Snack
+prickly pear raw,8,1.9,0.001,0.072,65.0,1.0,0.0,Lunch
+pineapple,45,11.8,0.5,0.1,99.0,1.3,0.074,Breakfast
+rowan,253,54.5,5.2,4.6,83.0,14.1,0.6,Lunch
+muscadine grapes,3,0.8,0.014,0.056,24.0,0.2,0.0,Dinner
+heidelbeeren jutro,17,0.4,0.0,0.2,0.0,0.0,0.039,Lunch
+prunes stewed,316,83.2,3.4,0.7,39.0,0.0,0.085,Lunch
+tangerine,40,10.1,0.6,0.2,56.0,1.4,0.07,Breakfast
+prunes,237,62.3,2.6,0.5,76.0,0.0,0.057,Breakfast
+lemon peel,1,0.3,0.032,0.002,28.0,0.2,0.057,Breakfast
+banana,134,34.3,1.6,0.5,55.0,3.9,0.2,Lunch
+raspberries,5,1.2,0.1,0.034,54.0,0.7,0.005,Dinner
+apricot,17,3.9,0.5,0.1,20.0,0.7,0.03,Snack
+strawberry guava,4,1.0,0.01,0.008,59.0,0.3,0.039,Snack
+kiwifruit green,42,10.1,0.8,0.4,96.0,2.1,0.095,Breakfast
+figs,37,9.6,0.4,0.2,49.0,1.5,0.068,Breakfast
+clementine,35,8.9,0.6,0.1,44.0,1.3,0.0,Lunch
+orange,86,21.6,1.7,0.2,0.0,4.4,0.008,Snack
+bartlett pear,112,26.6,0.7,0.3,47.0,5.5,0.0,Breakfast
+red white currants,63,15.5,1.6,0.2,56.0,4.8,0.043,Dinner
+blueberries,84,21.4,1.1,0.5,15.0,3.6,0.047,Dinner
+mulberries,6,1.5,0.2,0.049,21.0,0.3,0.004,Breakfast
+java plum,2,0.5,0.034,0.029,63.0,0.0,0.0,Breakfast
+prune puree,46,11.7,0.4,0.02,36.0,0.6,0.038,Snack
+applesauce,102,27.5,0.4,0.2,31.0,2.7,0.028,Snack
+blackberries raw,62,13.8,2.0,0.7,50.0,7.6,0.076,Lunch
+plum,30,7.5,0.5,0.2,0.0,0.9,0.062,Snack
+american grapes,2,0.4,0.035,0.087,56.0,0.09,0.029,Dinner
+peach,59,14.3,1.4,0.4,0.0,2.3,0.034,Dinner
+honeydew melon,64,16.1,1.0,0.2,62.0,1.4,0.055,Breakfast
+yellow plantain fried,399,68.9,2.4,12.7,79.0,5.4,3.1,Snack
+rose hips,206,48.5,2.0,0.4,35.0,30.6,0.0,Lunch
+lemons,17,5.4,0.6,0.2,45.0,1.6,0.063,Dinner
+lime,20,7.1,0.5,0.1,82.0,1.9,0.087,Dinner
+pomegranate,117,26.4,2.4,1.6,42.0,5.6,0.2,Lunch
+gooseberries,66,15.3,1.3,0.9,74.0,6.5,0.001,Lunch
+asian pear,51,13.0,0.6,0.3,0.0,4.4,0.009,Dinner
+abiyuch,157,40.1,3.4,0.2,93.0,12.1,0.065,Dinner
+horned melon kiwano,92,15.8,3.7,2.6,95.0,0.0,0.0,Lunch
+fruit walnut salad mcdonalds,312,43.8,4.8,13.3,17.0,0.0,1.8,Dinner
+grapefruit,53,13.3,1.0,0.2,0.0,2.0,0.092,Breakfast
+japanese persimmon,118,31.2,1.0,0.3,67.0,6.0,0.089,Breakfast
+wild raspberries,81,18.0,1.5,0.4,90.0,9.8,0.0,Lunch
+pink lady apple,18,3.9,0.1,0.1,0.0,0.0,0.0,Snack
+maraschino cherries,8,2.1,0.06,0.083,72.0,0.2,0.06,Lunch
+black currants,71,17.2,1.6,0.5,75.0,0.0,0.019,Lunch
+plantain cooked,179,48.0,1.2,0.3,79.0,3.5,0.1,Snack
+crab apple,84,21.9,0.4,0.3,30.0,0.0,0.064,Snack
+pom potes materne,19,0.2,0.0,0.2,0.0,0.0,0.2,Snack
+apple,95,25.1,0.5,0.3,62.0,4.4,0.043,Breakfast
+cantaloupe melon,60,14.4,1.5,0.3,87.0,1.6,0.071,Dinner
+prickly pear cooked,7,1.6,0.091,0.043,0.0,0.0,0.0,Breakfast
+guava,37,7.9,1.4,0.5,56.0,3.0,0.1,Dinner
+strawberries,4,0.9,0.01,0.069,68.0,0.2,0.057,Breakfast
+japanese persimmon dried,93,25.0,0.5,0.2,2.0,4.9,0.0,Dinner
+watermelon,86,21.6,1.7,0.4,43.0,1.1,0.026,Breakfast
+elderberries,106,26.7,1.0,0.7,42.0,10.2,0.005,Snack
+kumquat,13,3.0,0.4,0.2,18.0,1.2,0.063,Lunch
+orange peel,6,1.5,0.093,0.017,23.0,0.6,0.046,Breakfast
+pokeberry shoots cooked,33,5.1,3.8,0.7,400.0,2.5,0.0,Dinner
+breadfruit,227,59.7,2.4,0.5,57.0,10.8,0.1,Snack
+pear,101,27.1,0.6,0.2,70.0,5.5,0.019,Breakfast
+sour cherries,52,12.5,1.0,0.3,71.0,1.6,0.069,Breakfast
+plantain raw,218,57.1,2.3,0.6,82.0,3.0,0.3,Snack
+blackberries frozen,97,23.7,1.8,0.6,7.0,7.6,0.017,Breakfast
+cherries,5,1.3,0.068,0.056,0.0,0.2,0.053,Lunch
+plantain fried,16,2.6,0.023,0.6,65.0,0.2,0.2,Breakfast
+carambola starfruit,26,5.7,0.9,0.3,47.0,2.4,0.077,Lunch
+chayote cooked,35,7.2,1.0,0.8,400.0,4.5,0.1,Lunch
+apple dippers mcdonalds,33,8.2,0.0,0.0,0.0,0.0,0.0,Snack
+white grapefruit,78,19.8,1.6,0.2,0.0,2.6,0.072,Breakfast
+cherimoya,176,41.6,3.7,1.6,61.0,7.1,0.5,Snack
+melon balls,57,13.7,1.5,0.4,22.0,1.2,0.1,Breakfast
+golden delicious apple,62,14.8,0.3,0.2,34.0,2.6,0.0,Breakfast
+pokeberry shoots raw,37,5.9,4.2,0.6,50.0,2.7,0.0,Dinner
+cranberries,21,5.4,0.2,0.014,30.0,1.6,0.089,Breakfast
+quince,52,14.1,0.4,0.012,81.0,1.7,0.049,Snack
+chayote raw,25,6.0,1.1,0.2,94.0,2.2,0.027,Lunch
+orange with peel,100,24.6,2.1,0.5,28.0,7.2,0.036,Breakfast
+chokecherries,249,51.8,4.7,2.6,78.0,30.8,0.0,Dinner
+mango,202,50.3,2.8,1.3,27.0,5.4,0.3,Snack
+wild plum,147,35.3,0.7,0.3,47.0,9.7,0.0,Breakfast
+jeijoa,148,37.0,1.7,1.0,41.0,15.6,0.3,Snack
+groundcherries,74,15.7,2.7,1.0,0.0,0.0,0.0,Dinner
+pesca,30,0.0,0.0,0.1,0.0,0.0,6.1,Dinner
+persimmon,32,8.4,0.2,0.1,24.0,0.0,0.0,Snack
+grapes,3,0.9,0.045,0.044,9.0,0.087,0.041,Breakfast
+rambutan canned,175,44.7,1.4,0.4,51.0,1.9,0.0,Lunch
+figs canned,14,3.8,0.1,0.039,49.0,0.6,0.066,Dinner
+prunes canned,246,65.1,2.0,0.5,44.0,8.9,0.072,Breakfast
+pineapples canned,28,7.4,0.2,0.05,60.0,0.4,0.079,Breakfast
+prune plums canned,27,7.0,0.2,0.075,55.0,0.4,0.006,Lunch
+tangerines canned,92,23.8,1.5,0.1,22.0,1.7,0.087,Dinner
+fruit cocktail canned,109,28.1,1.1,0.053,59.0,2.4,0.03,Dinner
+sour cherries canned,189,48.6,1.9,0.3,73.0,2.0,0.007,Breakfast
+mangosteen canned,143,35.1,0.8,1.1,24.0,3.5,0.0,Breakfast
+apricot juice,117,30.1,1.5,0.07,24.0,3.9,0.008,Lunch
+strawberries canned,234,59.8,1.4,0.7,24.0,4.3,0.064,Lunch
+peach canned,110,28.9,1.6,0.094,6.0,3.3,0.03,Dinner
+fruit salad canned,125,32.5,1.3,0.008,69.0,2.5,0.08,Snack
+gooseberries canned,184,47.3,1.6,0.5,97.0,6.0,0.004,Dinner
+grapefruit canned,88,22.3,1.4,0.2,91.0,1.0,0.09,Breakfast
+pear canned,38,9.8,0.3,0.001,88.0,1.2,0.099,Dinner
+raspberries canned,233,59.8,2.1,0.3,13.0,8.4,0.081,Snack
+papaya canned,80,21.8,0.001,0.2,75.0,0.6,0.1,Lunch
+grapes canned,98,25.2,1.2,0.3,22.0,1.5,0.034,Snack
+apple dried,145,39.1,0.6,0.2,24.0,5.1,0.088,Snack
+peach dried,199,50.8,3.0,0.6,59.0,7.0,0.055,Snack
+plantain chips,150,18.1,0.6,8.4,39.0,1.0,2.4,Lunch
+golden raisins,498,131.2,5.6,0.8,1.0,6.6,0.2,Snack
+raisins seeded,488,129.5,4.2,0.9,98.0,11.2,0.3,Snack
+zante currants dried,408,106.7,5.9,0.4,67.0,9.8,0.009,Snack
+pear dried,94,25.1,0.7,0.2,74.0,2.7,0.003,Breakfast
+raisins,90,23.8,1.0,0.056,25.0,1.4,0.005,Snack
+prune plums dried,308,81.5,2.7,0.5,11.0,9.4,0.01,Lunch
+cranberries dried,370,98.8,0.053,1.6,37.0,6.8,0.1,Snack
+figs dried,21,5.4,0.3,0.008,91.0,0.8,0.014,Snack
+longans dried,5,1.3,0.027,0.091,18.0,0.0,0.0,Lunch
+banana chips,147,16.5,0.7,9.5,99.0,2.2,8.2,Snack
+lychee dried,7,1.8,0.01,0.003,49.0,0.1,0.076,Lunch
+apricot dried,17,4.4,0.2,0.015,66.0,0.5,0.02,Snack
+longan,2,0.5,0.009,0.076,0.0,0.071,0.0,Lunch
+mamey sapote,217,56.2,2.5,0.8,8.0,9.5,0.3,Snack
+waxgourd cooked,19,4.3,0.7,0.4,600.0,1.8,0.026,Snack
+jackfruit,33,8.1,0.6,0.2,94.0,0.5,0.071,Breakfast
+loquats,9,2.4,0.09,0.071,53.0,0.3,0.085,Breakfast
+mammy apple mamey,431,105.8,4.2,4.2,100.0,25.4,1.2,Snack
+nance,82,19.0,0.7,1.3,39.0,8.4,0.0,Snack
+coconut whole coconut,3336,0.0,0.0,71.5,0.0,0.0,672.0,Dinner
+prickly pear,42,9.9,0.8,0.5,44.0,3.7,0.014,Lunch
+lychee,6,1.6,0.024,0.016,29.0,0.1,0.06,Dinner
+naranjilla lulo pulp,30,7.1,0.5,0.3,44.0,1.3,0.0,Breakfast
+coconut meat dried,187,6.7,1.9,18.3,58.0,4.6,16.2,Breakfast
+waxgourd raw,17,4.0,0.5,0.3,100.0,3.8,0.036,Breakfast
+surinam cherry pitanga,2,0.5,0.045,0.059,100.0,0.0,0.0,Breakfast
+passion fruit,17,4.2,0.4,0.1,72.0,1.9,0.098,Snack
+sapodilla,141,33.9,0.7,1.9,80.0,9.0,0.3,Breakfast
+pummelo,48,12.0,1.0,0.06,94.0,1.3,0.0,Snack
+coconut meat,1405,60.5,13.2,133.0,22.0,35.7,117.9,Snack
+soursop,149,37.9,2.3,0.7,24.0,7.4,0.1,Breakfast
+papaya,62,15.7,0.7,0.4,4.0,2.5,0.1,Breakfast
+acerola cherry,2,0.4,0.079,0.052,88.0,0.077,0.074,Lunch
+ohelo berries,39,9.6,0.5,0.3,68.0,0.0,0.0,Dinner
+loganberries,81,19.1,2.2,0.5,60.0,7.8,0.053,Breakfast
+casaba melon,48,11.2,1.9,0.2,57.0,1.5,0.012,Lunch
+durian,51,9.5,0.5,1.9,79.0,1.3,0.0,Lunch
+coriander leaves raw,4,0.6,0.3,0.086,5.0,0.4,0.044,Dinner
+garden cress raw,3,0.5,0.2,0.062,79.0,0.063,0.052,Snack
+pasilla peppers dried,24,3.6,0.9,1.1,63.0,1.9,0.0,Breakfast
+parsley dried,1,0.3,0.1,0.096,58.0,0.1,0.064,Dinner
+ancho pepper dried,48,8.7,2.0,1.4,68.0,3.7,0.1,Breakfast
+coriander seeds,5,1.0,0.2,0.3,95.0,0.8,0.049,Lunch
+dill weed dried,253,55.8,20.0,4.4,200.0,13.6,0.2,Lunch
+borage,19,2.7,1.6,0.6,23.0,0.0,0.2,Snack
+epazote,0,0.094,0.059,0.06,21.0,0.051,0.0,Lunch
+chives dried,1,0.1,0.013,0.055,40.0,0.041,0.051,Lunch
+thyme fresh,1,0.2,0.091,0.068,17.0,0.1,0.07,Dinner
+butterbur,4,0.5,0.1,0.2,53.0,0.0,0.0,Breakfast
+wasabi root,142,30.6,6.2,0.8,20.0,10.1,0.0,Breakfast
+rosemary dried,4,0.8,0.081,0.2,48.0,0.5,0.083,Dinner
+ginger root,2,0.4,0.068,0.028,0.0,0.058,0.048,Snack
+white pepper,7,1.6,0.2,0.0,75.0,0.6,0.002,Breakfast
+cloves ground,6,1.4,0.1,0.3,0.0,0.7,0.017,Lunch
+paprika,19,3.7,1.0,0.9,61.0,2.4,0.1,Breakfast
+mace ground,25,2.7,0.4,1.7,97.0,1.1,0.5,Lunch
+bay leaf,2,0.4,0.086,0.042,84.0,0.2,0.08,Snack
+eppaw,150,31.7,4.6,1.8,15.0,0.0,0.0,Dinner
+tarragon dried,2,0.3,0.1,0.047,12.0,0.038,0.01,Breakfast
+ginger ground,6,1.3,0.2,0.043,38.0,0.3,0.088,Dinner
+savory ground,4,1.0,0.074,0.029,55.0,0.6,0.085,Breakfast
+black pepper,6,1.5,0.2,0.006,36.0,0.6,0.034,Lunch
+spearmint fresh,3,0.5,0.2,0.089,92.0,0.4,0.049,Dinner
+poultry seasoning,14,2.9,0.4,0.3,63.0,0.5,0.1,Breakfast
+nutmeg ground,12,1.1,0.1,0.8,95.0,0.5,0.6,Lunch
+curry powder,20,3.7,0.8,0.9,4.0,2.1,0.1,Dinner
+peppermint,1,0.2,0.038,0.004,7.0,0.1,0.016,Dinner
+salt,0,0.0,0.0,0.0,7000.0,0.0,0.0,Breakfast
+coriander leaves dried,2,0.3,0.1,0.098,18.0,0.095,0.099,Breakfast
+sage ground,2,0.4,0.058,0.046,83.0,0.3,0.07,Breakfast
+garlic powder,10,2.3,0.5,0.029,82.0,0.3,0.003,Lunch
+dill weed fresh,4,0.6,0.3,0.063,17.0,0.2,0.064,Breakfast
+cardamom,6,1.4,0.2,0.1,13.0,0.6,0.065,Dinner
+saffron,2,0.5,0.071,0.092,63.0,0.002,0.047,Dinner
+allspice ground,5,1.4,0.1,0.2,1.0,0.4,0.034,Breakfast
+parsley fresh,1,0.2,0.1,0.078,56.0,0.1,0.016,Breakfast
+oregano dried,265,68.9,9.0,4.3,9.0,42.5,1.6,Snack
+marjoram dried,5,1.0,0.2,0.1,4.0,0.7,0.056,Dinner
+chives raw,1,0.1,0.03,0.088,99.0,0.044,0.083,Lunch
+fireweed leaves,24,4.4,1.1,0.6,35.0,2.4,0.0,Snack
+rosemary fresh,1,0.1,0.005,0.1,39.0,0.012,0.016,Breakfast
+garlic,4,0.9,0.2,0.026,18.0,0.064,0.033,Breakfast
+cinnamon ground,6,2.1,0.1,0.044,22.0,1.4,0.074,Dinner
+chervil dried,5,0.9,0.4,0.002,76.0,0.2,0.066,Breakfast
+cayenne pepper,1,0.2,0.039,0.094,59.0,0.052,0.043,Lunch
+turmeric ground,8,1.4,0.2,0.2,64.0,0.5,0.093,Dinner
+mustard,3,0.3,0.2,0.2,15.0,0.2,0.021,Breakfast
+chili powder,8,1.3,0.4,0.4,14.0,0.9,0.061,Dinner
+thyme dried,276,63.9,9.1,7.4,16.0,37.0,2.7,Breakfast
+spearmint dried,1,0.3,0.094,0.018,12.0,0.1,0.09,Breakfast
+basil dried,2,0.3,0.2,0.027,89.0,0.3,0.02,Breakfast
+dandelion greens cooked,35,6.7,2.1,0.6,300.0,3.0,0.0,Lunch
+basil fresh,2,0.2,0.2,0.089,58.0,0.1,0.069,Lunch
+dock,29,4.3,2.7,0.9,25.0,3.9,0.0,Dinner
+garden cress cooked,31,5.1,2.6,0.8,300.0,0.9,0.001,Breakfast
+onion powder,8,1.9,0.2,0.024,48.0,0.4,0.068,Breakfast
+dandelion greens raw,25,5.1,1.5,0.4,43.0,1.9,0.012,Lunch
+yokan,36,8.5,0.5,0.022,50.0,0.0,0.064,Breakfast
+fava beans cooked,187,33.4,12.9,0.7,81.0,9.2,0.1,Lunch
+french beans raw,631,118.0,34.6,3.7,69.0,46.4,0.4,Breakfast
+chickpeas canned,352,57.0,17.8,7.0,600.0,0.0,0.5,Dinner
+yellow beans cooked,255,44.7,16.2,1.9,86.0,18.4,0.5,Breakfast
+mung beans cooked,212,38.7,14.2,0.8,83.0,15.4,0.2,Breakfast
+white beans canned,299,55.5,19.0,0.8,79.0,12.6,0.2,Snack
+pink beans cooked,252,47.2,15.3,0.8,75.0,9.0,0.2,Lunch
+pink beans raw,720,134.8,44.0,2.4,57.0,26.7,0.6,Breakfast
+navy beans raw,701,126.4,46.4,3.1,59.0,50.8,0.4,Breakfast
+snap beans cooked,44,9.9,2.4,0.4,86.0,4.0,0.005,Snack
+black eyed cowpeas raw,131,27.3,4.3,0.5,48.0,7.3,0.1,Snack
+edamame cooked,189,13.8,18.5,8.1,34.0,8.1,1.0,Lunch
+black eyed cowpeas cooked,160,33.5,5.2,0.6,36.0,8.3,0.2,Snack
+hyacinth beans cooked,227,40.2,15.8,1.1,0.0,0.0,0.2,Dinner
+cowpeas canned,185,32.7,11.4,1.3,700.0,7.9,0.3,Snack
+pinto beans cooked,245,44.8,15.4,1.1,85.0,15.4,0.2,Dinner
+winged beans cooked,253,25.7,18.3,10.0,400.0,0.0,1.4,Lunch
+pinto beans raw,670,120.7,41.3,2.4,36.0,29.9,0.5,Lunch
+black turtle beans raw,624,116.4,39.1,1.7,41.0,28.5,0.4,Lunch
+fava beans raw,512,87.4,39.2,2.3,100.0,37.5,0.4,Lunch
+lima beans canned,190,35.9,11.9,0.4,800.0,11.6,0.095,Lunch
+hyacinth beans raw,722,127.6,50.2,3.5,73.0,53.8,0.6,Dinner
+white beans raw,673,121.7,47.2,1.7,51.0,30.7,0.4,Dinner
+snap beans canned,66,15.4,3.5,0.4,90.0,6.6,0.1,Lunch
+navy beans canned,296,53.6,19.7,1.1,1200.0,13.4,0.3,Snack
+mung beans raw,718,129.6,49.4,2.4,85.0,33.7,0.7,Breakfast
+adzuki beans raw,648,123.9,39.1,1.0,60.0,25.0,0.4,Lunch
+black turtle beans cooked,241,45.0,15.1,0.6,60.0,15.4,0.2,Snack
+pink lentils raw,662,113.6,47.9,4.2,92.0,20.7,0.7,Breakfast
+yellow beans raw,676,119.0,43.1,5.1,46.0,49.2,1.3,Lunch
+white beans cooked,249,44.9,17.4,0.6,45.0,11.3,0.2,Lunch
+lentils raw,678,115.4,49.5,2.0,39.0,58.6,0.3,Dinner
+cranberry beans cooked,241,43.3,16.5,0.8,400.0,17.7,0.2,Breakfast
+chickpeas raw,728,121.3,38.6,12.1,5.0,34.8,1.3,Breakfast
+lentils cooked,230,39.9,17.9,0.8,16.0,15.6,0.1,Snack
+baked beans canned,239,53.7,12.1,0.9,900.0,10.4,0.2,Dinner
+cranberry beans canned,216,39.3,14.4,0.7,900.0,16.4,0.2,Dinner
+black beans cooked,227,40.8,15.2,0.9,8.0,15.0,0.2,Dinner
+lima beans cooked,216,39.3,14.7,0.7,12.0,13.2,0.2,Dinner
+mungo beans raw,706,122.1,52.2,3.4,4.0,37.9,0.2,Breakfast
+pigeon peas raw,703,128.7,44.5,3.1,40.0,30.8,0.7,Breakfast
+fava beans canned,182,31.8,14.0,0.6,1200.0,9.5,0.092,Lunch
+yellow snap beans raw,31,7.1,1.8,0.1,85.0,3.4,0.097,Lunch
+snap beans raw,31,7.0,1.8,0.2,25.0,2.7,0.051,Dinner
+yellow snap beans canned,36,8.4,1.9,0.2,600.0,3.6,0.076,Dinner
+pigeon peas cooked,203,39.1,11.4,0.6,36.0,11.3,0.1,Dinner
+catjang cowpeas raw,573,99.6,39.8,3.5,70.0,17.9,0.9,Lunch
+navy beans cooked,255,47.4,15.0,1.1,400.0,19.1,0.2,Snack
+mothbeans raw,672,120.6,45.0,3.2,1.0,0.0,0.7,Snack
+cowpeas cooked,81,14.5,5.4,0.4,37.0,4.6,0.037,Lunch
+mothbeans cooked,207,37.1,13.8,1.0,86.0,0.0,0.2,Lunch
+french beans cooked,228,42.5,12.5,1.3,3.0,16.6,0.1,Lunch
+lima beans raw,602,112.8,38.2,1.2,78.0,33.8,0.3,Lunch
+winged beans raw,744,75.9,54.0,29.7,90.0,47.1,4.2,Lunch
+adzuki beans cooked,294,57.0,17.3,0.2,79.0,16.8,0.067,Lunch
+black beans raw,662,121.0,41.9,2.8,65.0,30.1,0.7,Dinner
+catjang cowpeas cooked,200,34.7,13.9,1.2,21.0,6.2,0.3,Dinner
+baby lima beans cooked,189,35.0,12.0,0.5,64.0,10.8,0.1,Dinner
+cowpeas raw,41,8.9,3.1,0.3,26.0,3.1,0.082,Dinner
+shellie beans canned,74,15.2,4.3,0.5,800.0,8.3,0.034,Lunch
+yardlong beans raw,579,103.4,40.6,2.2,57.0,18.4,0.6,Snack
+pinto beans canned,197,36.4,11.0,1.3,600.0,11.0,0.3,Breakfast
+chickpeas cooked,269,45.0,14.5,4.2,80.0,12.5,0.4,Lunch
+cranberry beans raw,653,117.1,44.9,2.4,14.0,48.2,0.6,Breakfast
+mungo beans cooked,189,33.0,13.6,1.0,83.0,11.5,0.065,Snack
+tamarinds,5,1.3,0.057,0.013,7.0,0.1,0.023,Dinner
+yellow snap beans cooked,44,9.9,2.4,0.4,96.0,4.1,0.037,Snack
+yardlong beans cooked,202,36.1,14.2,0.8,59.0,6.5,0.2,Lunch
+bacon beef steak,146,0.2,8.2,12.5,400.0,0.0,4.5,Dinner
+lamb foreshank raw,912,0.0,85.8,60.7,300.0,0.0,26.4,Lunch
+bacon,106,0.2,3.3,10.2,100.0,0.0,0.0,Dinner
+lamb rib cooked,915,0.0,53.9,76.0,200.0,0.0,32.6,Breakfast
+lamb shank raw,912,0.0,84.3,61.2,300.0,0.0,26.3,Breakfast
+scrapple,60,4.0,2.3,3.9,100.0,0.052,1.3,Breakfast
+chicken nuggets,61,3.0,3.2,4.1,100.0,0.2,0.7,Snack
+ground lamb cooked,886,0.0,77.5,61.5,300.0,0.0,25.4,Lunch
+lamb meat cooked,678,0.0,63.8,45.0,200.0,0.0,18.6,Snack
+meat extender,275,33.7,33.5,2.6,41.0,15.4,0.4,Breakfast
+lamb leg raw,1043,0.0,81.2,77.4,300.0,0.0,33.7,Lunch
+lamb loin cooked,202,0.0,16.1,14.8,89.0,0.0,6.3,Breakfast
+chicken patty,172,7.7,8.9,11.7,300.0,0.2,2.2,Snack
+lamb shank roasted,605,0.0,71.0,33.5,200.0,0.0,13.7,Snack
+barbecue loaf,40,1.5,3.6,2.0,300.0,0.0,0.7,Snack
+lamb sirloin cooked,765,0.0,64.5,54.2,200.0,0.0,22.9,Breakfast
+poultry salad,26,1.0,1.5,1.8,79.0,0.0,0.4,Lunch
+ground lamb raw,80,0.0,4.7,6.6,50.0,0.0,2.9,Lunch
+lamb loin raw,88,0.0,4.6,7.5,3.0,0.0,3.3,Breakfast
+lamb sirloin raw,1234,0.0,76.8,100.3,300.0,0.0,44.1,Lunch
+sausage patty mcdonalds,115,0.4,4.3,11.2,200.0,0.0,3.6,Breakfast
+lamb foreshank cooked,360,0.0,42.0,19.9,100.0,0.0,8.3,Lunch
+ham salad,97,4.8,3.9,7.0,500.0,0.0,2.3,Dinner
+lamb rib raw,1687,0.0,65.9,156.0,300.0,0.0,68.8,Dinner
+lamb shoulder raw,1198,0.0,75.2,97.3,300.0,0.0,42.1,Snack
+lamb meat raw,1102,0.0,79.6,84.6,300.0,0.0,36.6,Dinner
+lamb shoulder cooked,750,0.0,62.5,53.5,200.0,0.0,22.5,Dinner
+mutton cooked,66,0.027,9.5,3.1,70.0,0.0,1.5,Dinner
+lamb leg cooked,684,0.0,67.7,43.7,200.0,0.0,18.3,Breakfast
+beef stick,110,1.1,4.3,9.9,300.0,0.0,4.2,Dinner
+veal sirloin cooked,517,0.0,64.1,26.9,200.0,0.0,10.6,Dinner
+veal rib cooked,444,0.0,57.4,22.2,200.0,0.0,8.8,Snack
+veal meat cooked,483,0.0,62.9,23.8,200.0,0.0,8.9,Dinner
+beef rib roasted,238,0.0,15.4,19.1,10.0,0.0,7.7,Dinner
+veal sirloin raw,689,0.0,86.5,35.4,300.0,0.0,15.2,Lunch
+beef top loin filet grilled,323,0.8,37.0,19.0,100.0,0.0,6.5,Snack
+beef under blade steak cooked,983,0.0,140.8,46.7,300.0,0.0,17.9,Snack
+mock tender steak raw,244,0.0,42.2,8.3,200.0,0.0,3.6,Snack
+ground beef cooked,375,0.0,35.5,24.8,100.0,0.0,10.0,Snack
+ground beef raw,1506,0.0,65.1,136.1,300.0,0.0,51.2,Snack
+beef diced asda,48,10.5,0.0,0.7,0.0,0.0,0.3,Snack
+veal rib raw,735,0.0,85.5,40.9,400.0,0.0,16.8,Breakfast
+ground veal raw,41,0.0,5.5,1.9,29.0,0.0,0.8,Dinner
+t bone steak cooked,1049,0.0,89.3,74.1,200.0,0.0,30.3,Snack
+veal leg round raw,531,0.0,95.2,14.0,300.0,0.0,5.4,Dinner
+beef top sirloin steak raw,1222,0.0,123.4,77.3,300.0,0.0,31.2,Dinner
+beef plate steak grilled,508,0.0,47.1,35.6,100.0,0.0,12.9,Breakfast
+ground veal cooked,514,0.0,72.9,22.6,200.0,0.0,9.1,Snack
+veal leg round cooked,574,0.0,98.4,17.2,200.0,0.0,6.9,Lunch
+porterhouse steak raw,1170,0.0,81.6,91.1,200.0,0.0,36.4,Breakfast
+veal shank raw,513,0.0,86.9,15.8,400.0,0.0,4.8,Lunch
+veal breast cooked,753,0.0,76.3,47.5,200.0,0.0,18.5,Dinner
+corned beef canned,53,0.0,5.7,3.1,200.0,0.0,1.3,Dinner
+rib eye steak grilled,680,0.0,62.4,47.7,100.0,0.0,21.2,Breakfast
+veal shoulder raw,0,0.0,0.0,0.0,0.0,0.0,0.0,Breakfast
+t bone steak raw,1052,0.0,85.7,76.3,200.0,0.0,30.4,Lunch
+sirloin steak,324,0.0,49.5,14.1,600.0,0.0,5.2,Snack
+mock tender steak cooked,137,0.0,21.9,4.9,28.0,0.0,1.5,Lunch
+beef round steak cooked,385,0.0,64.8,12.1,11.0,0.0,4.3,Breakfast
+chuck blade roast raw,1125,0.0,77.8,88.0,300.0,0.0,35.5,Lunch
+beef shoulder steak raw,349,0.0,48.2,17.3,200.0,0.0,7.5,Breakfast
+beef top blade cooked,184,0.0,21.9,10.0,2.0,0.0,3.3,Lunch
+corned beef cooked,53,0.006,3.8,4.0,200.0,0.0,1.3,Breakfast
+beef round steak raw,753,0.0,100.1,36.0,300.0,0.0,14.2,Breakfast
+beef shoulder steak grilled,155,0.0,24.0,5.8,14.0,0.0,2.5,Breakfast
+chuck eye steak raw,856,0.0,72.4,62.8,300.0,0.0,26.7,Snack
+beef bottom round steak cooked,980,0.0,155.8,35.1,200.0,0.0,12.1,Lunch
+porterhouse steak cooked,235,0.0,20.4,16.4,85.0,0.0,6.2,Lunch
+beef under blade steak raw,1235,0.0,126.8,80.8,300.0,0.0,32.6,Lunch
+beef plate steak raw,617,0.9,47.8,46.8,200.0,0.0,19.0,Breakfast
+beef meat canned,111,0.0,9.2,7.9,95.0,0.0,3.9,Lunch
+beef breakfast strips raw,92,0.2,2.8,8.8,200.0,0.0,3.6,Lunch
+beef brisket cooked,589,0.0,46.0,43.6,100.0,0.0,16.8,Breakfast
+corned beef raw,898,0.6,66.6,67.6,5500.0,0.0,21.5,Dinner
+beef mince meat asda,55,6.8,0.0,3.1,0.0,0.0,1.3,Breakfast
+pastrami beef fat free,9,0.1,1.9,0.1,5.0,0.0,0.0,Lunch
+rib eye steak raw,743,0.4,62.8,54.5,200.0,0.0,24.0,Breakfast
+beef tenderloin steak cooked,374,0.0,37.0,24.0,61.0,0.0,9.4,Dinner
+chuck blade roast cooked,842,0.0,66.1,62.0,200.0,0.0,24.7,Breakfast
+cured beef dried,4,0.06,0.9,0.019,49.0,0.0,0.086,Lunch
+beef flank steak cooked,380,0.0,51.8,17.5,68.0,0.0,7.2,Dinner
+chuck eye steak grilled,853,0.0,76.9,60.5,200.0,0.0,26.7,Snack
+veal meat raw,653,0.0,87.8,30.7,400.0,0.0,12.7,Lunch
+veal loin cooked,80,0.0,8.5,4.9,1.0,0.0,1.9,Dinner
+veal loin raw,46,0.0,5.3,2.6,79.0,0.0,1.1,Dinner
+veal shoulder cooked,435,0.0,61.2,19.4,200.0,0.0,7.2,Snack
+beef tenderloin steak raw,405,0.0,32.2,29.8,32.0,0.0,12.0,Breakfast
+veal shank cooked,371,0.0,61.2,12.0,200.0,0.0,4.0,Breakfast
+beef brisket raw,1139,0.0,83.6,86.5,300.0,0.0,34.2,Lunch
+pastrami beef,104,0.3,15.5,4.1,800.0,0.0,1.9,Snack
+beef flank steak raw,47,0.0,6.0,2.3,54.0,0.0,1.0,Breakfast
+beef top sirloin steak cooked,430,0.0,47.7,25.2,55.0,0.0,9.9,Snack
+veal breast raw,943,0.0,79.2,66.9,300.0,0.0,26.7,Breakfast
+beef rib raw,1433,0.0,73.8,123.8,200.0,0.0,51.2,Dinner
+beef jerky,82,2.2,6.6,5.1,400.0,0.4,2.2,Breakfast
+beef breakfast strips cooked,51,0.2,3.5,3.9,300.0,0.0,1.6,Snack
+pork olive loaf,66,2.6,3.3,4.6,300.0,0.0,1.6,Dinner
+beef luncheon meat jellied,31,0.0,5.3,0.9,400.0,0.0,0.4,Dinner
+turkey pastrami,38,0.5,4.6,1.8,300.0,0.062,0.5,Dinner
+pork salami,41,0.2,2.3,3.4,200.0,0.0,1.2,Snack
+canadian style bacon raw,45,0.5,5.9,2.0,300.0,0.0,0.6,Lunch
+honey loaf,85,2.6,9.9,3.6,400.0,0.0,1.3,Lunch
+pork beef salami,37,0.076,2.1,3.1,200.0,0.0,1.1,Lunch
+beef pork bologna,92,1.6,4.6,7.4,300.0,0.0,2.8,Snack
+pork beef salami cooked,41,0.3,2.7,3.2,200.0,0.0,1.1,Dinner
+pork breakfast strips raw,88,0.2,2.7,8.4,200.0,0.0,2.9,Lunch
+pickle pimiento loaf,86,3.2,4.3,6.1,400.0,0.6,2.0,Snack
+luxury loaf,39,1.4,5.2,1.3,300.0,0.0,0.4,Lunch
+mortadella,47,0.5,2.5,3.8,200.0,0.0,1.4,Breakfast
+pork bologna,69,0.2,4.3,5.6,300.0,0.0,1.9,Lunch
+turkey salami cooked,9,0.081,1.0,0.5,23.0,0.054,0.1,Lunch
+pepperoni beef,10,0.0,0.5,0.9,90.0,0.0,0.3,Dinner
+peppered loaf,42,1.3,4.9,1.8,200.0,0.0,0.6,Snack
+luncheon meat beef,10,0.0,1.8,0.3,100.0,0.0,0.1,Dinner
+lebanon bologna,98,0.3,10.8,6.0,800.0,0.0,1.6,Dinner
+chicken pork bologna,94,1.2,2.9,8.6,300.0,0.0,2.8,Dinner
+turkey roll,40,0.6,4.9,1.9,100.0,0.0,0.6,Dinner
+beef salami cooked,68,0.5,3.3,5.8,300.0,0.0,2.6,Dinner
+yachtwurst cooked,150,0.8,8.3,12.7,500.0,0.0,4.4,Lunch
+italian salami,43,0.1,2.2,3.7,200.0,0.0,1.3,Dinner
+turkey ham,38,0.3,5.5,1.6,300.0,0.0,0.1,Dinner
+turkey bologna,59,1.3,3.2,4.5,300.0,0.1,1.2,Snack
+sliced turkey breast,17,0.4,2.4,0.6,100.0,0.0,0.1,Breakfast
+luncheon meat pork beef,99,0.7,3.5,9.0,400.0,0.0,3.2,Lunch
+beef bologna,90,1.3,3.3,7.8,300.0,0.0,3.1,Lunch
+turkey bacon cooked,313,2.5,24.3,22.9,1900.0,0.0,6.8,Lunch
+ground emu cooked,178,0.0,31.0,5.1,25.0,0.0,1.4,Dinner
+ostrich leg raw,94,0.0,19.0,1.5,67.0,0.0,0.5,Dinner
+ostrich strip raw,108,0.0,20.1,2.4,86.0,0.0,0.8,Dinner
+emu fillet cooked,607,0.0,123.2,9.1,200.0,0.0,2.3,Snack
+ostrich tenderloin raw,105,0.0,18.8,2.7,5.0,0.0,1.0,Breakfast
+emu drums cooked,649,0.0,134.7,8.4,500.0,0.0,2.7,Dinner
+green turtle raw,25,0.0,5.6,0.1,99.0,0.0,0.015,Breakfast
+ground bison cooked,448,0.0,63.6,21.6,200.0,0.0,8.7,Snack
+goat meat raw,494,0.0,93.4,10.5,400.0,0.0,3.2,Lunch
+ground emu raw,157,0.0,26.6,4.7,62.0,0.0,1.2,Dinner
+ground ostrich raw,180,0.0,22.0,9.5,21.0,0.0,2.4,Breakfast
+ostrich tip cooked,123,0.0,24.2,2.2,86.0,0.0,0.9,Breakfast
+caribou cooked,210,0.0,38.0,6.4,4.0,0.0,2.5,Dinner
+ground ostrich cooked,163,0.0,24.3,6.6,99.0,0.0,1.7,Lunch
+ostrich leg cooked,120,0.0,24.7,1.6,16.0,0.0,0.6,Lunch
+ostrich top loin cooked,132,0.0,23.9,3.3,29.0,0.0,1.1,Lunch
+ostrich strip cooked,139,0.0,25.0,3.6,34.0,0.0,1.5,Snack
+ostrich tip raw,97,0.0,18.6,2.0,41.0,0.0,0.7,Breakfast
+ostrich round raw,99,0.0,18.7,2.0,74.0,0.0,0.7,Breakfast
+ground bison raw,124,0.099,17.2,6.1,42.0,0.0,2.5,Breakfast
+ostrich fan raw,99,0.0,18.5,2.3,40.0,0.0,0.8,Snack
+ostrich top loin raw,101,0.0,18.4,2.5,73.0,0.0,1.0,Breakfast
+veal brain cooked,461,0.0,38.9,32.6,500.0,0.0,7.4,Snack
+veal tongue cooked,515,0.0,65.9,25.8,200.0,0.0,11.1,Lunch
+beef heart cooked,47,0.057,8.1,1.3,24.0,0.0,0.4,Dinner
+turkey liver cooked,100,0.0,14.3,4.3,83.0,0.0,1.2,Breakfast
+veal thymus cooked,35,0.0,6.4,0.9,36.0,0.0,0.3,Breakfast
+beef brain cooked,688,0.0,44.1,55.6,600.0,0.0,13.1,Lunch
+beef pancreas cooked,602,0.0,60.2,38.2,100.0,0.0,13.1,Dinner
+beef tripe cooked,80,1.7,10.0,3.4,45.0,0.0,1.2,Snack
+chicken gizzard cooked,223,0.0,44.1,3.9,69.0,0.0,1.0,Dinner
+pork pancreas cooked,537,0.0,69.8,26.5,100.0,0.0,9.1,Lunch
+beef tongue cooked,80,0.0,5.5,6.3,29.0,0.0,2.3,Lunch
+lamb heart cooked,353,3.7,47.7,15.1,100.0,0.0,6.0,Dinner
+beef spleen cooked,447,0.0,77.3,12.9,200.0,0.0,4.3,Snack
+veal kidneys cooked,300,0.0,48.4,10.4,200.0,0.0,3.2,Snack
+chicken heart cooked,268,0.1,38.3,11.5,81.0,0.0,3.3,Breakfast
+lamb tongue cooked,701,0.0,55.0,51.7,200.0,0.0,20.0,Snack
+veal heart cooked,368,0.3,57.7,13.4,100.0,0.0,3.6,Dinner
+chicken liver cooked,76,0.5,11.3,2.8,79.0,0.0,0.9,Lunch
+lamb pancreas cooked,541,0.0,52.7,34.9,100.0,0.0,15.8,Breakfast
+veal spleen cooked,445,0.0,83.1,10.0,200.0,0.0,3.3,Breakfast
+lamb liver cooked,739,8.5,102.7,29.6,200.0,0.0,11.5,Lunch
+turkey gizzard cooked,70,0.0,11.9,2.1,31.0,0.0,0.5,Snack
+lamp spleen cooked,460,0.0,78.1,14.1,200.0,0.0,4.7,Lunch
+turkey heart cooked,35,0.0,5.0,1.5,46.0,0.0,0.4,Snack
+beef liver cooked,130,3.5,19.8,3.6,68.0,0.0,1.2,Lunch
+lamb lungs cooked,431,0.0,75.7,11.8,300.0,0.0,4.0,Dinner
+pork brain cooked,527,0.0,46.4,36.3,300.0,0.0,8.2,Snack
+goose liver,125,5.9,15.4,4.0,100.0,0.0,1.5,Dinner
+pork kidneys cooked,211,0.0,35.6,6.6,100.0,0.0,2.1,Breakfast
+lamb brain cooked,503,0.0,43.5,35.3,500.0,0.0,9.0,Lunch
+pork heart cooked,215,0.6,34.2,7.3,53.0,0.0,1.9,Breakfast
+lamb kidneys cooked,349,2.5,60.3,9.2,400.0,0.0,3.1,Breakfast
+beef lungs cooked,364,0.0,61.8,11.2,300.0,0.0,3.8,Breakfast
+veal pancreas cooked,614,0.0,69.8,35.0,200.0,0.0,12.0,Breakfast
+pork liver cooked,584,13.3,92.1,15.6,200.0,0.0,5.0,Lunch
+beef kidneys cooked,45,0.0,7.7,1.3,29.0,0.0,0.3,Breakfast
+turkey giblets cooked,164,0.0,25.1,6.3,100.0,0.0,1.6,Lunch
+duck liver raw,60,1.6,8.2,2.0,89.0,0.0,0.6,Lunch
+veal liver cooked,154,3.0,22.7,5.0,46.0,0.0,1.6,Dinner
+pork lungs cooked,297,0.0,49.8,9.3,200.0,0.0,3.3,Snack
+veal lungs cooked,312,0.0,56.2,7.9,200.0,0.0,2.7,Snack
+beef thymus cooked,1215,0.0,83.2,95.2,400.0,0.0,32.8,Lunch
+ham,46,1.0,4.6,2.5,200.0,0.4,0.1,Dinner
+pork meat cooked,283,0.0,14.1,14.1,700.0,0.0,4.4,Lunch
+bacon roasted,43,0.1,3.0,3.3,34.0,0.0,1.1,Lunch
+pork top loin roasts raw,3644,0.0,468.4,182.8,1000.0,0.0,35.1,Lunch
+pork blade roll raw,76,0.0,4.7,6.2,400.0,0.0,2.2,Dinner
+pork backribs raw,2399,0.0,204.2,174.9,900.0,0.0,61.9,Snack
+pork spareribs cooked,703,0.0,51.4,53.6,200.0,0.0,19.7,Dinner
+pork stomach cooked,44,0.029,6.1,2.1,35.0,0.0,0.8,Breakfast
+honey smoked ham cooked,67,4.0,9.9,1.3,500.0,0.0,0.6,Dinner
+boston butt steak raw,844,0.0,79.0,56.1,300.0,0.0,19.7,Dinner
+pork sirloin chops cooked,140,0.0,23.3,4.5,1.0,0.0,1.5,Dinner
+pork country style ribs raw,242,0.0,24.8,15.1,61.0,0.0,3.0,Dinner
+ham patties,205,1.1,8.3,18.3,700.0,0.0,6.6,Snack
+pork feet cooked,67,0.0,6.2,4.5,46.0,0.0,1.2,Breakfast
+ground pork cooked,930,0.0,80.4,65.0,200.0,0.0,24.2,Snack
+pork centre loin chops cooked,328,0.0,40.2,17.4,65.0,0.0,5.5,Snack
+pork leg cap steak cooked,307,0.0,53.5,8.6,100.0,0.0,2.6,Dinner
+pork blade chops raw,376,0.0,55.8,15.4,200.0,0.0,5.2,Lunch
+pork tenderloin raw,606,0.0,104.3,17.8,300.0,0.0,6.0,Lunch
+pork sirloin chops raw,1090,0.0,205.5,23.3,600.0,0.0,8.2,Snack
+pork leg cap steak raw,284,0.0,50.0,7.8,200.0,0.0,2.7,Snack
+pork carcass raw,1706,0.0,63.1,159.1,200.0,0.0,56.4,Dinner
+pork splean cooked,446,0.0,84.3,9.6,300.0,0.0,3.2,Snack
+chopped ham,50,1.2,4.6,2.9,300.0,0.0,1.0,Dinner
+pork centre loin chops raw,338,0.0,41.2,18.0,100.0,0.0,6.0,Lunch
+pork blade chops cooked,265,1.1,32.4,14.6,72.0,0.0,4.3,Lunch
+boston butt steak cooked,494,0.0,46.4,32.7,100.0,0.0,12.2,Breakfast
+pork meat raw,179,0.0,2.6,18.6,21.0,0.0,6.2,Lunch
+pork top loin chops raw,287,0.0,39.9,12.8,99.0,0.0,4.5,Snack
+pork blade steak braised,694,0.087,68.2,44.7,400.0,0.0,16.6,Lunch
+pork boston steaks cooked,438,0.0,43.2,28.1,100.0,0.0,10.1,Dinner
+bacon cooked,43,0.068,3.5,3.1,200.0,0.0,1.1,Lunch
+pickled pork hocks,48,0.0,5.4,3.0,300.0,0.0,0.9,Breakfast
+pork boston roast cooked,705,0.0,60.5,49.4,200.0,0.0,18.3,Lunch
+canadian style bacon grilled,43,0.3,5.7,2.0,400.0,0.0,0.7,Dinner
+ham steak,70,0.0,11.1,2.4,700.0,0.0,0.8,Dinner
+pork backfat,3683,0.0,13.2,402.3,64.0,0.0,146.1,Snack
+bacon baked,44,0.1,2.9,3.5,200.0,0.0,1.1,Lunch
+pork arm picnic raw,5298,0.0,513.6,343.4,2300.0,0.0,113.6,Dinner
+salt pork raw,212,0.0,1.4,22.8,800.0,0.0,8.3,Breakfast
+pork arm picnic cooked,5292,0.0,560.3,322.7,2200.0,0.0,109.3,Snack
+pork top loin chops cooked,270,0.0,39.4,11.2,64.0,0.0,4.3,Breakfast
+ground pork raw,329,0.0,21.1,26.5,33.0,0.0,9.8,Lunch
+pork shoulder raw,1070,0.0,77.9,81.6,300.0,0.0,28.3,Lunch
+pork chitterlings cooked,66,0.0,3.5,5.8,78.0,0.0,2.7,Lunch
+pork breakfast strips cooked,52,0.1,3.3,4.1,200.0,0.0,1.4,Snack
+pork blade roll roasted,1079,1.4,65.0,88.3,3700.0,0.0,31.5,Dinner
+pork tail cooked,1089,0.0,46.8,98.5,93.0,0.0,34.2,Snack
+pork centre rib roasts raw,275,0.0,44.0,9.7,100.0,0.0,3.3,Breakfast
+pork centre rib roasts roasted,1942,0.0,211.3,114.9,700.0,0.0,42.6,Snack
+minced ham,55,0.4,3.4,4.3,300.0,0.0,1.5,Breakfast
+ham roasted,316,0.6,28.7,21.3,1300.0,0.0,7.1,Snack
+pork loin raw,232,0.0,23.1,14.7,3.0,0.0,5.1,Dinner
+pork backribs roasted,2564,0.0,202.0,188.9,800.0,0.0,68.5,Breakfast
+pork belly raw,2350,0.0,42.4,240.5,100.0,0.0,87.7,Lunch
+ham raw,266,0.046,23.8,18.2,1500.0,0.0,6.0,Lunch
+ham extra lean,45,0.6,5.1,2.3,400.0,0.0,0.8,Snack
+pork feet pickled,635,0.029,52.8,45.5,4300.0,0.0,13.4,Lunch
+pork shoulder cooked,394,0.0,31.4,28.9,1.0,0.0,10.6,Breakfast
+pork top loin roasts roasted,1628,0.0,224.3,74.8,400.0,0.0,24.1,Lunch
+pork skin,154,0.0,17.3,8.9,500.0,0.0,3.2,Dinner
+pork country style ribs cooked,235,0.0,22.8,15.2,49.0,0.0,5.4,Dinner
+pork blade steak raw,664,0.6,67.6,43.7,600.0,0.0,15.4,Snack
+pork tenderloin cooked,153,0.0,22.7,6.2,91.0,0.0,2.2,Breakfast
+pork loin cooked,213,0.0,24.2,12.1,77.0,0.0,4.5,Dinner
+pork ears cooked,184,0.2,17.7,12.0,200.0,0.0,4.3,Dinner
+pork tongue cooked,626,0.0,55.7,43.0,300.0,0.0,14.9,Breakfast
+pork spareribs raw,3593,0.0,200.6,303.5,1100.0,0.0,97.7,Lunch
+ham patties grilled,205,1.0,8.0,18.5,600.0,0.0,6.7,Lunch
+chicken skin roasted,508,0.0,22.8,45.6,28.0,0.0,12.8,Snack
+turkey breast raw,3554,0.0,495.6,158.9,1300.0,0.0,43.2,Lunch
+ground turkey raw,169,0.0,22.4,8.7,47.0,0.0,2.3,Breakfast
+chicken wing cooked,52,0.0,4.8,3.5,86.0,0.0,1.0,Dinner
+turkey roast roasted,209,4.1,28.8,7.8,900.0,0.0,2.6,Lunch
+pheasant meat raw,1448,0.0,181.6,74.3,300.0,0.0,21.6,Snack
+chicken back raw,188,0.0,8.3,17.0,43.0,0.0,4.9,Lunch
+chicken back cooked,93,0.0,8.0,6.5,91.0,0.0,1.8,Breakfast
+chicken leg fried,431,13.8,34.4,25.5,400.0,0.5,6.8,Snack
+chicken feet cooked,975,0.9,88.0,66.2,300.0,0.0,17.8,Lunch
+turkey steak fried,179,10.9,9.1,10.8,500.0,0.0,2.8,Snack
+turkey taco meat cooked,271,5.5,30.7,13.9,1200.0,0.0,3.2,Breakfast
+chicken leg raw,736,0.6,56.3,54.9,300.0,0.0,15.0,Dinner
+chicken meat raw,1978,0.0,171.1,138.6,600.0,0.0,39.7,Breakfast
+chicken neck cooked,94,0.0,7.5,6.9,85.0,0.0,1.9,Breakfast
+chicken drumstick fried,193,6.0,15.8,11.3,200.0,0.2,3.0,Breakfast
+quail egg,14,0.08,1.2,1.0,42.0,0.0,0.3,Breakfast
+duck meat cooked,472,0.0,26.6,39.7,41.0,0.0,13.5,Dinner
+chicken wing roasted,216,0.0,20.2,14.3,39.0,0.0,4.2,Dinner
+quail meat cooked,1028,0.0,113.7,63.9,200.0,0.0,17.9,Snack
+goose meat cooked,427,0.0,35.2,30.7,89.0,0.0,9.6,Lunch
+chicken breast cooked,114,0.0,17.3,4.5,58.0,0.0,1.3,Dinner
+chicken neck raw,149,0.0,7.0,13.1,27.0,0.0,3.6,Dinner
+duck egg,130,1.0,9.0,9.6,100.0,0.0,2.6,Lunch
+pheasant breast raw,484,0.0,88.7,11.8,100.0,0.0,4.0,Dinner
+duck meat raw,5123,0.0,145.7,498.8,800.0,0.0,167.6,Breakfast
+squab meat raw,585,0.0,36.8,47.4,100.0,0.0,16.8,Breakfast
+chicken drumstick raw,211,0.1,23.4,12.4,100.0,0.0,3.3,Lunch
+turkey meat roasted,284,0.031,42.8,11.1,200.0,0.0,3.2,Snack
+chicken breast raw,299,0.0,36.3,16.1,100.0,0.0,4.6,Snack
+ground chicken cooked,474,0.0,58.4,27.4,200.0,0.0,7.8,Lunch
+turkey wing cooked,426,0.0,50.9,23.1,100.0,0.0,6.3,Lunch
+goose meat raw,6077,0.0,259.8,550.7,1200.0,0.0,160.2,Breakfast
+turkey breast roasted,3266,0.0,496.1,128.0,1100.0,0.0,36.3,Snack
+chicken fajita strips,13,0.2,1.7,0.5,44.0,0.0,0.2,Dinner
+crispy chicken strips tyson,145,0.0,0.0,6.0,0.0,0.0,7.7,Breakfast
+chocolate pudding fat free,105,23.6,2.2,0.3,100.0,0.3,0.0,Lunch
+tapioca pudding,143,23.9,2.1,4.3,200.0,0.0,1.1,Snack
+tapioca pudding fat free,105,23.9,1.6,0.4,200.0,0.0,0.1,Dinner
+rice pudding,122,20.8,3.6,2.4,100.0,0.3,1.4,Dinner
+corn pudding,328,42.4,11.1,12.6,700.0,3.0,6.3,Breakfast
+chocolate pudding,213,34.5,3.1,6.9,200.0,0.0,1.9,Snack
+lemon pudding,173,30.2,4.1,4.4,400.0,0.0,2.6,Snack
+vanilla pudding,195,33.9,2.2,5.7,300.0,0.0,1.5,Lunch
+profeel proteiinirahka valio,140,19.3,175.0,0.4,0.0,0.0,0.2,Snack
+cottage cheese creamed,20,0.7,2.2,0.9,95.0,0.0,0.3,Snack
+zaziki milfina,51,0.0,0.0,4.4,0.0,0.0,1.6,Breakfast
+cottage cheese low fat,163,6.1,28.0,2.3,900.0,0.0,1.5,Snack
+cottage cheese nonfat,104,9.7,15.0,0.4,500.0,0.0,0.2,Dinner
+vanilla yogurt low fat,208,33.8,12.1,3.1,200.0,0.0,2.0,Breakfast
+classique yogurt plain 2 liberte,30,1.7,3.3,1.2,0.0,0.0,0.7,Breakfast
+yoplait light strawberry yogurt yoplait,79,0.074,0.0,0.0,0.0,0.0,14.1,Lunch
+vanilla yogurt,145,23.5,8.4,2.1,100.0,0.0,1.3,Snack
+chocolate yogurt,168,35.3,5.3,0.0,200.0,1.8,0.0,Lunch
+yogurt parfait,125,23.6,5.0,1.5,48.0,1.6,0.8,Dinner
+yogurt,92,7.0,5.2,4.9,5.0,0.0,3.1,Breakfast
+chocolate frozen yogurt,221,37.6,5.2,6.3,100.0,4.0,4.0,Breakfast
+frozen yogurt,221,37.6,5.2,6.3,100.0,0.0,4.0,Breakfast
+yogurt low fat,154,17.2,12.9,3.8,200.0,0.0,2.5,Dinner
+vanilla yoghurt oikos,120,0.0,0.0,1.8,0.0,0.0,24.0,Dinner
+fruit yogurt,149,28.0,6.0,1.7,13.0,0.0,1.1,Lunch
+danone low fat alsafi,88,0.089,0.0,1.7,0.0,0.0,1.0,Lunch
+fruit n yogurt parfait mcdonalds,156,30.9,4.1,1.9,65.0,1.5,0.044,Lunch
+triple zero greek yogurt dannon oikos,120,22.5,0.038,0.0,0.0,0.0,0.0,Snack
+greek yogurt,100,6.1,17.3,0.7,81.0,0.0,0.2,Breakfast
+chocolate rasberry protein mini proteinfx,102,0.0,0.0,2.9,0.0,0.0,1.8,Breakfast
+gushers fruit gushers,360,0.2,0.0,6.0,0.0,0.0,80.0,Lunch
+egg fried,90,0.4,6.3,6.8,43.0,0.0,2.0,Breakfast
+glucerna abbott,1010,120.9,0.0,35.6,0.0,12.8,2.8,Lunch
+sports drink,26,7.2,0.0,0.0,73.0,0.0,0.0,Snack
+peanut butter cookie protein syntha 6,200,5.0,0.0,6.0,0.0,0.0,15.0,Snack
+hanfprotein pulver rohkostqualitat veganz,107,14.2,0.0,3.1,0.0,0.0,0.3,Dinner
+smoothie high protein creamy chocolate slimfast,110,2.1,12.0,3.5,200.0,0.0,0.5,Snack
+egg large,138,0.0,0.0,9.3,0.0,0.0,0.5,Lunch
+boysenberries frozen,66,16.1,1.5,0.3,64.0,7.0,0.049,Snack
+malt beverage,88,19.1,0.5,0.3,20.0,0.0,0.005,Dinner
+chocolate powder for milk,88,19.9,1.0,0.5,12.0,1.0,0.5,Breakfast
+vegetable fruit juice,9,2.2,0.071,0.017,43.0,0.0,0.0,Lunch
+cocoa powder unsweetened,12,3.1,1.1,0.7,62.0,1.8,0.4,Breakfast
+coconut milk,35,0.8,0.3,3.6,1.0,0.3,3.2,Dinner
+cocoa powder,28,5.9,0.5,0.3,34.0,0.3,0.2,Dinner
+rice drink,113,22.0,0.7,2.3,58.0,0.7,0.0,Dinner
+coconut water,46,8.9,1.7,0.5,300.0,2.6,0.4,Breakfast
+caramel med iced coffee dunkin donuts,268,0.0,0.0,9.0,0.0,0.0,41.0,Breakfast
+instant coffee with water decaffeinated,4,0.8,0.2,0.0,93.0,0.0,0.024,Breakfast
+instant coffee powder,353,75.4,12.2,0.5,51.0,0.0,0.2,Breakfast
+instant coffee powder decaffeinated,6,1.4,0.2,0.069,90.0,0.0,0.015,Dinner
+instant cappuccino powder,53,11.2,0.4,0.7,74.0,0.2,0.4,Dinner
+coffee decaffeinated,0,0.0,0.2,0.0,58.0,0.0,0.087,Lunch
+espresso decaffeinated,3,0.5,0.065,0.011,11.0,0.0,0.037,Lunch
+instant coffee with water,4,0.6,0.2,0.0,15.0,0.0,0.051,Breakfast
+coffee,2,0.0,0.3,0.069,75.0,0.0,0.011,Snack
+espresso,3,0.5,0.021,0.086,83.0,0.0,0.068,Snack
+whey protein powder vanilla eas,108,0.0,0.0,1.7,0.0,0.0,1.4,Dinner
+energy drink sugar free red bull,13,1.8,0.6,0.2,8.0,0.0,0.0,Dinner
+powerade coca cola,9,2.3,0.0,0.009,5.0,0.0,0.076,Dinner
+amp energy pepsi,110,29.0,0.6,0.2,93.0,0.0,0.0,Lunch
+gatorade g2 pepsi,2,0.6,0.069,0.052,11.0,0.0,0.0,Lunch
+amp energy sugar free pepsi,5,2.5,0.0,0.0,93.0,0.0,0.0,Dinner
+energy drink red bull,111,26.4,1.2,0.0,100.0,0.0,0.0,Dinner
+powerade zero ion4 coca cola,0,0.0,0.0,0.0,30.0,0.0,0.0,Dinner
+full throttle coca cola,110,29.0,0.6,0.2,71.0,0.0,0.0,Snack
+passion fruit juice purple,148,35.7,1.7,0.4,84.0,0.5,0.064,Lunch
+pomegranate juice,134,32.7,0.4,0.7,89.0,0.2,0.2,Snack
+cranberry apricot juice,157,39.7,0.5,0.0,7.0,0.2,0.0,Snack
+pineapple juice,133,32.2,0.9,0.3,75.0,0.5,0.071,Dinner
+passion fruit juice yellow,126,33.6,1.0,0.1,3.0,0.5,0.008,Dinner
+orange apricot juice,128,31.8,0.8,0.3,96.0,0.3,0.001,Breakfast
+tangerine juice,106,24.9,1.2,0.5,22.0,0.5,0.082,Breakfast
+orange juice,90,20.8,1.4,0.4,67.0,0.4,0.079,Snack
+grapefruit juice,96,22.7,1.2,0.2,61.0,0.0,0.011,Lunch
+pineapple grapefruit juice,118,29.0,0.5,0.3,54.0,0.3,0.077,Dinner
+tamarind nectar,143,37.0,0.2,0.3,46.0,1.3,0.0,Dinner
+apple juice,114,28.0,0.2,0.3,38.0,0.5,0.064,Snack
+limeade,128,34.1,0.0,0.0,71.0,0.0,0.0,Breakfast
+guava nectar,158,40.8,0.2,0.2,63.0,2.5,0.05,Lunch
+orange grapefruit juice,106,25.4,1.5,0.2,82.0,0.2,0.009,Breakfast
+orange juice sainsburys,14,0.0,0.0,0.088,0.0,0.0,2.5,Breakfast
+cranberry apple juice,154,38.8,0.0,0.3,61.0,0.0,0.066,Breakfast
+pineapple orange juice,125,29.5,3.3,0.0,69.0,0.3,0.0,Breakfast
+pear nectar,150,39.4,0.3,0.062,56.0,1.5,0.032,Dinner
+blackberry juice,95,19.5,0.8,1.5,72.0,0.3,0.095,Dinner
+lemon juice,54,16.6,0.9,0.6,46.0,0.7,0.06,Breakfast
+cranberry grape juice,137,34.3,0.5,0.2,79.0,0.2,0.053,Lunch
+citrus fruit juice,114,28.3,0.8,0.057,51.0,0.2,0.088,Snack
+prune juice,182,44.7,1.6,0.006,100.0,2.6,0.033,Lunch
+guanabana nectar,148,37.5,0.3,0.4,61.0,0.3,0.096,Lunch
+fruit juice,108,26.3,0.3,0.1,100.0,0.2,0.059,Lunch
+horchata,15,3.3,0.1,0.2,13.0,0.0,0.0,Breakfast
+fruit punch,98,24.4,0.2,0.4,80.0,0.0,0.048,Dinner
+apricot nectar,139,35.7,0.9,0.2,25.0,1.5,0.07,Lunch
+orangensaft ja,86,1.4,0.0,0.0,0.0,0.0,0.0,Breakfast
+fruchtcocktail granini,102,1.0,0.0,0.4,0.0,0.0,0.2,Lunch
+peach nectar,125,29.7,0.5,1.3,77.0,0.2,0.6,Lunch
+orange pineapple juice,15,3.6,0.1,0.08,44.0,0.032,0.056,Breakfast
+cranberry juice,92,24.4,0.8,0.3,93.0,0.2,0.061,Dinner
+white grapefruit juice,96,22.7,1.2,0.2,18.0,0.2,0.083,Dinner
+mango nectar,128,32.9,0.3,0.2,61.0,0.8,0.04,Snack
+acerola cherry juice,56,11.6,1.0,0.7,82.0,0.7,0.2,Breakfast
+apple juice concentrate,350,86.5,1.1,0.8,49.0,0.8,0.1,Snack
+papaya nectar,143,36.3,0.4,0.4,82.0,1.5,0.1,Snack
+apple juice martinellis,122,0.0,0.0,0.0,0.0,0.0,0.0,Snack
+lime juice,61,20.4,1.0,0.2,14.0,1.0,0.052,Dinner
+grape juice,152,37.4,0.9,0.3,3.0,0.5,0.06,Breakfast
+water dannon,0,0.0,0.0,0.0,0.0,0.0,0.0,Snack
+tap water,0,0.0,0.0,0.0,18.0,0.0,0.0,Breakfast
+table water,0,0.0,0.0,0.0,44.0,0.0,0.0,Breakfast
+fruit flavored water,52,13.0,0.0,0.0,0.0,0.0,0.0,Dinner
+water,0,0.0,0.0,0.0,24.0,0.0,0.0,Snack
+cola light coca cola,0,0.0,0.0,0.0,87.0,0.0,0.0,Snack
+lemon lime soda,151,38.4,0.3,0.0,24.0,0.0,0.0,Breakfast
+tonic water,114,29.6,0.0,0.0,49.0,0.0,0.0,Lunch
+lemonade low calorie,7,1.6,0.092,0.0,13.0,0.0,0.0,Dinner
+ginger ale,68,17.5,0.0,0.0,43.0,0.0,0.0,Dinner
+ice tea lemon flavor nestle,88,22.3,0.0,0.0,63.0,0.0,0.0,Dinner
+sprite coca cola,80,20.3,0.1,0.063,21.0,0.0,0.0,Dinner
+cola coca cola,151,38.9,0.0,0.0,45.0,0.0,0.0,Snack
+cola,74,19.1,0.1,0.07,72.0,0.0,0.0,Snack
+cream soda,252,65.7,0.0,0.0,98.0,0.0,0.0,Lunch
+club soda,0,0.0,0.0,0.0,46.0,0.0,0.0,Dinner
+pink lemonade,86,21.6,0.1,0.3,10.0,0.2,0.079,Dinner
+grape soda,160,41.7,0.0,0.0,42.0,0.0,0.0,Breakfast
+cola without caffeine coca cola,151,38.9,0.0,0.0,40.0,0.0,0.0,Snack
+white lemonade,80,20.8,0.1,0.003,20.0,0.0,0.093,Dinner
+chocolate soda,207,52.6,0.0,0.0,31.0,0.0,0.0,Lunch
+sweet tea lipton,130,35.0,0.0,0.0,0.0,0.0,0.0,Lunch
+hibiscus tea,74,14.8,0.9,1.3,91.0,0.6,0.5,Snack
+instant lemon tea,2,0.3,0.1,0.0,46.0,0.0,0.0,Lunch
+pesca tea santal,116,0.0,0.0,0.0,0.0,0.0,28.1,Lunch
+instant lemon tea sweetened,91,22.3,0.071,0.2,89.0,0.3,0.018,Snack
+tea with milk and sugar yorkshire,15,0.4,0.0,0.5,0.0,0.0,0.3,Dinner
+tea blueberry muffin tekanne,4,0.4,0.0,0.2,0.0,0.0,0.2,Dinner
+chamomile tea,2,0.4,0.0,0.0,3.0,0.0,0.028,Lunch
+black tea,2,0.7,0.0,0.0,91.0,0.0,0.072,Lunch
+herb tea,2,0.4,0.0,0.0,64.0,0.0,0.014,Dinner
+clam tomato juice,80,18.2,1.0,0.3,600.0,0.7,0.0,Snack
+tomato juice,41,8.6,2.1,0.7,63.0,1.0,0.043,Lunch
+vegetable juice,53,11.1,1.5,0.2,100.0,1.9,0.071,Breakfast
+tomato vegetable juice,53,11.1,1.5,0.2,200.0,1.9,0.014,Snack
+carrot juice,80,18.6,1.9,0.3,100.0,1.6,0.055,Lunch
+acorn dried,144,15.2,2.3,8.9,0.0,0.0,1.2,Lunch
+fenugreek seeds,36,6.5,2.6,0.7,90.0,2.7,0.2,Breakfast
+peanut topping mcdonalds,181,4.6,7.9,15.0,0.0,0.0,2.4,Breakfast
+beechnuts dried,173,10.1,1.9,15.0,68.0,0.0,1.7,Dinner
+breadnut tree seeds raw,61,13.1,1.7,0.3,84.0,0.0,0.089,Snack
+cumin seeds,8,0.9,0.4,0.5,73.0,0.2,0.096,Snack
+pili nuts dried,863,4.8,13.0,95.5,14.0,0.0,37.4,Dinner
+hazelnuts roasted,194,5.3,4.5,18.7,0.0,2.8,1.4,Snack
+lupins cooked,193,15.4,25.8,4.8,400.0,4.6,0.6,Snack
+hazelnuts blanched,178,4.8,3.9,17.3,0.0,3.1,1.3,Snack
+brazilnuts dried,33,0.6,0.7,3.3,73.0,0.4,0.8,Snack
+sunflower seeds dry roasted,47,1.9,1.5,4.0,67.0,0.9,0.4,Snack
+ginkgo nuts canned,172,34.3,3.5,2.5,500.0,14.4,0.5,Breakfast
+peanuts cooked,572,38.3,24.3,39.6,1400.0,15.8,5.5,Snack
+pumpkin squash seeds dried,721,13.8,39.0,63.3,13.0,7.7,11.2,Breakfast
+cashew nuts raw,156,8.5,5.2,12.4,20.0,0.9,2.2,Snack
+sunflower seeds dried,269,9.2,9.6,23.7,14.0,4.0,2.0,Dinner
+lotus seeds dried,106,20.6,4.9,0.6,24.0,0.0,0.1,Lunch
+butternuts dried,734,14.5,29.9,68.4,62.0,5.6,1.6,Breakfast
+sesame seeds dried,52,2.1,1.6,4.5,49.0,1.1,0.6,Snack
+breadfruit seeds,57,8.8,2.2,1.7,40.0,1.6,0.5,Dinner
+pinyon pine nuts dried,1,0.01,0.083,0.073,70.0,0.005,0.022,Lunch
+pine nuts dried,909,17.7,18.5,92.3,86.0,5.0,6.6,Breakfast
+flaxseeds,55,3.0,1.9,4.3,35.0,2.8,0.4,Lunch
+safflower seed kernels dried,146,9.7,4.6,10.9,42.0,0.0,1.0,Dinner
+pistachio nuts raw,691,33.8,24.9,55.8,37.0,12.7,6.8,Breakfast
+peanuts raw,828,23.5,37.7,71.9,38.0,12.4,10.0,Lunch
+poppy seeds,46,2.5,1.6,3.7,79.0,1.7,0.4,Snack
+valencia peanuts raw,832,30.5,36.6,69.5,94.0,12.7,10.7,Breakfast
+spanish peanuts,832,23.1,38.2,72.4,36.0,13.9,11.2,Lunch
+dill seeds,20,3.6,1.1,1.0,37.0,1.4,0.018,Dinner
+caraway seeds,22,3.3,1.3,1.0,14.0,2.5,0.03,Dinner
+acorn raw,110,11.5,1.7,6.8,0.0,0.0,0.9,Breakfast
+almonds roasted,182,5.3,6.4,16.6,29.0,3.2,1.3,Lunch
+lotus seeds raw,25,4.9,1.2,0.1,20.0,0.0,0.097,Breakfast
+chestnuts cooked,37,7.9,0.6,0.4,46.0,0.0,0.016,Breakfast
+alfalfa seeds,1,0.002,0.1,0.075,48.0,0.015,0.029,Lunch
+virginia peanuts roasted,173,6.0,7.8,14.6,18.0,2.7,1.9,Lunch
+hazelnuts raw,471,12.5,11.2,45.6,0.0,7.3,3.3,Snack
+anise seeds,7,1.1,0.4,0.3,100.0,0.3,0.06,Lunch
+macadamia nuts roasted,215,4.0,2.3,22.8,64.0,2.4,3.6,Dinner
+studentenfutter alnatura,139,13.2,3.1,7.8,0.0,0.031,0.9,Breakfast
+pumpkin squash seeds roasted,46,1.2,2.4,3.9,45.0,0.5,0.7,Breakfast
+water chestnut raw,120,29.7,1.7,0.1,97.0,3.7,0.039,Dinner
+chestnuts roasted,37,7.9,0.5,0.3,43.0,0.8,0.009,Lunch
+ginkgo nuts raw,52,10.6,1.2,0.5,67.0,0.0,0.029,Dinner
+almonds raw,9,0.3,0.3,0.7,43.0,0.2,0.04,Dinner
+peanuts roasted,180,4.6,8.4,15.8,69.0,2.8,2.6,Snack
+sunflower seeds toasted,829,27.6,23.1,76.1,800.0,15.4,8.0,Dinner
+sisymbrium seeds,235,43.1,9.0,3.4,47.0,0.0,0.7,Breakfast
+breadnut tree seeds dried,587,127.0,13.8,2.7,91.0,23.8,0.7,Dinner
+pecans raw,753,15.1,10.0,78.4,0.0,10.5,6.7,Breakfast
+chia seeds dried,138,11.9,4.7,8.7,47.0,9.7,0.9,Breakfast
+japanese chestnuts roasted,57,12.8,0.8,0.2,79.0,0.0,0.08,Breakfast
+sesame seeds toasted,45,2.1,1.4,3.8,70.0,1.1,0.5,Lunch
+cashew nuts roasted,174,9.0,5.1,14.3,91.0,1.0,2.5,Snack
+lupins raw,668,72.7,65.1,17.5,9.0,34.0,2.1,Breakfast
+mustard seeds ground,10,0.6,0.5,0.7,17.0,0.2,0.012,Breakfast
+mixed nuts roasted,178,7.6,5.2,15.4,100.0,2.7,2.0,Lunch
+salat mix alestro,61,2.4,0.0,5.2,0.0,0.0,0.9,Breakfast
+chestnuts raw,309,66.0,3.5,3.3,20.0,11.7,0.6,Dinner
+pistachio nuts roasted,172,8.5,6.3,13.7,8.0,3.1,1.7,Dinner
+walnut,33,0.7,0.8,3.3,41.0,0.3,0.3,Snack
+celery seeds,25,2.7,1.2,1.6,68.0,0.8,0.1,Breakfast
+hickorynuts dried,788,21.9,15.3,77.2,53.0,7.7,8.4,Lunch
+spanish peanuts roasted,851,25.7,41.2,72.1,600.0,13.1,11.1,Dinner
+woca seeds dried,102,22.6,2.2,0.3,48.0,5.4,0.025,Lunch
+pecans roasted,215,3.9,2.8,22.6,62.0,2.9,2.2,Lunch
+fennel seeds,7,1.0,0.3,0.3,97.0,0.8,0.008,Dinner
+chinese chestnuts roasted,68,14.8,1.3,0.3,52.0,0.0,0.027,Lunch
+watermelon seed kernels dried,602,16.5,30.6,51.2,100.0,0.0,10.6,Dinner
+macadamia nuts raw,38,0.7,0.4,4.0,11.0,0.5,0.6,Lunch
+pectin,163,45.2,0.2,0.2,100.0,4.3,0.052,Dinner
+black walnut dried,31,0.5,1.2,3.0,28.0,0.3,0.2,Breakfast
+water chestnut canned,70,17.2,1.2,0.015,11.0,3.5,0.05,Snack
+ginkgo nuts dried,98,20.5,2.9,0.6,45.0,0.0,0.1,Dinner
+virginia peanuts raw,822,24.1,36.8,71.2,8.0,12.4,9.3,Dinner
+valencia peanuts roasted,177,4.9,8.1,15.4,4.0,2.7,2.4,Snack
+nesfit diet cereal nestle,75,0.0,0.0,0.0,0.0,0.0,14.5,Dinner
+corn grits cooked,182,37.9,4.4,1.2,600.0,2.1,0.2,Dinner
+amaranth flakes,134,27.0,5.9,2.7,67.0,3.6,0.5,Lunch
+granola,293,32.3,8.2,14.6,10.0,5.3,2.4,Snack
+muesli with fruit nuts,231,45.7,4.3,3.4,100.0,5.8,0.5,Breakfast
+muesli master crumble,124,4.5,2.4,2.4,0.0,0.0,1.0,Dinner
+bran flakes,131,32.2,4.0,0.8,200.0,7.3,0.2,Snack
+nut cereal,245,46.2,4.0,5.9,300.0,3.6,1.0,Lunch
+corn flakes,108,24.6,1.7,0.3,200.0,0.8,0.098,Breakfast
+corn grits dry,36,7.7,0.7,0.2,54.0,0.4,0.022,Snack
+margarine with yoghurt,88,0.073,0.058,9.8,18.0,0.0,1.9,Breakfast
+sunflower seed butter,99,3.7,2.8,8.8,65.0,0.9,0.7,Breakfast
+hazelnut oil,120,0.0,0.0,13.6,0.0,0.0,1.0,Breakfast
+menhaden fish oil,1966,0.0,0.0,218.0,0.0,0.0,66.3,Dinner
+cod liver fish oil,123,0.0,0.0,13.6,0.0,0.0,3.1,Dinner
+sardine oil,123,0.0,0.0,13.6,0.0,0.0,4.1,Lunch
+cupu assu oil,120,0.0,0.0,13.6,0.0,0.0,7.2,Lunch
+lard,115,0.0,0.0,12.8,0.0,0.0,5.0,Snack
+sesame butter,94,3.8,2.9,8.1,31.0,0.9,1.1,Lunch
+margarine spread,59,0.1,0.082,6.7,19.0,0.0,1.2,Breakfast
+lard vegetable oil,115,0.0,0.0,12.8,0.0,0.0,5.2,Breakfast
+shortening,113,0.0,0.0,12.8,0.0,0.0,3.2,Dinner
+vegetable oil spread,75,0.1,0.007,8.4,81.0,0.0,1.7,Breakfast
+cottonseed oil,120,0.0,0.0,13.6,0.0,0.0,3.5,Snack
+vegetable oil spread fat free,6,0.4,0.2,0.5,100.0,0.0,0.015,Breakfast
+soy margarine,88,0.0,0.0,9.9,100.0,0.0,3.2,Breakfast
+margarine with salt,100,0.017,0.031,11.3,100.0,0.0,2.1,Snack
+margarine,102,0.018,0.037,11.5,91.0,0.0,2.2,Lunch
+salmon fish oil,123,0.0,0.0,13.6,0.0,0.0,2.7,Lunch
+nutmeg butter oil,1927,0.0,0.0,218.0,0.0,0.0,196.2,Snack
+almond butter,98,3.0,3.4,8.9,37.0,1.6,0.7,Dinner
+sour cream shoprite,60,1.0,0.0,5.0,0.0,0.0,3.5,Breakfast
+ucuhuba butter oil,120,0.0,0.0,13.6,0.0,0.0,11.6,Snack
+chicken fat,115,0.0,0.0,12.8,0.0,0.0,3.8,Breakfast
+herring fish oil,123,0.0,0.0,13.6,0.0,0.0,2.9,Dinner
+bacon grease,39,0.0,0.0,4.3,9.0,0.0,1.7,Breakfast
+turkey fat,45,0.0,0.0,5.0,0.0,0.0,1.5,Snack
+beef tallow,115,0.0,0.0,12.8,0.0,0.0,6.4,Breakfast
+goose fat,45,0.0,0.0,5.0,0.0,0.0,1.4,Lunch
+duck fat,44,0.0,0.0,5.0,0.0,0.0,1.7,Dinner
+mutton tallow,45,0.0,0.0,5.0,0.0,0.0,2.4,Dinner
+grapeseed oil,120,0.0,0.0,13.6,0.0,0.0,1.3,Dinner
+sheanut oil,1927,0.0,0.0,218.0,0.0,0.0,101.6,Snack
+almond oil,120,0.0,0.0,13.6,0.0,0.0,1.1,Dinner
+sunflower oil,120,0.0,0.0,13.6,0.0,0.0,1.2,Lunch
+cashew butter,94,4.4,2.8,7.9,71.0,0.3,1.6,Snack
+canola oil,124,0.0,0.0,14.0,0.0,0.0,1.0,Lunch
+babassu oil,1927,0.0,0.0,218.0,0.0,0.0,177.0,Breakfast
+teaseed oil,120,0.0,0.0,13.6,0.0,0.0,2.9,Breakfast
+avocado oil,124,0.0,0.0,14.0,0.0,0.0,1.6,Breakfast
+vegetable palm kernel oil,117,0.0,0.0,13.6,0.0,0.0,11.1,Breakfast
+coconut oil,117,0.0,0.0,13.6,0.0,0.0,11.2,Lunch
+safflower oil,120,0.0,0.0,13.6,0.0,0.0,1.0,Snack
+vegetable oil,120,0.0,0.0,13.6,0.0,0.0,2.1,Snack
+apricot kernel oil,40,0.0,0.0,4.5,0.0,0.0,0.3,Dinner
+peanut oil,119,0.0,0.0,13.5,0.0,0.0,2.3,Lunch
+poppyseed oil,120,0.0,0.0,13.6,0.0,0.0,1.8,Breakfast
+flaxseed oil,120,0.0,0.086,13.6,0.0,0.0,1.2,Lunch
+tomatoseed oil,1927,0.0,0.0,218.0,0.0,0.0,42.9,Dinner
+wheat germ oil,120,0.0,0.0,13.6,0.0,0.0,2.6,Dinner
+sesame oil,40,0.0,0.0,4.5,0.0,0.0,0.6,Lunch
+corn granola oil,124,0.0,0.0,14.0,0.0,0.0,1.1,Lunch
+cocoa butter oil,120,0.0,0.0,13.6,0.0,0.0,8.1,Lunch
+olive oil,119,0.0,0.0,13.5,4.0,0.0,1.9,Snack
+palm kernel oil,40,0.0,0.0,4.5,98.0,0.0,4.0,Breakfast
+mustard oil,124,0.0,0.0,14.0,0.0,0.0,1.6,Lunch
+rice bran oil,120,0.0,0.0,13.6,0.0,0.0,2.7,Lunch
+vegetable macaroni dry,308,62.9,11.0,0.9,60.0,3.6,0.1,Lunch
+chow mein noodles,257,37.5,5.9,9.9,500.0,1.5,1.0,Dinner
+chinese noodles,456,111.9,0.2,0.094,88.0,0.7,0.088,Dinner
+vegetable macaroni cooked,172,35.7,6.1,0.1,15.0,5.8,0.037,Snack
+corn pasta dry,375,83.2,7.8,2.2,27.0,11.6,0.3,Breakfast
+egg noodles dry,146,27.1,5.4,1.7,95.0,1.3,0.4,Snack
+whole wheat spaghetti dry,98,21.2,4.1,0.4,2.0,0.0,0.047,Breakfast
+japanese soba noodles dry,95,21.1,4.1,0.2,200.0,0.0,0.084,Dinner
+rice noodles dry,103,23.6,1.0,0.2,6.0,0.5,0.053,Dinner
+spinach spaghetti dry,105,21.2,3.8,0.4,94.0,3.0,0.097,Dinner
+egg noodles cooked,110,20.1,3.6,1.7,27.0,1.0,0.3,Snack
+japanese somen noodles cooked,231,48.5,7.0,0.3,300.0,0.0,0.006,Lunch
+whole wheat macaroni dry,365,78.8,15.4,1.5,28.0,8.7,0.3,Lunch
+pasta marinara and ground beef sauce,41,4.1,2.5,1.6,0.0,0.5,0.5,Dinner
+macaroni raw,390,78.4,13.7,1.6,97.0,3.4,0.3,Lunch
+spaghetti dry,105,21.1,3.7,0.4,90.0,0.9,0.045,Lunch
+fusilli cucina,100,3.4,0.0,0.4,0.0,0.0,0.1,Snack
+japanese somen noodles dry,101,21.0,3.2,0.2,500.0,1.2,0.0,Breakfast
+pasta cooked,301,57.3,11.8,2.4,73.0,0.0,0.3,Dinner
+macaroni cooked,221,43.2,8.1,1.3,71.0,2.5,0.2,Dinner
+spinach egg noodles dry,145,26.7,5.6,1.7,96.0,2.6,0.4,Snack
+japanese soba noodles cooked,113,24.4,5.8,0.1,100.0,0.0,0.026,Snack
+rice noodles cooked,190,42.3,3.2,0.4,75.0,1.8,0.072,Lunch
+whole wheat macaroni cooked,174,37.2,7.5,0.8,57.0,3.9,0.1,Dinner
+spaghetti cooked,363,71.0,13.3,2.1,89.0,4.1,0.4,Breakfast
+whole wheat spaghetti cooked,174,37.2,7.5,0.8,91.0,6.3,0.1,Snack
+waffle,218,24.7,5.9,10.6,400.0,0.0,2.1,Breakfast
+baked taco shell,61,8.3,0.8,2.7,4.0,0.9,0.8,Breakfast
+puff pastry,1367,112.0,18.1,94.3,600.0,3.7,13.5,Dinner
+blueberry muffin,214,30.2,2.6,9.2,200.0,0.6,1.6,Dinner
+bread crumbs,427,77.7,14.4,5.7,800.0,4.9,1.3,Snack
+warm cinnamon roll mcdonalds,113,15.0,2.0,5.1,100.0,0.5,1.3,Dinner
+corn muffin,201,33.7,3.9,5.5,300.0,2.2,0.9,Dinner
+tortilla,467,98.4,14.3,1.9,900.0,4.7,0.6,Dinner
+croutons seasoned,186,25.4,4.3,7.3,400.0,2.0,2.1,Breakfast
+buttermilk waffle,102,16.0,2.4,3.1,200.0,0.9,0.8,Snack
+flour tortilla,146,24.1,3.9,3.7,400.0,1.2,0.6,Lunch
+glazed donut,55,6.2,0.8,3.0,82.0,0.3,1.2,Breakfast
+corn tortilla,52,10.7,1.4,0.7,75.0,1.5,0.1,Dinner
+muffin,169,23.6,3.9,6.5,300.0,1.5,1.2,Breakfast
+croutons,33,5.9,1.0,0.5,35.0,0.4,0.1,Dinner
+donut with jelly filling,289,33.2,5.0,15.9,400.0,0.8,4.1,Dinner
+sweet cinnamon rolls,309,42.2,5.1,13.6,300.0,2.0,2.6,Breakfast
+oat bran muffin,46,8.2,1.2,1.3,67.0,0.8,0.2,Snack
+french cruller donut,169,24.4,1.3,7.5,100.0,0.5,1.9,Dinner
+pancakes,86,10.8,2.4,3.7,200.0,0.0,0.8,Snack
+chocolate donut,250,34.4,2.7,11.9,100.0,1.3,3.1,Lunch
+sweet cheese rolls,238,28.8,4.7,12.1,200.0,0.8,4.0,Dinner
+eclair,234,11.2,4.4,19.2,100.0,0.4,11.5,Snack
+donut with cream filling,307,25.5,5.4,20.8,300.0,0.7,4.6,Snack
+fruit toaster pastry,209,37.1,2.4,5.6,200.0,0.5,1.3,Lunch
+donut,192,22.9,2.3,10.3,200.0,0.7,2.7,Snack
+pancakes whole wheat,92,12.9,3.7,2.9,300.0,1.2,0.8,Snack
+keikitos,196,22.3,2.9,10.6,200.0,0.5,0.0,Lunch
+zwieback,30,5.2,0.7,0.7,50.0,0.2,0.2,Dinner
+chocolate coated donut,81,9.2,0.9,4.5,99.0,0.3,2.4,Snack
+waffle toasted,103,16.3,2.4,3.2,200.0,0.8,0.5,Snack
+cinnamon toaster pastry,206,34.1,2.6,7.1,200.0,0.5,1.8,Snack
+wheat bran bread,89,17.2,3.2,1.2,200.0,1.4,0.3,Breakfast
+white bread,77,14.3,2.6,1.0,100.0,0.8,0.2,Lunch
+oat bran bread,71,11.9,3.1,1.3,100.0,1.4,0.2,Breakfast
+whole wheat bread natures own,50,0.0,0.0,1.0,0.0,0.0,11.0,Lunch
+high protein bread dr zaks,152,15.3,0.0,3.0,0.0,0.0,0.5,Dinner
+wheat bread,79,13.8,3.1,1.3,100.0,1.2,0.2,Dinner
+egg bread toasted,117,19.5,3.9,2.4,200.0,0.9,0.6,Snack
+butter toastbrot ja,66,2.0,0.0,0.9,0.0,0.0,0.6,Lunch
+vienna bread toasted,93,18.0,3.8,0.6,200.0,0.9,0.1,Dinner
+vienna bread,92,18.1,3.8,0.6,200.0,0.8,0.2,Lunch
+protein bread,47,8.3,2.3,0.4,8.0,0.6,0.009,Dinner
+banana bread,186,31.1,2.5,6.0,200.0,0.6,1.3,Breakfast
+rice bran bread,66,11.7,2.4,1.2,81.0,1.3,0.2,Dinner
+white fibre wonder bread,95,18.0,3.5,1.0,0.0,1.5,0.2,Breakfast
+focaccia,142,20.4,5.0,4.5,300.0,1.0,0.5,Dinner
+oat bran bread toasted,70,11.8,3.1,1.3,100.0,1.3,0.2,Snack
+rye bread,83,15.5,2.7,1.1,200.0,1.9,0.2,Breakfast
+wheat germ bread,73,13.5,2.7,0.8,200.0,0.6,0.2,Dinner
+protein bread toasted,46,8.2,2.2,0.4,49.0,0.6,0.059,Snack
+oatmeal bread,73,13.1,2.3,1.2,100.0,1.1,0.2,Breakfast
+arepa,215,36.4,5.4,5.3,300.0,2.5,2.8,Snack
+raisin bread toasted,86,16.5,2.5,1.4,100.0,1.4,0.3,Lunch
+cracked wheat bread,74,14.0,2.5,1.1,200.0,1.6,0.3,Lunch
+garlic bread,151,17.9,3.6,7.1,200.0,1.1,2.3,Breakfast
+rye bread toasted,82,15.4,2.7,1.0,200.0,1.9,0.2,Dinner
+whole wheat bread,128,23.6,3.9,2.5,200.0,2.8,0.4,Breakfast
+whole wheat bread toasted,128,23.7,3.9,2.5,200.0,2.8,0.4,Snack
+pan dulce bread,231,35.5,5.9,7.3,100.0,1.4,1.4,Dinner
+rice bran bread toasted,66,11.8,2.4,1.3,26.0,1.3,0.2,Lunch
+pita bread whole wheat,74,15.4,2.7,0.7,100.0,2.1,0.1,Dinner
+wheat germ bread toasted,73,13.6,2.7,0.8,200.0,0.6,0.2,Lunch
+pumpernickel bread,65,12.4,2.3,0.8,200.0,1.7,0.1,Dinner
+frybread,502,73.4,10.2,18.6,500.0,0.0,7.0,Dinner
+white bread toasted,83,15.4,2.5,1.1,200.0,0.7,0.2,Dinner
+piki bread,109,20.2,2.5,2.0,28.0,2.6,0.2,Snack
+wheat bread toasted,75,13.4,3.1,1.0,100.0,1.1,0.2,Snack
+pita bread,165,33.4,5.5,0.7,300.0,1.3,0.091,Breakfast
+potato bread,85,15.1,4.0,1.0,100.0,2.0,0.0,Breakfast
+egg bread,115,19.1,3.8,2.4,200.0,0.9,0.6,Lunch
+oatmeal bread toasted,73,13.2,2.3,1.2,100.0,1.1,0.2,Snack
+cheese bread,196,21.5,5.0,10.0,400.0,1.0,3.0,Lunch
+pumpernickel bread toasted,80,15.1,2.8,1.0,200.0,2.1,0.1,Breakfast
+raisin bread,88,16.7,2.5,1.4,100.0,1.4,0.3,Lunch
+pumpernickel roll,77,14.8,3.0,0.8,100.0,1.5,0.1,Breakfast
+cinnamon raisin bagel,71,14.4,2.5,0.4,47.0,0.6,0.054,Snack
+english muffin,127,25.5,5.0,1.1,200.0,2.6,0.2,Dinner
+rye dinner roll,123,22.8,4.4,1.5,300.0,2.1,0.3,Snack
+english muffin whole wheat,134,26.7,5.8,1.4,200.0,4.4,0.2,Lunch
+dinner roll whole wheat,74,14.3,2.4,1.3,100.0,2.1,0.2,Lunch
+dinner roll,76,12.9,2.4,1.8,100.0,1.1,0.4,Snack
+hotdog roll,117,21.1,4.1,1.6,200.0,0.8,0.4,Snack
+bagel,245,47.9,10.0,1.5,400.0,4.0,0.0,Breakfast
+oat bran bagel,176,36.8,7.4,0.8,400.0,2.5,0.1,Lunch
+pain au chocolat de la boulangerie,235,0.0,0.0,12.0,0.0,0.0,27.6,Lunch
+egg bagel,72,13.8,2.8,0.5,100.0,0.6,0.1,Snack
+english muffin toasted,140,27.4,5.4,1.1,200.0,1.5,0.3,Dinner
+english muffin whole wheat toasted,135,26.9,5.9,1.4,200.0,4.5,0.2,Lunch
+biscuit,357,45.0,7.1,16.5,600.0,1.5,4.4,Dinner
+french roll,105,19.1,3.3,1.6,200.0,1.2,0.4,Snack
+oat bran dinner roll,78,13.3,3.1,1.5,100.0,1.4,0.2,Snack
+pecan shortbread cookies,76,8.2,0.7,4.6,2.0,0.3,1.1,Breakfast
+oatmeal cookies,113,17.2,1.6,4.5,100.0,0.7,1.1,Lunch
+chocolate wafers,485,81.1,7.4,15.9,800.0,3.8,4.7,Dinner
+vanilla wafers low fat,353,58.9,4.0,12.2,300.0,1.5,3.1,Breakfast
+chocolate chip cookies mcdonalds,136,18.7,1.6,6.4,58.0,0.6,3.2,Lunch
+gingersnap cookies,29,5.4,0.4,0.7,12.0,0.2,0.2,Breakfast
+biscotti abbracci mulino bianco,54,0.8,0.4,2.6,0.0,0.0,1.6,Snack
+chocolate chip cookie,63,9.3,0.5,2.8,47.0,0.3,1.4,Lunch
+brownie,243,38.3,2.9,9.8,200.0,1.3,2.5,Breakfast
+shortbread cookies,40,5.2,0.5,1.9,97.0,0.1,0.5,Breakfast
+oatmeal cookies with raisins,65,10.3,1.0,2.4,22.0,0.0,0.5,Dinner
+peanut butter sandwich cookies,67,9.2,1.2,3.0,98.0,0.3,0.7,Breakfast
+sugar cookies,72,10.2,0.8,3.2,7.0,0.1,0.8,Lunch
+chocolate covered graham crackers,68,9.3,0.8,3.2,67.0,0.4,1.8,Lunch
+raisin cookies,60,10.2,0.6,2.0,77.0,0.2,0.5,Dinner
+vanilla wafers,28,4.3,0.3,1.2,45.0,0.1,0.3,Lunch
+graham crackers,355,64.5,5.8,8.5,400.0,2.4,1.3,Snack
+peanut butter cookies,95,11.8,1.8,4.8,100.0,0.0,0.9,Lunch
+vanilla sandwich cookie,72,10.8,0.7,3.0,44.0,0.2,0.4,Lunch
+sugar wafers with creme filling,51,7.1,0.4,2.3,60.0,0.2,1.2,Breakfast
+cheese puffs,197,18.6,2.1,12.8,300.0,0.6,1.9,Breakfast
+saltine crackers,13,2.2,0.3,0.3,67.0,0.022,0.097,Lunch
+trail mix,139,13.5,4.1,8.8,14.0,0.0,1.7,Dinner
+corn cones,144,17.8,1.6,7.6,300.0,0.3,6.4,Breakfast
+chocolate pretzels,50,7.8,0.8,1.8,37.0,0.0,0.8,Dinner
+french toast sticks,73,8.9,1.3,3.8,1.0,0.3,0.9,Lunch
+crackers,82,9.8,1.1,4.2,100.0,0.4,0.9,Lunch
+sesame sticks,54,4.7,1.1,3.7,90.0,0.3,0.6,Snack
+cheese crackers,34,4.2,0.8,1.6,65.0,0.2,0.4,Breakfast
+oriental rice cracker mix,143,14.6,4.9,7.2,100.0,3.7,1.1,Lunch
+breadsticks,103,17.1,3.0,2.4,200.0,0.8,0.4,Snack
+milk crackers,50,7.7,0.8,1.7,95.0,0.2,0.3,Breakfast
+matzo crackers whole wheat,98,22.1,3.7,0.4,2.0,3.3,0.005,Lunch
+matzo crackers with egg,109,22.0,3.4,0.6,57.0,0.8,0.2,Lunch
+granola bites,23,3.3,0.4,0.9,67.0,0.3,0.5,Breakfast
+crackers whole wheat,120,19.5,3.0,4.0,200.0,2.9,0.6,Breakfast
+tropical trail mix,619,91.8,8.8,23.9,100.0,0.0,11.9,Breakfast
+soft pretzels,389,79.8,9.4,3.6,900.0,2.0,0.8,Lunch
+corn tostada shell,58,7.9,0.8,2.9,84.0,0.7,0.9,Lunch
+matzo crackers,111,23.4,2.8,0.4,0.0,0.8,0.03,Snack
+sesame crunch,9,0.9,0.2,0.6,27.0,0.1,0.096,Dinner
+trail mix with chocolate chips,707,65.6,20.7,46.6,200.0,0.0,8.9,Breakfast
+cracker meal,440,93.0,10.7,2.0,78.0,3.0,0.3,Lunch
+puffed rice,153,34.1,2.4,0.2,53.0,0.6,0.037,Lunch
+filinchen gutena,19,0.5,0.4,0.2,0.0,0.0,0.056,Breakfast
+melba toast crackers,117,23.0,3.6,1.0,200.0,1.9,0.1,Dinner
+matzo crackers with egg onion,109,21.6,2.8,1.1,52.0,1.4,0.3,Breakfast
+cornnuts,126,20.3,2.4,4.4,200.0,2.0,0.7,Dinner
+bagel chips,789,116.1,21.6,26.5,400.0,7.2,12.0,Lunch
+pretzels,115,24.1,3.0,0.9,400.0,1.0,0.1,Dinner
+potato raw,164,37.2,4.3,0.2,72.0,4.7,0.028,Snack
+gatto di patate home made,202,4.0,0.0,9.4,0.0,0.0,4.6,Lunch
+baked potato,161,36.6,4.3,0.2,97.0,3.8,0.074,Snack
+potato sticks,188,19.2,2.4,12.4,200.0,1.2,3.2,Breakfast
+potato cooked,52,12.1,1.1,0.006,35.0,1.2,0.003,Breakfast
+vivaldi potatoes sainsburys,23,0.0,0.0,0.1,0.0,0.0,5.0,Breakfast
+potato ham chowder soup,192,13.4,6.5,12.5,900.0,1.4,3.9,Dinner
+russet potato raw,292,66.7,7.9,0.3,68.0,4.8,0.06,Lunch
+russet potato baked,290,64.1,7.9,0.4,84.0,6.9,0.1,Breakfast
+french fries,13,2.2,0.2,0.4,56.0,0.2,0.01,Breakfast
+potato scalloped,216,26.4,7.0,9.0,800.0,4.7,5.5,Lunch
+cottage fries,11,1.9,0.2,0.4,58.0,0.2,0.084,Breakfast
+mashed potatoes,215,35.5,4.0,6.8,700.0,3.1,1.4,Snack
+mashed potato with milk and butter,237,35.3,3.9,8.9,700.0,3.2,5.5,Lunch
+red potato raw,149,33.9,4.0,0.3,20.0,3.6,0.074,Lunch
+potato pancake,59,6.1,1.3,3.2,200.0,0.7,0.5,Lunch
+potato puffs,243,35.5,2.6,11.0,600.0,3.2,2.3,Snack
+red potato baked,74,16.7,2.0,0.1,37.0,1.5,0.008,Lunch
+potatoes canned,132,29.7,3.6,0.3,700.0,4.2,0.098,Snack
+potato skin raw,22,4.7,1.0,0.099,53.0,1.0,0.093,Lunch
+shoestring french fries,4,0.7,0.099,0.1,55.0,0.099,0.059,Dinner
+hash brown potato,144,15.3,1.4,9.0,300.0,1.4,1.3,Breakfast
+baked chips lays,130,0.0,0.0,2.0,0.0,0.0,26.0,Dinner
+corn chips,162,17.2,1.9,10.0,200.0,1.2,1.3,Breakfast
+nacho cheese tortilla chips low fat,90,18.5,2.4,1.0,200.0,1.8,0.3,Snack
+corn chips barbecue,1036,111.3,13.9,64.7,1500.0,10.3,8.8,Dinner
+corn chips unsalted,490,50.5,5.8,29.4,24.0,3.9,3.8,Lunch
+potato chips fat free,860,190.1,21.9,1.4,1500.0,17.0,0.3,Breakfast
+sweet chilli kettle baked chips,99,2.1,2.0,2.2,0.0,0.0,0.3,Breakfast
+taro chips,11,1.6,0.049,0.6,22.0,0.2,0.1,Dinner
+potato chips reduced fat,801,113.7,12.1,35.4,800.0,10.0,7.1,Snack
+onion snacks,150,19.5,2.3,6.8,300.0,1.2,1.3,Dinner
+potato chips cheese,843,98.1,14.5,46.2,800.0,8.8,14.6,Snack
+yuca cassava chips,9,1.2,0.054,0.4,41.0,0.002,0.1,Snack
+tortilla chips low fat,117,22.6,3.1,1.6,100.0,1.5,0.2,Breakfast
+ranch flavor tortilla chips,992,124.2,14.2,48.8,1000.0,7.9,7.0,Dinner
+potato chips,161,15.9,2.1,10.4,21.0,1.4,3.3,Dinner
+tortilla chips,142,20.3,2.1,6.2,77.0,1.6,0.8,Snack
+sweet potato chips,149,15.9,0.8,9.1,50.0,2.5,0.8,Dinner
+nacho cheese tortilla chips,156,18.2,2.2,8.2,200.0,1.5,1.2,Lunch
+vegetable chips,134,17.1,1.5,6.6,300.0,1.3,0.5,Lunch
+taco flavor tortilla chips,1090,143.2,17.9,54.9,1800.0,12.0,10.5,Dinner
+potato chips barbecue,970,104.5,15.2,64.2,1300.0,8.7,15.9,Dinner
+pita chips,137,20.5,3.5,4.6,300.0,1.1,0.4,Snack
+potato chips sour cream and onion,1051,102.0,16.0,67.1,1100.0,10.3,17.6,Lunch
+adobo fresco,780,53.6,5.8,60.2,49400.0,3.7,8.4,Lunch
+chili pepper sauce red,3,0.6,0.1,0.089,3.0,0.1,0.073,Breakfast
+creamy ranch sauce mcdonalds,132,1.0,0.3,14.7,200.0,0.0,2.2,Snack
+catsup,19,4.5,0.2,0.066,200.0,0.053,0.026,Breakfast
+chili pepper sauce green,3,0.8,0.1,0.032,30.0,0.3,0.048,Lunch
+red wine vinegar,3,0.011,0.055,0.0,92.0,0.0,0.0,Snack
+fish sauce,6,0.7,0.9,0.013,1400.0,0.0,0.08,Dinner
+coleslaw dressing reduced fat,56,6.8,0.0,3.4,300.0,0.045,0.5,Snack
+sour dressing,21,0.6,0.4,2.0,94.0,0.0,1.6,Dinner
+guava sauce cooked,86,22.6,0.8,0.3,17.0,8.6,0.014,Dinner
+pizza sauce,136,21.8,5.5,2.9,900.0,5.0,1.2,Snack
+sweetn sour sauce mcdonalds,48,11.0,0.2,0.3,200.0,0.0,0.075,Dinner
+nance syrup,4,0.8,0.028,0.002,35.0,0.3,0.0,Breakfast
+french dressing reduced fat,37,4.7,0.072,2.2,72.0,0.2,0.2,Lunch
+peppercorn dressing,76,0.5,0.2,8.2,100.0,0.0,1.4,Dinner
+sorghum syrup,61,15.7,0.0,0.0,96.0,0.0,0.0,Breakfast
+ranch dressing fat free,17,3.7,0.039,0.3,100.0,0.088,0.007,Dinner
+caesar dressing low calorie,17,2.8,0.028,0.7,200.0,0.053,0.1,Lunch
+sweet sour dressing,2,0.6,0.082,0.0,65.0,0.0,0.0,Breakfast
+mayonnaise imitation fat free,13,2.5,0.043,0.4,100.0,0.3,0.005,Lunch
+sofrito,488,11.2,26.4,37.5,2400.0,3.5,0.0,Lunch
+turkey gravy instant,27,3.9,0.8,1.0,300.0,0.3,0.3,Breakfast
+teriyaki sauce,16,2.8,1.1,0.015,700.0,0.016,0.0,Breakfast
+tomato sauce,59,13.0,2.9,0.7,83.0,3.7,0.1,Breakfast
+barbecue sauce kraft,28,6.5,0.1,0.053,200.0,0.032,0.013,Snack
+cranberry sauce sweetened,418,107.8,0.6,0.4,76.0,2.8,0.056,Breakfast
+coleslaw dressing,62,3.8,0.1,5.3,100.0,0.024,0.8,Breakfast
+onion gravy dry,77,16.2,2.2,0.7,1000.0,1.4,0.4,Breakfast
+corn syrup light,62,16.9,0.0,0.09,65.0,0.0,0.0,Breakfast
+bacon tomato dressing,49,0.3,0.3,5.3,100.0,0.04,0.8,Dinner
+pancake syrup,53,13.9,0.0,0.075,64.0,0.0,0.025,Snack
+balsamic vinegar,14,2.7,0.041,0.0,71.0,0.0,0.0,Lunch
+ranch dressing reduced fat,29,3.2,0.2,1.9,200.0,0.2,0.2,Breakfast
+barbecue sauce mcdonalds,46,10.3,0.4,0.3,300.0,0.4,0.09,Dinner
+vinegar oil dressing,72,0.4,0.0,8.0,76.0,0.0,1.5,Dinner
+poppyseed dressing,66,4.0,0.2,5.5,100.0,0.03,1.0,Dinner
+honey mustard dressing,70,3.5,0.1,6.1,19.0,0.057,0.8,Lunch
+french dressing fat free,21,5.1,0.01,0.024,100.0,0.4,0.067,Breakfast
+vinegar,3,0.089,0.0,0.0,24.0,0.0,0.0,Snack
+spray dressing,13,1.3,0.07,0.9,12.0,0.075,0.1,Snack
+honey mustard dressing fat free,25,5.8,0.2,0.2,200.0,0.2,0.031,Dinner
+mushroom gravy,119,13.0,3.0,6.4,1400.0,1.0,1.0,Lunch
+white sauce,368,22.9,9.6,26.6,900.0,0.5,7.1,Lunch
+marinara pasta sauce,129,19.9,3.7,3.9,1100.0,4.8,0.4,Lunch
+tomato sauce with mushrooms,86,20.7,3.6,0.3,1100.0,3.7,0.027,Snack
+pork gravy powder,25,4.3,0.6,0.6,400.0,0.2,0.3,Dinner
+beef gravy,123,11.2,8.7,5.5,1500.0,0.9,2.7,Breakfast
+green goddess dressing,64,1.1,0.3,6.5,100.0,0.094,0.9,Snack
+salsa con queso,358,27.9,7.9,23.8,2000.0,1.8,6.2,Dinner
+cocktail sauce,19,4.2,0.2,0.2,200.0,0.3,0.0,Dinner
+worcestershire sauce,13,3.3,0.0,0.0,200.0,0.0,0.0,Breakfast
+barbecue sauce,29,6.9,0.1,0.1,200.0,0.2,0.009,Breakfast
+tomato sauce with onions,103,24.4,3.8,0.5,1300.0,4.4,0.007,Breakfast
+brown gravy dry,22,3.6,0.6,0.6,300.0,0.1,0.2,Lunch
+blue cheese dressing light,14,2.1,0.3,0.4,200.0,0.0,0.1,Breakfast
+spanish tomato sauce,81,17.7,3.5,0.7,1200.0,3.4,0.007,Dinner
+oyster sauce,9,2.0,0.2,0.066,500.0,0.024,0.016,Breakfast
+cheese sauce,30,0.8,1.5,2.2,2.0,0.071,1.2,Dinner
+hoisin sauce,35,7.1,0.5,0.5,300.0,0.4,0.036,Snack
+pickle relish,20,5.3,0.097,0.061,100.0,0.2,0.093,Lunch
+tomato sauce with herbs cheese,144,25.0,5.2,4.7,1300.0,5.4,1.5,Snack
+french dressing,73,2.5,0.1,7.2,100.0,0.0,0.9,Snack
+mayonnaise hellmanns,15,0.087,0.0,1.7,0.0,0.0,0.9,Dinner
+canadian maple syrup,76,19.1,0.0,0.0,86.0,0.0,0.0,Snack
+maple syrup,52,13.4,0.09,0.047,59.0,0.0,0.036,Dinner
+barbecue sauce bulls eye,27,6.4,0.1,0.1,200.0,0.2,0.028,Breakfast
+ranch dressing,65,0.9,0.2,6.7,100.0,0.0,1.0,Breakfast
+tomato ketchup mp,15,0.2,0.0,0.0,0.0,0.0,4.0,Dinner
+mayonnaise light,36,1.4,0.032,3.3,100.0,0.0,0.5,Breakfast
+mayonnaise dressing,103,0.066,0.0,11.7,81.0,0.0,1.6,Lunch
+malt syrup,67,15.0,1.3,0.0,50.0,0.0,0.0,Snack
+gravy dry,86,14.5,3.3,2.0,1400.0,0.0,0.7,Lunch
+cranberry orange relish,490,127.1,0.8,0.3,63.0,0.0,0.06,Snack
+caesar dressing,80,0.5,0.3,8.5,200.0,0.036,1.3,Breakfast
+italian dressing,35,1.8,0.032,3.1,100.0,0.0,0.4,Lunch
+brown gravy instant,25,4.0,0.6,0.8,300.0,0.2,0.4,Breakfast
+roquefort cheese dressing,15,0.4,0.8,1.1,100.0,0.0,0.4,Snack
+blue cheese dressing,71,0.7,0.2,7.7,200.0,0.045,1.2,Dinner
+duck sauce,80,19.7,0.1,0.063,100.0,0.2,0.033,Dinner
+au jus,38,5.9,2.8,0.5,1100.0,0.0,0.2,Lunch
+corn syrup dark,57,15.5,0.0,0.0,47.0,0.0,0.0,Breakfast
+buttermilk dressing light,30,3.2,0.2,1.9,200.0,0.2,0.2,Breakfast
+cider vinegar,3,0.1,0.0,0.0,11.0,0.0,0.0,Lunch
+tartar sauce,32,2.0,0.2,2.5,100.0,0.078,0.5,Dinner
+pepper hot sauce,1,0.031,0.024,0.018,100.0,0.071,0.057,Snack
+tomato chili sauce,6,1.2,0.2,0.095,83.0,0.4,0.076,Lunch
+turkey gravy dry,26,4.6,0.7,0.5,300.0,0.0,0.1,Snack
+salsa sauce,5,1.2,0.3,0.039,100.0,0.3,0.07,Dinner
+steak sauce,16,3.7,0.2,0.004,300.0,0.3,0.0,Breakfast
+molasses,58,14.9,0.0,0.068,7.0,0.0,0.052,Dinner
+italian dressing fat free,7,1.2,0.1,0.1,200.0,0.077,0.099,Lunch
+plum sauce,35,8.1,0.2,0.2,100.0,0.1,0.094,Breakfast
+chow mein stir fry master foods,26,0.0,0.0,0.2,0.0,0.0,5.5,Lunch
+beef gravy instant,25,4.1,0.7,0.6,300.0,0.3,0.3,Lunch
+horseradish,2,0.6,0.003,0.085,39.0,0.2,0.007,Dinner
+grenadine,54,13.4,0.0,0.0,38.0,0.0,0.0,Lunch
+tabasco sauce,1,0.006,0.045,0.002,75.0,0.013,0.051,Dinner
+sweet sour sauce,26,6.7,0.02,0.084,24.0,0.065,0.0,Breakfast
+salsa verde,6,1.0,0.2,0.1,34.0,0.3,0.0,Dinner
+miso,40,5.1,2.6,1.2,700.0,1.1,0.2,Breakfast
+sprouted soybean cooked,76,6.1,8.0,4.2,200.0,0.8,0.6,Dinner
+soy flour roasted,375,28.6,29.6,18.6,83.0,8.2,2.7,Snack
+soy flour low fat,330,30.7,40.0,7.8,85.0,14.1,1.1,Snack
+green soybean cooked,127,9.9,11.1,5.8,200.0,3.8,0.7,Lunch
+azumaya tofu vitasoy,316,9.1,32.8,16.6,30.0,2.4,2.0,Dinner
+soy proteins isolate,96,2.1,22.8,1.0,300.0,1.6,0.1,Dinner
+tofu yogurt,246,41.8,9.2,4.7,30.0,0.5,0.7,Breakfast
+bacon meatless,446,9.1,15.4,42.5,2100.0,3.7,6.7,Lunch
+meatless chicken fried,304,11.1,27.7,16.6,500.0,5.6,1.5,Dinner
+soymilk,109,8.4,7.1,4.8,100.0,1.0,0.5,Lunch
+soy vermicelli,463,115.2,0.1,0.1,32.0,5.5,0.092,Snack
+tofu fried,35,1.2,2.4,2.6,21.0,0.5,0.4,Dinner
+tempeh,320,15.6,30.8,17.9,68.0,0.0,3.7,Dinner
+koyadofu,81,1.7,8.9,5.2,81.0,1.2,0.7,Lunch
+meatless meatloaf,110,4.5,11.8,5.0,300.0,2.6,0.8,Dinner
+soya vanille joghurt alpro,21,1.0,0.3,0.6,0.0,0.0,0.1,Lunch
+soybean curd cheese,340,15.5,28.1,18.2,94.0,0.0,2.6,Dinner
+soy sauce,8,0.8,1.3,0.054,900.0,0.1,0.025,Breakfast
+soybean dry roasted,419,30.4,36.8,20.1,77.0,7.5,2.9,Lunch
+soybean oil,120,0.0,0.0,13.6,0.0,0.0,2.1,Dinner
+meatless chicken,376,6.1,39.7,21.4,1200.0,6.0,3.1,Snack
+soybean cooked,296,17.1,28.6,15.4,75.0,10.3,2.2,Dinner
+soymilk nonfat,68,10.1,6.0,0.046,100.0,0.5,0.0,Snack
+soy flour,23,1.8,1.8,1.1,23.0,0.5,0.2,Snack
+soybean lecithin oil,104,0.0,0.0,13.6,0.0,0.0,2.0,Breakfast
+tofu raw,188,4.7,20.0,11.9,60.0,0.7,1.7,Lunch
+soy chips,109,15.0,7.5,2.1,200.0,1.0,0.3,Dinner
+green soybean raw,376,28.3,33.2,17.4,17.0,10.8,2.0,Breakfast
+soy proteins concentrate,93,7.2,18.0,0.1,300.0,1.6,0.04,Dinner
+soybean margarine,34,0.043,0.052,3.8,5.0,0.0,0.8,Snack
+chocolate soymilk nonfat,107,20.7,6.0,0.046,100.0,0.5,0.0,Lunch
+okara,93,15.3,3.9,2.1,70.0,0.0,0.2,Dinner
+meatless meatballs,284,11.5,30.2,13.0,800.0,6.6,2.1,Dinner
+vanilla soymilk,131,15.3,7.9,4.3,100.0,1.5,0.5,Snack
+soy meal raw,414,49.0,54.8,2.9,17.0,0.0,0.3,Dinner
+soymilk low fat,104,17.5,4.0,1.5,40.0,1.9,0.0,Dinner
+sprouted soybean raw,85,6.7,9.2,4.7,5.0,0.8,0.7,Snack
+soybean raw,830,56.1,67.9,37.1,23.0,17.3,5.4,Breakfast
+tempeh cooked,55,2.6,5.1,3.2,84.0,0.0,1.0,Snack
+vanilla soymilk light,83,9.4,6.4,2.1,200.0,1.5,0.2,Breakfast
+chocolate soymilk,153,24.2,5.5,3.7,100.0,1.0,0.6,Lunch
+soy oil,120,0.0,0.0,13.6,0.0,0.0,3.4,Breakfast
+natto,169,11.5,14.2,8.8,26.0,4.3,1.3,Breakfast
+chrysanthemum raw,12,1.5,1.7,0.3,12.0,1.5,0.0,Lunch
+gourd cooked,100,25.5,1.2,0.6,65.0,5.2,0.035,Breakfast
+cauliflower raw,3,0.6,0.2,0.081,42.0,0.3,0.094,Snack
+red cabbage raw,53,12.5,2.4,0.3,79.0,3.6,0.002,Breakfast
+broccoli raab raw,9,1.1,1.3,0.2,40.0,1.1,0.047,Lunch
+napa cabbage cooked,13,2.4,1.2,0.2,12.0,0.0,0.0,Snack
+kelp,2,0.5,0.07,0.067,19.0,0.018,0.037,Lunch
+shallots raw,18,4.2,0.6,0.061,44.0,0.8,0.041,Lunch
+bamboo shoots raw,49,9.4,4.7,0.5,67.0,4.0,0.1,Dinner
+jute cooked,32,6.3,3.2,0.2,43.0,1.7,0.004,Dinner
+red lettuce,4,0.6,0.4,0.08,57.0,0.3,0.036,Lunch
+broccoli cooked,98,20.1,6.7,1.1,100.0,9.2,0.2,Lunch
+romanesco raw,20,3.9,1.9,0.2,25.0,2.0,0.038,Lunch
+eggplant raw,115,26.9,4.5,0.8,28.0,13.7,0.2,Dinner
+leeks raw,54,12.6,1.3,0.3,3.0,1.6,0.049,Dinner
+lemongrass citronella,5,1.2,0.038,0.076,24.0,0.0,0.067,Breakfast
+pumpkin cooked,49,12.0,1.8,0.2,6.0,2.7,0.019,Breakfast
+celery cooked,7,1.5,0.3,0.098,93.0,0.6,0.064,Lunch
+serrano pepper,2,0.4,0.1,0.075,67.0,0.2,0.072,Snack
+nopales raw,14,2.9,1.1,0.063,76.0,1.9,0.018,Snack
+sweet potato leaves cooked,22,4.7,1.4,0.2,200.0,1.2,0.099,Dinner
+eggplant cooked,33,8.1,0.8,0.2,200.0,2.5,0.049,Dinner
+asparagus cooked,3,0.6,0.4,0.074,0.0,0.3,0.004,Dinner
+rutabaga cooked,72,16.4,2.2,0.4,49.0,4.3,0.007,Lunch
+parsnips raw,128,30.6,2.0,0.5,68.0,8.3,0.1,Snack
+sour pickles,17,3.5,0.5,0.3,1900.0,1.9,0.079,Breakfast
+turnip greens cooked,29,6.3,1.6,0.3,400.0,5.0,0.091,Lunch
+jerusalem artichokes,110,26.2,3.0,0.047,11.0,2.4,0.0,Breakfast
+collard raw,12,2.0,1.1,0.2,14.0,1.4,0.026,Breakfast
+chrysanthemum cooked,20,4.3,1.6,0.036,42.0,2.3,0.0,Lunch
+oriental radish dried,314,73.5,9.2,0.8,300.0,27.7,0.3,Breakfast
+tomatillos,42,7.7,1.3,1.3,19.0,2.5,0.2,Snack
+taro shoots raw,9,2.0,0.8,0.069,56.0,0.0,0.016,Breakfast
+acorn squash raw,172,44.9,3.4,0.4,17.0,6.5,0.091,Snack
+leeks dried,10,2.4,0.5,0.026,77.0,0.3,0.08,Snack
+cabbage raw,70,16.2,3.6,0.3,6.0,7.0,0.054,Snack
+sweet red peppers cooked,19,4.5,0.7,0.1,200.0,0.9,0.012,Dinner
+sweet red peppers raw,46,9.0,1.5,0.4,92.0,3.1,0.088,Breakfast
+cucumber peeled,16,2.9,0.8,0.2,98.0,0.9,0.1,Lunch
+purslane raw,9,1.5,0.9,0.2,66.0,0.0,0.0,Lunch
+peas onions cooked,81,15.5,4.6,0.4,500.0,4.0,0.055,Breakfast
+tomato cooked,22,4.9,1.2,0.1,29.0,0.9,0.086,Dinner
+taro shoots cooked,20,4.5,1.0,0.1,300.0,0.0,0.068,Dinner
+scots kale raw,28,5.6,1.9,0.4,59.0,1.1,0.072,Snack
+artichoke raw,60,13.5,4.2,0.2,100.0,6.9,0.056,Breakfast
+navy bean sprouts raw,70,13.6,6.4,0.7,63.0,0.0,0.05,Breakfast
+sweet pickles,146,33.8,0.9,0.7,700.0,1.6,0.1,Lunch
+oriental radish cooked,25,5.0,1.0,0.4,400.0,2.4,0.1,Breakfast
+sweet potato leaves raw,15,3.1,0.9,0.2,73.0,1.9,0.088,Dinner
+irishmoss,2,0.6,0.037,0.049,84.0,0.082,0.06,Breakfast
+drumstick leaves cooked,25,4.7,2.2,0.4,100.0,0.8,0.0,Lunch
+winter squash raw,39,10.0,1.1,0.2,27.0,1.7,0.019,Snack
+pumpkin raw,30,7.5,1.2,0.1,62.0,0.6,0.065,Lunch
+chicory greens,7,1.4,0.5,0.096,17.0,1.2,0.078,Lunch
+spinach cooked,41,6.8,5.3,0.5,100.0,4.3,0.042,Snack
+radish pickled,42,7.8,1.7,0.5,1200.0,3.3,0.1,Lunch
+sweet onion,106,25.0,2.6,0.3,63.0,3.0,0.0,Lunch
+salsify cooked,92,20.7,3.7,0.2,28.0,4.2,0.0,Breakfast
+radish seeds sprouted,16,1.4,1.4,1.0,67.0,0.0,0.3,Breakfast
+turnips raw,51,11.8,1.6,0.2,100.0,3.3,0.074,Snack
+burdock root raw,85,20.5,1.8,0.2,8.0,3.9,0.069,Breakfast
+red cabbage cooked,49,11.8,2.6,0.2,47.0,4.4,0.058,Breakfast
+jute raw,10,1.6,1.3,0.046,42.0,0.0,0.0,Lunch
+hot chile pepper dried,2,0.3,0.054,0.054,41.0,0.1,0.001,Dinner
+salsify raw,109,24.7,4.4,0.3,93.0,4.4,0.0,Breakfast
+crookneck squash raw,24,4.9,1.3,0.3,47.0,1.3,0.1,Dinner
+indian squash cooked,38,7.6,0.7,0.4,0.0,3.5,0.0,Breakfast
+poi,269,65.4,0.9,0.3,91.0,1.0,0.063,Breakfast
+sesbania flower cooked,22,5.3,1.2,0.007,300.0,0.0,0.0,Snack
+acorn squash cooked,115,29.9,2.3,0.3,500.0,9.0,0.023,Snack
+cauliflower cooked,29,5.1,2.3,0.6,94.0,2.9,0.055,Snack
+crookneck squash cooked,34,6.8,1.9,0.7,400.0,2.0,0.1,Dinner
+laver seaweed,1,0.1,0.2,0.012,75.0,0.09,0.066,Lunch
+mountain yam cooked,119,29.0,2.5,0.1,400.0,0.0,0.014,Breakfast
+pumpkin flowers raw,5,1.1,0.3,0.084,66.0,0.0,0.049,Breakfast
+mustard greens raw,15,2.6,1.6,0.2,4.0,1.8,0.072,Breakfast
+arrowhead,12,2.4,0.6,0.084,82.0,0.0,0.0,Dinner
+japanese cabbage,45,8.5,2.4,0.2,400.0,4.7,0.092,Snack
+mung bean sprouts cooked,24,4.5,2.5,0.1,300.0,1.0,0.05,Lunch
+scallop squash cooked,29,5.9,1.9,0.3,400.0,3.4,0.034,Dinner
+pumpkin leaves cooked,15,2.4,1.9,0.2,200.0,1.9,0.092,Snack
+hungarian pepper,8,1.8,0.2,0.1,28.0,0.3,0.082,Dinner
+sweet potato baked,103,23.6,2.3,0.2,70.0,3.8,0.013,Lunch
+chinese cabbage pe tsai raw,12,2.5,0.9,0.2,49.0,0.9,0.033,Snack
+taro raw,116,27.5,1.6,0.2,54.0,4.3,0.099,Dinner
+yam bean jicama,49,11.5,0.9,0.1,47.0,6.4,0.061,Lunch
+olives,10,0.5,0.09,0.9,1.0,0.1,0.2,Breakfast
+mustard greens cooked,36,6.3,3.6,0.7,400.0,2.8,0.053,Lunch
+pumpkin flowers cooked,20,4.4,1.5,0.1,82.0,1.2,0.057,Breakfast
+tree fern cooked,57,15.3,0.4,0.096,300.0,5.3,0.0,Dinner
+yellow corn raw,606,123.3,15.6,7.9,60.0,12.1,1.1,Snack
+endive,9,1.7,0.6,0.1,80.0,1.6,0.022,Snack
+wakame,36,7.3,2.4,0.5,700.0,0.4,0.1,Dinner
+tahitian taro raw,55,8.6,3.5,1.2,3.0,0.0,0.2,Snack
+broccoli raw,31,6.0,2.6,0.3,49.0,2.4,0.053,Snack
+sweet green peppers raw,30,6.9,1.3,0.3,23.0,2.5,0.053,Breakfast
+chinese cabbage pak choi cooked,20,3.0,2.7,0.3,500.0,1.7,0.014,Dinner
+agar,1,0.3,0.053,0.058,49.0,0.027,0.087,Lunch
+watercress,4,0.4,0.8,0.006,38.0,0.2,0.071,Breakfast
+beet greens cooked,39,7.9,3.7,0.3,300.0,4.2,0.025,Dinner
+winter squash cooked,76,18.1,1.8,0.7,68.0,5.7,0.1,Breakfast
+new zealand spinach raw,8,1.4,0.8,0.1,17.0,0.8,0.077,Lunch
+okra,4,0.9,0.2,0.082,98.0,0.4,0.001,Lunch
+yautia tannier,132,31.9,2.0,0.5,31.0,2.0,0.1,Dinner
+mustard spinach cooked,29,5.0,3.1,0.4,500.0,3.6,0.0,Lunch
+rhubarb cooked,278,74.9,0.9,0.1,7.0,4.8,0.08,Breakfast
+beets raw,58,13.0,2.2,0.2,100.0,3.8,0.028,Lunch
+drumstick pods raw,37,8.5,2.1,0.2,77.0,3.2,0.025,Breakfast
+baby zucchini,2,0.3,0.3,0.089,41.0,0.1,0.02,Breakfast
+onion raw,16,3.7,0.4,0.048,65.0,0.7,0.077,Lunch
+romanesco cooked,39,7.7,3.7,0.4,300.0,4.0,0.028,Dinner
+butternut squash raw,90,23.4,2.0,0.2,67.0,4.0,0.044,Snack
+amaranth leaves,6,1.1,0.7,0.075,71.0,0.0,0.072,Lunch
+turnip greens raw,18,3.9,0.8,0.2,12.0,1.8,0.009,Breakfast
+spaghetti squash raw,31,7.0,0.6,0.6,81.0,1.5,0.1,Breakfast
+seaweed dry,52,9.2,3.1,0.3,900.0,7.3,0.006,Lunch
+yam cooked,158,37.4,2.0,0.2,17.0,5.3,0.061,Dinner
+corn dried,119,18.8,4.1,3.0,29.0,5.8,0.6,Dinner
+cucumber,23,5.4,1.0,0.2,61.0,0.8,0.068,Breakfast
+arrowroot,78,16.1,5.1,0.2,52.0,1.6,0.094,Breakfast
+cardoon raw,30,7.2,1.2,0.2,300.0,2.8,0.072,Dinner
+bamboo shoots cooked,14,2.3,1.8,0.3,40.0,1.2,0.007,Snack
+summer squash raw,42,8.7,3.1,0.5,51.0,2.9,0.1,Lunch
+sweet potato raw,112,26.2,2.0,0.002,79.0,3.9,0.036,Breakfast
+green tomato,42,9.3,2.2,0.4,55.0,2.0,0.024,Breakfast
+beet greens raw,8,1.6,0.8,0.078,13.0,1.4,0.026,Dinner
+savoy cabbage cooked,41,9.2,3.1,0.2,50.0,4.8,0.076,Lunch
+witloof chicory,9,2.1,0.5,0.031,22.0,1.6,0.076,Dinner
+turnips cooked,34,7.9,1.1,0.1,17.0,3.1,0.082,Lunch
+dried tomatoes,5,1.1,0.3,0.053,69.0,0.2,0.032,Lunch
+radicchio,15,2.9,0.9,0.2,33.0,0.6,0.031,Lunch
+mixed vegetables cooked,118,23.8,5.2,0.3,89.0,8.0,0.0,Breakfast
+yellow tomato,32,6.3,2.1,0.6,88.0,1.5,0.03,Snack
+cardoon cooked,26,6.4,0.9,0.1,200.0,2.0,0.014,Dinner
+spinach raw,7,1.1,0.9,0.1,36.0,0.7,0.024,Snack
+kale raw,7,0.9,0.6,0.3,45.0,0.9,0.057,Dinner
+drumstick pods cooked,42,9.7,2.5,0.2,300.0,5.0,0.0,Lunch
+kohlrabi raw,72,16.4,4.5,0.3,63.0,9.5,0.007,Breakfast
+lentil sprouts,82,17.0,6.9,0.4,44.0,0.0,0.067,Snack
+carrots raw,25,5.8,0.6,0.1,24.0,1.7,0.046,Breakfast
+red chili peppers,18,4.0,0.8,0.2,30.0,0.7,0.088,Dinner
+fennel,73,17.1,2.9,0.5,100.0,7.3,0.0,Breakfast
+sweet corn white,63,13.9,2.4,0.9,16.0,2.0,0.1,Breakfast
+celeriac raw,66,14.4,2.3,0.5,200.0,2.8,0.1,Snack
+hubbard squash raw,46,10.1,2.3,0.6,94.0,4.5,0.1,Lunch
+brussels sprouts cooked,8,1.5,0.5,0.1,51.0,0.5,0.099,Breakfast
+carrots cooked,16,3.8,0.3,0.092,25.0,1.4,0.096,Lunch
+lambs quarters raw,0,0.069,0.08,0.067,33.0,0.046,0.0,Dinner
+lotus root cooked,6,1.4,0.1,0.056,0.0,0.3,0.029,Breakfast
+split peas raw,672,118.9,48.4,2.3,75.0,50.2,0.3,Snack
+scots kale cooked,36,7.3,2.5,0.5,400.0,0.0,0.014,Dinner
+corn cooked,99,21.6,3.5,1.5,39.0,2.5,0.2,Dinner
+radish raw,1,0.2,0.042,0.026,33.0,0.002,0.084,Snack
+stinging nettles,37,6.7,2.4,0.007,90.0,6.1,0.0,Breakfast
+baby carrots,5,1.2,0.031,0.053,97.0,0.4,0.015,Breakfast
+sweet yellow peppers,50,11.8,1.9,0.4,17.0,1.7,0.012,Dinner
+taro leaves raw,12,1.9,1.4,0.2,83.0,1.0,0.013,Breakfast
+corn raw,123,26.7,4.7,1.9,83.0,2.9,0.5,Lunch
+roselle,28,6.4,0.5,0.4,79.0,0.0,0.0,Snack
+drumstick leaves raw,13,1.7,2.0,0.3,71.0,0.4,0.0,Lunch
+scallop squash raw,23,5.0,1.6,0.3,75.0,1.6,0.097,Breakfast
+chicory roots,65,15.8,1.3,0.2,55.0,1.4,0.052,Dinner
+brussels sprouts raw,8,1.7,0.6,0.077,49.0,0.7,0.072,Snack
+kale cooked,42,6.3,3.5,1.4,18.0,4.7,0.2,Breakfast
+pupusas con frijoles,289,39.7,7.0,11.4,400.0,7.3,2.8,Breakfast
+mustard cabbage,36,7.2,1.4,0.1,900.0,4.0,0.016,Dinner
+gourd raw,19,4.1,1.1,0.2,30.0,1.0,0.07,Dinner
+butternut squash cooked,80,21.0,1.8,0.2,2.0,6.4,0.013,Lunch
+burdock root cooked,146,35.1,3.5,0.2,400.0,3.0,0.0,Snack
+cassava,330,78.4,2.8,0.6,99.0,3.7,0.2,Snack
+peas carrots cooked,77,16.2,4.9,0.7,500.0,5.0,0.1,Dinner
+romaine lettuce,8,1.5,0.6,0.1,83.0,1.0,0.049,Lunch
+yam raw,177,41.8,2.3,0.3,17.0,6.2,0.067,Snack
+chowchow pickles,296,65.3,3.7,2.2,1300.0,3.7,0.4,Dinner
+prairie turnips raw,20,4.5,0.3,0.029,59.0,1.0,0.0,Breakfast
+savoy cabbage raw,19,4.3,1.4,0.017,7.0,2.2,0.091,Snack
+celery raw,6,1.2,0.3,0.045,19.0,0.6,0.005,Lunch
+celeriac cooked,42,9.1,1.5,0.3,84.0,0.0,0.0,Lunch
+mustard spinach raw,33,5.9,3.3,0.5,25.0,4.2,0.087,Lunch
+zucchini raw,44,8.1,3.1,0.8,23.0,2.6,0.2,Breakfast
+okra cooked,35,7.2,3.0,0.3,400.0,4.0,0.032,Snack
+white icicle radish,14,2.6,1.1,0.1,49.0,1.4,0.076,Snack
+orange tomato,18,3.5,1.3,0.2,1.0,1.0,0.097,Breakfast
+pumpkin leaves raw,7,0.9,1.2,0.2,57.0,0.0,0.053,Snack
+spaghetti squash cooked,42,10.0,1.0,0.4,400.0,2.2,0.091,Breakfast
+white corn cooked,100,22.4,3.4,1.5,82.0,2.8,0.2,Breakfast
+artichoke cooked,64,14.3,3.5,0.4,87.0,10.3,0.059,Breakfast
+avocado,432,23.0,5.4,39.6,45.0,18.1,5.7,Lunch
+string beans wellsley farms,8,1.7,0.3,0.0,0.0,0.087,0.0,Snack
+lambs quarters cooked,58,9.0,5.8,1.3,500.0,3.8,0.085,Breakfast
+peas cooked,134,25.0,8.6,0.4,74.0,8.8,0.065,Snack
+beets cooked,22,5.0,0.8,0.085,35.0,1.0,0.026,Lunch
+shallots dried,3,0.7,0.1,0.013,59.0,0.1,0.063,Breakfast
+green lettuce,23,4.3,2.0,0.2,50.0,2.0,0.027,Dinner
+kohlrabi cooked,48,11.0,3.0,0.2,35.0,1.8,0.041,Lunch
+kanpyo dried,139,35.1,4.6,0.3,56.0,5.3,0.041,Dinner
+prairie turnips boiled,18,4.2,0.2,0.086,12.0,1.0,0.0,Snack
+broccoli raab cooked,21,2.7,3.3,0.4,77.0,2.4,0.086,Snack
+summer squash cooked,49,9.9,2.7,1.0,36.0,2.9,0.2,Lunch
+taro cooked,187,45.7,0.7,0.1,55.0,6.7,0.012,Snack
+spring onion scallions,6,1.5,0.4,0.077,48.0,0.5,0.029,Dinner
+hubbard squash cooked,57,12.3,2.8,0.7,500.0,5.5,0.1,Breakfast
+jalapeno pepper,4,0.9,0.1,0.002,28.0,0.4,0.06,Breakfast
+new zealand spinach cooked,22,3.8,2.3,0.3,600.0,2.5,0.027,Breakfast
+sesbania flower raw,1,0.2,0.012,0.095,7.0,0.0,0.0,Lunch
+spirulina dried,20,1.7,4.0,0.5,31.0,0.3,0.2,Snack
+chinese cabbage pe tsai cooked,17,2.9,1.8,0.2,300.0,2.0,0.011,Dinner
+zucchini cooked,27,4.8,2.1,0.6,77.0,1.8,0.1,Snack
+green olives pickled,4,0.1,0.073,0.4,100.0,0.057,0.064,Snack
+lotus root raw,85,19.8,3.0,0.1,60.0,5.6,0.057,Snack
+grape leaves,13,2.4,0.8,0.3,5.0,1.5,0.085,Breakfast
+dill pickled cucumber,17,3.7,0.9,0.2,1300.0,1.6,0.08,Dinner
+skunk cabbage,11,1.8,1.5,0.1,16.0,1.2,0.0,Dinner
+banana pepper,9,1.8,0.5,0.1,39.0,1.1,0.018,Snack
+oriental radish raw,61,13.9,2.0,0.3,14.0,5.4,0.1,Breakfast
+purslane cooked,21,4.1,1.7,0.2,300.0,0.0,0.0,Breakfast
+rhubarb raw,11,2.3,0.5,0.1,58.0,0.9,0.043,Dinner
+swamp cabbage,20,3.6,2.0,0.2,400.0,1.9,0.0,Breakfast
+mung bean sprouts raw,6,1.2,0.6,0.044,80.0,0.4,0.036,Breakfast
+onion cooked,7,1.5,0.2,0.034,40.0,0.2,0.095,Breakfast
+swiss chard raw,7,1.3,0.6,0.042,89.0,0.6,0.065,Lunch
+peas raw,117,21.0,7.9,0.6,17.0,7.4,0.1,Snack
+cabbage cooked,35,8.3,1.9,0.019,11.0,2.9,0.0,Dinner
+taro leaves cooked,35,5.6,3.9,0.6,300.0,2.9,0.1,Dinner
+leeks cooked,38,9.4,1.0,0.2,67.0,1.2,0.086,Lunch
+split peas cooked,227,40.2,16.3,0.8,500.0,16.3,0.1,Snack
+sweet corn yellow,58,14.2,4.1,0.4,50.0,1.5,0.029,Dinner
+asparagus raw,2,0.5,0.3,0.037,47.0,0.3,0.012,Breakfast
+collard cooked,63,10.7,5.1,1.4,13.0,7.6,0.049,Dinner
+swiss chard cooked,35,7.2,3.3,0.1,700.0,3.7,0.0,Breakfast
+nopales cooked,22,4.9,2.0,0.003,87.0,3.0,0.064,Lunch
+tahitian taro cooked,60,9.4,5.7,0.9,400.0,0.0,0.2,Breakfast
+chinese cabbage pak choi raw,9,1.5,1.1,0.1,87.0,0.7,0.013,Dinner
+green chili pepper,18,4.3,0.9,0.097,23.0,0.7,0.067,Dinner
+mountain yam raw,91,22.2,1.8,0.1,21.0,3.4,0.015,Dinner
+parsnips cooked,114,27.2,2.1,0.5,21.0,6.4,0.081,Lunch
+tomato stewed,97,16.1,2.4,3.3,600.0,2.1,0.6,Lunch
+sweet green peppers cooked,19,4.5,0.7,0.1,200.0,0.9,0.037,Snack
+white corn raw,143,31.6,5.3,2.0,88.0,4.5,0.3,Dinner
+rutabaga raw,286,66.5,8.3,1.2,61.0,17.8,0.2,Breakfast
+jalapeno peppers canned,37,6.4,1.3,1.3,2300.0,3.5,0.1,Lunch
+pumpkin canned,83,19.8,2.7,0.7,600.0,7.1,0.4,Dinner
+peas onions canned,61,10.3,3.9,0.5,500.0,2.8,0.064,Dinner
+sweet mashed potato canned,258,59.1,5.0,0.5,200.0,4.3,0.1,Lunch
+hominy canned,119,23.5,2.4,1.5,600.0,4.1,0.2,Snack
+tomato puree canned,95,22.5,4.1,0.5,2.0,4.8,0.098,Lunch
+dried tomatoes canned in oil,6,0.7,0.2,0.4,56.0,0.2,0.072,Lunch
+mixed vegetables canned,88,17.5,3.5,0.6,500.0,9.3,0.1,Breakfast
+straw mushrooms canned,2,0.3,0.2,0.09,49.0,0.1,0.1,Breakfast
+capers canned,2,0.4,0.2,0.089,200.0,0.3,0.021,Snack
+red peppers canned,15,3.7,0.7,0.058,900.0,0.9,0.03,Dinner
+carrots canned,104,24.4,2.6,0.6,200.0,8.2,0.1,Lunch
+tomatoes in tomato juice canned,41,9.6,1.9,0.3,300.0,2.4,0.08,Snack
+asparagus canned,62,10.2,7.4,0.7,100.0,4.1,0.2,Breakfast
+sweet red peppers canned,25,5.5,1.1,0.4,1900.0,1.7,0.013,Lunch
+onions canned,12,2.5,0.5,0.084,200.0,0.8,0.045,Dinner
+turnip greens canned,27,4.0,2.0,0.4,82.0,1.9,0.1,Breakfast
+hearts of palm,9,1.5,0.8,0.2,100.0,0.8,0.056,Breakfast
+spinach canned,44,6.8,4.9,0.9,700.0,3.7,0.1,Breakfast
+sweet potato canned,568,133.5,6.3,1.3,300.0,16.0,0.3,Snack
+corn canned,49,11.1,1.6,0.6,200.0,1.4,0.032,Dinner
+peas carrots canned,97,21.6,5.5,0.7,700.0,8.4,0.1,Lunch
+crookneck squash canned,27,6.2,1.3,0.1,6.0,2.9,0.088,Snack
+tomatoes canned,77,17.6,4.0,0.7,300.0,4.6,0.062,Snack
+pimento canned,44,9.8,2.1,0.6,6.0,3.6,0.004,Snack
+sweet green peppers canned,25,5.5,1.1,0.4,1900.0,1.7,0.037,Breakfast
+peas canned,57,9.5,3.5,0.8,200.0,0.0,0.1,Dinner
+chili peppers canned,29,6.4,1.0,0.4,600.0,2.4,0.013,Snack
+green peppers canned,15,3.7,0.7,0.074,900.0,0.9,0.096,Lunch
+grape leaves canned,20,3.3,1.2,0.6,800.0,2.8,0.065,Dinner
+sauerkraut canned,27,6.1,1.3,0.2,900.0,4.1,0.023,Lunch
+beets canned,69,16.2,2.0,0.2,20.0,3.0,0.017,Dinner
+stewed tomatoes canned,66,15.8,2.3,0.5,600.0,2.6,0.078,Lunch
+tomato paste canned,215,49.5,11.3,1.2,2100.0,10.7,0.3,Breakfast
+bacon ranch salad mcdonalds,389,19.4,28.1,20.1,900.0,3.2,5.2,Snack
+caesar salad with grilled chicken mcdonalds,201,11.3,29.1,5.6,600.0,3.3,3.0,Lunch
+caesar salad mcdonalds,94,9.1,6.8,4.4,200.0,3.4,2.5,Dinner
+vegetable salad,22,4.4,1.7,0.054,25.0,0.0,0.053,Snack
+vegetable salad with chicken,70,2.5,11.6,1.5,100.0,0.0,0.4,Snack
+potato salad,358,27.9,6.7,20.5,1300.0,3.3,3.6,Dinner
+taco salad taco bell,906,80.5,35.7,48.9,1900.0,16.0,15.9,Lunch
+iceberg lettuce,8,1.7,0.5,0.045,22.0,0.7,0.089,Breakfast
+cornsalad,12,2.0,1.1,0.2,67.0,0.0,0.0,Breakfast
+potato salad with egg,393,40.5,4.9,23.5,800.0,3.3,3.6,Lunch
+side salad mcdonalds,17,3.7,0.9,0.2,37.0,1.4,0.014,Snack
+caesar salad with crispy chicken mcdonalds,349,19.2,25.7,16.4,700.0,3.4,4.3,Snack
+grape apple salad with walnuts,191,25.6,3.5,8.2,87.0,3.6,1.1,Snack
+vegetable salad with cheese egg,68,3.2,5.8,3.9,44.0,0.0,2.0,Snack
+celtuce,1,0.3,0.071,0.088,94.0,0.1,0.0,Lunch
+arugula,5,0.7,0.5,0.1,18.0,0.3,0.029,Snack
+vegetable salad with shrimp,71,4.4,9.7,1.7,300.0,0.0,0.4,Dinner
+coleslaw,292,28.4,1.8,18.9,400.0,3.6,3.1,Snack
+shiitake mushrooms cooked,10,2.6,0.3,0.007,48.0,0.4,0.061,Breakfast
+shiitake mushrooms raw,6,1.3,0.4,0.039,96.0,0.5,0.0,Snack
+crimini mushrooms,1,0.3,0.2,0.018,86.0,0.064,0.054,Lunch
+mushrooms raw,15,2.3,2.2,0.2,53.0,0.7,0.052,Breakfast
+portabella mushrooms grilled,35,5.4,4.0,0.7,47.0,2.7,0.023,Lunch
+maitake mushrooms,0,0.072,0.016,0.017,59.0,0.041,0.011,Lunch
+shiitake mushrooms dried,11,2.7,0.3,0.061,86.0,0.4,0.014,Breakfast
+chanterelle mushrooms,2,0.4,0.033,0.063,28.0,0.2,0.0,Lunch
+cloud ear fungus dried,80,20.4,2.6,0.2,36.0,19.6,0.0,Lunch
+mushrooms cooked,44,8.3,3.4,0.7,11.0,3.4,0.05,Snack
+pepeao dried,72,19.4,1.2,0.1,72.0,0.0,0.0,Dinner
+truffles,61,5.4,0.7,4.1,34.0,0.3,2.2,Lunch
+jews ear,25,6.7,0.5,0.095,27.0,0.0,0.0,Lunch
+enoki mushrooms,1,0.2,0.062,0.099,84.0,0.089,0.027,Lunch
+morel mushrooms,4,0.7,0.4,0.07,80.0,0.4,0.056,Snack
+portabella mushrooms raw,19,3.3,1.8,0.3,14.0,1.1,0.036,Dinner
+oyster mushroom,5,0.9,0.5,0.035,98.0,0.3,0.016,Breakfast

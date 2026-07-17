@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DSS Diet Recommendation</title>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Diet rekomendasi</h1>
+            <p>Sistem Pendukung Keputusan menu makanan</p>
+        </header>
+
+        <main>
+            <section class="form-section glass-panel">
+                <h2>Profil Pengguna</h2>
+                <form id="dietForm">
+                    <div class="form-grid">
+                        <!-- Basic Info -->
+                        <div class="form-group">
+                            <label for="Age">Usia (Tahun)</label>
+                            <input type="number" id="Age" name="Age" min="10" max="100" required placeholder="Contoh: 30">
+                        </div>
+                        <div class="form-group">
+                            <label for="Gender">Jenis Kelamin</label>
+                            <select id="Gender" name="Gender" required>
+                                <option value="Male">Laki-laki</option>
+                                <option value="Female">Perempuan</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label for="Weight_kg">Berat Badan (kg)</label>
+                            <input type="number" id="Weight_kg" name="Weight_kg" min="20" max="300" step="0.1" required placeholder="Contoh: 70">
+                        </div>
+                        <div class="form-group">
+                            <label for="Height_cm">Tinggi Badan (cm)</label>
+                            <input type="number" id="Height_cm" name="Height_cm" min="100" max="250" step="0.1" required placeholder="Contoh: 170">
+                        </div>
+
+                        <!-- Activity & Health -->
+                        <div class="form-group">
+                            <label for="Activity_Level">Tingkat Aktivitas</label>
+                            <select id="Activity_Level" name="Activity_Level" required>
+                                <option value="Sedentary">Sangat Rendah (Jarang Olahraga)</option>
+                                <option value="Light">Ringan (Olahraga 1-3x/minggu)</option>
+                                <option value="Moderate" selected>Sedang (Olahraga 3-5x/minggu)</option>
+                                <option value="Active">Tinggi (Olahraga 6-7x/minggu)</option>
+                                <option value="Very_Active">Sangat Tinggi (Pekerja Fisik/Atlet)</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label for="Disease_Type">Kondisi Medis</label>
+                            <select id="Disease_Type" name="Disease_Type" required>
+                                <option value="None" selected>Tidak Ada / Sehat</option>
+                                <option value="Diabetes">Diabetes</option>
+                                <option value="Hypertension">Hipertensi (Darah Tinggi)</option>
+                                <option value="Obesity">Obesitas</option>
+                            </select>
+                        </div>
+
+                        <!-- Clinical Biomarkers -->
+                        <div class="form-group">
+                            <label for="Blood_Sugar_mgdL">Gula Darah (mg/dL)</label>
+                            <input type="number" id="Blood_Sugar_mgdL" name="Blood_Sugar_mgdL" min="40" max="600" step="0.1" value="90" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="Blood_Pressure_Systolic">Tekanan Darah Sistolik</label>
+                            <input type="number" id="Blood_Pressure_Systolic" name="Blood_Pressure_Systolic" min="60" max="250" value="120" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="Cholesterol_mgdL">Kolesterol (mg/dL)</label>
+                            <input type="number" id="Cholesterol_mgdL" name="Cholesterol_mgdL" min="100" max="400" step="0.1" value="180" required>
+                        </div>
+                        <!-- New Features from Dataset -->
+                        <div class="form-group" id="severityGroup" style="display:none">
+                            <label for="Severity">Tingkat Keparahan Penyakit</label>
+                            <select id="Severity" name="Severity">
+                                <option value="Mild" selected>Ringan (Mild)</option>
+                                <option value="Moderate">Sedang (Moderate)</option>
+                                <option value="Severe">Berat (Severe)</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label for="Dietary_Restrictions">Batasan Diet Khusus</label>
+                            <select id="Dietary_Restrictions" name="Dietary_Restrictions">
+                                <option value="None" selected>Tidak Ada</option>
+                                <option value="Low_Sugar">Rendah Gula</option>
+                                <option value="Low_Sodium">Rendah Garam</option>
+                                <option value="Low_Fat">Rendah Lemak</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label for="Allergies">Alergi Makanan</label>
+                            <select id="Allergies" name="Allergies">
+                                <option value="None" selected>Tidak Ada Alergi</option>
+                                <option value="Peanuts">Kacang Tanah (Peanuts)</option>
+                                <option value="Gluten">Gandum / Gluten</option>
+                                <option value="Lactose">Susu / Laktosa</option>
+                                <option value="Shellfish">Makanan Laut Berkulit</option>
+                            </select>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="top_n_menus">Jumlah Menu</label>
+                            <select id="top_n_menus" name="top_n_menus" required>
+                                <option value="1">1</option>
+                                <option value="3" selected>3</option>
+                                <option value="5">5</option>
+                            </select>
+                        </div>
+                    </div>
+
+                    <button type="submit" class="btn-submit">
+                        <span class="btn-text">Dapatkan Rekomendasi</span>
+                        <div class="loader hidden"></div>
+                    </button>
+                </form>
+            </section>
+
+            <section id="resultSection" class="result-section hidden">
+                <div class="glass-panel summary-panel">
+                    <h2>Hasil Analisis AI</h2>
+                    
+                    <div class="prediction-cards">
+                        <div class="card stat-card">
+                            <h3>Tipe Diet</h3>
+                            <div id="dietType" class="highlight-value">Balanced</div>
+                            <p id="dietProb" class="prob-text">98%</p>
+                        </div>
+                        <div class="card stat-card">
+                            <h3>Target Kalori</h3>
+                            <div id="targetKcal" class="highlight-value">2000</div>
+                            <p>kcal/hari</p>
+                        </div>
+                    </div>
+
+                    <div class="compliance-status" id="complianceStatus">
+                        COMPLIANT
+                    </div>
+
+                    <div class="global-explanation">
+                        <h3>Mengapa kami memilih ini?</h3>
+                        <ul id="globalExpList">
+                            <!-- Populated via JS -->
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="menus-container" id="menusContainer">
+                    <!-- Menus populated via JS -->
+                </div>
+            </section>
+        </main>
+    </div>
+    
+    <script src="/static/script.js"></script>
+</body>
+</html>
