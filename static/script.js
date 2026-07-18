@@ -37,9 +37,12 @@ document.getElementById('dietForm').addEventListener('submit', async (e) => {
     data.Blood_Sugar_mgdL = parseFloat(data.Blood_Sugar_mgdL);
     data.Blood_Pressure_Systolic = parseInt(data.Blood_Pressure_Systolic);
     data.Cholesterol_mgdL = parseFloat(data.Cholesterol_mgdL);
+    data.Weekly_Exercise_Hours = parseFloat(data.Weekly_Exercise_Hours);
+    data.Daily_Caloric_Intake = parseFloat(data.Daily_Caloric_Intake);
+    data.Adherence_to_Diet_Plan = parseFloat(data.Adherence_to_Diet_Plan);
     data.top_n_menus = parseInt(data.top_n_menus);
     // String fields — sudah terambil otomatis, tidak perlu di-parse
-    // data.Severity, data.Dietary_Restrictions, data.Allergies
+    // data.Severity, data.Dietary_Restrictions, data.Preferred_Cuisine
 
     try {
         const response = await fetch('/recommend', {

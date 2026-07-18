@@ -3,10 +3,11 @@ Predictor — Wrapper untuk memuat model RF dan melakukan inferensi
 =================================================================
 Menerima dict profil pengguna -> mengembalikan (diet_type, probabilities)
 
-Update: Mendukung fitur baru dari diet_recommendations_dataset.csv
+Catatan: Fitur Allergies TIDAK digunakan sesuai batasan sistem di laporan.
+Mendukung semua fitur dataset:
   - Severity, Daily_Caloric_Intake, Glucose_mg_dL, Weekly_Exercise_Hours
   - Adherence_to_Diet_Plan, Dietary_Nutrient_Imbalance_Score
-  - Dietary_Restrictions, Allergies, Preferred_Cuisine
+  - Dietary_Restrictions, Preferred_Cuisine
 """
 
 import joblib
@@ -20,7 +21,6 @@ ACTIVITY_ORDER       = ["Sedentary", "Light", "Moderate", "Active", "Very_Active
 SEVERITY_ORDER       = ["Mild", "Moderate", "Severe"]
 DISEASE_CLASSES      = ["Diabetes", "Hypertension", "Obesity", "None"]
 RESTRICTION_CLASSES  = ["Low_Sugar", "Low_Sodium", "Low_Fat", "None"]
-ALLERGY_CLASSES      = ["Peanuts", "Gluten", "Lactose", "Shellfish", "None"]
 CUISINE_CLASSES      = ["Mexican", "Chinese", "Italian", "Indian", "Mediterranean", "None"]
 
 NUMERICAL_FEATURES = [
@@ -51,7 +51,6 @@ class DietPredictor:
         # Ambil daftar kelas dari artefak (fallback ke konstanta default)
         self.disease_classes   = artifacts.get("disease_classes",    DISEASE_CLASSES)
         self.restriction_classes = artifacts.get("restriction_classes", RESTRICTION_CLASSES)
-        self.allergy_classes   = artifacts.get("allergy_classes",    ALLERGY_CLASSES)
         self.cuisine_classes   = artifacts.get("cuisine_classes",    CUISINE_CLASSES)
 
     def predict(self, user_profile: dict) -> tuple[str, dict[str, float]]:
@@ -83,7 +82,6 @@ class DietPredictor:
             row[col] = profile.get(col, 0)
 
         # Sinkronisasi nama kolom lama ↔ baru (backward-compat)
-        # Jika API masih mengirim nama lama, map ke nama baru
         if row.get("Glucose_mg_dL", 0) == 0 and profile.get("Blood_Sugar_mgdL"):
             row["Glucose_mg_dL"] = profile["Blood_Sugar_mgdL"]
         if row.get("Blood_Pressure_mmHg", 0) == 0 and profile.get("Blood_Pressure_Systolic"):
@@ -109,11 +107,6 @@ class DietPredictor:
         restriction = profile.get("Dietary_Restrictions", "None")
         for r in self.restriction_classes:
             row[f"Restrict_{r}"] = 1 if restriction == r else 0
-
-        # --- Allergies → One-Hot ---------------------------------------------
-        allergy = profile.get("Allergies", "None")
-        for a in self.allergy_classes:
-            row[f"Allergy_{a}"] = 1 if allergy == a else 0
 
         # --- Preferred_Cuisine → One-Hot -------------------------------------
         cuisine = profile.get("Preferred_Cuisine", "None")

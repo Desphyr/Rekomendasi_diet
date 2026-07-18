@@ -109,7 +109,7 @@ Input Profil Pengguna
 
 | Parameter           | Nilai             |
 |---------------------|-------------------|
-| n_estimators        | 300               |
+| n_estimators        | 500               |
 | max_features        | sqrt              |
 | class_weight        | balanced          |
 | Cross-Validation    | 5-Fold Stratified |
@@ -117,18 +117,27 @@ Input Profil Pengguna
 
 ### Fitur Input Model
 
-| Fitur                    | Tipe      | Preprocessing     |
-|--------------------------|-----------|-------------------|
-| Age                      | Numerik   | StandardScaler    |
-| Weight_kg                | Numerik   | StandardScaler    |
-| Height_cm                | Numerik   | StandardScaler    |
-| BMI                      | Numerik   | StandardScaler    |
-| Blood_Sugar_mgdL         | Numerik   | StandardScaler    |
-| Blood_Pressure_Systolic  | Numerik   | StandardScaler    |
-| Cholesterol_mgdL         | Numerik   | StandardScaler    |
-| Activity_Level           | Ordinal   | OrdinalEncoder    |
-| Gender                   | Biner     | Manual (0/1)      |
-| Disease_Type             | Kategori  | One-Hot Encoding  |
+| Fitur Input (Total 20)          | Tipe      | Preprocessing     |
+|---------------------------------|-----------|-------------------|
+| Age                             | Numerik   | StandardScaler    |
+| Weight_kg                       | Numerik   | StandardScaler    |
+| Height_cm                       | Numerik   | StandardScaler    |
+| BMI                             | Numerik   | StandardScaler    |
+| Glucose_mg_dL                   | Numerik   | StandardScaler    |
+| Blood_Pressure_mmHg             | Numerik   | StandardScaler    |
+| Cholesterol_mg_dL               | Numerik   | StandardScaler    |
+| Daily_Caloric_Intake            | Numerik   | StandardScaler    |
+| Weekly_Exercise_Hours           | Numerik   | StandardScaler    |
+| Adherence_to_Diet_Plan          | Numerik   | StandardScaler    |
+| Dietary_Nutrient_Imbalance_Score| Numerik   | StandardScaler    |
+| Activity_Level                  | Ordinal   | OrdinalEncoder    |
+| Severity                        | Ordinal   | OrdinalEncoder    |
+| Gender                          | Biner     | Manual (0/1)      |
+| Disease_Type                    | Kategori  | One-Hot Encoding  |
+| Dietary_Restrictions            | Kategori  | One-Hot Encoding  |
+| Preferred_Cuisine               | Kategori  | One-Hot Encoding  |
+
+*(Sesuai laporan penelitian, fitur alergi tidak digunakan karena merupakan batasan sistem, dan **Ablation Study** otomatis dilakukan pada atribut `Disease_Type` saat training model).*
 
 ---
 
@@ -163,10 +172,17 @@ Input Profil Pengguna
   "Weight_kg": 85,
   "Height_cm": 170,
   "Activity_Level": "Light",
+  "Weekly_Exercise_Hours": 2.0,
   "Disease_Type": "Diabetes",
-  "Blood_Sugar_mgdL": 185,
-  "Blood_Pressure_Systolic": 128,
-  "Cholesterol_mgdL": 210,
+  "Severity": "Moderate",
+  "Glucose_mg_dL": 185,
+  "Blood_Pressure_mmHg": 128,
+  "Cholesterol_mg_dL": 210,
+  "Daily_Caloric_Intake": 2400.0,
+  "Adherence_to_Diet_Plan": 55.0,
+  "Dietary_Nutrient_Imbalance_Score": 4.5,
+  "Dietary_Restrictions": "Low_Sugar",
+  "Preferred_Cuisine": "None",
   "top_n_menus": 3
 }
 ```

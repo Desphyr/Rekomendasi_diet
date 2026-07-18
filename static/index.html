@@ -52,6 +52,10 @@
                             </select>
                         </div>
                         <div class="form-group">
+                            <label for="Weekly_Exercise_Hours">Jam Olahraga / Minggu</label>
+                            <input type="number" id="Weekly_Exercise_Hours" name="Weekly_Exercise_Hours" min="0" max="40" step="0.5" value="3" required placeholder="Contoh: 3">
+                        </div>
+                        <div class="form-group">
                             <label for="Disease_Type">Kondisi Medis</label>
                             <select id="Disease_Type" name="Disease_Type" required>
                                 <option value="None" selected>Tidak Ada / Sehat</option>
@@ -74,7 +78,8 @@
                             <label for="Cholesterol_mgdL">Kolesterol (mg/dL)</label>
                             <input type="number" id="Cholesterol_mgdL" name="Cholesterol_mgdL" min="100" max="400" step="0.1" value="180" required>
                         </div>
-                        <!-- New Features from Dataset -->
+
+                        <!-- Severity (conditional) -->
                         <div class="form-group" id="severityGroup" style="display:none">
                             <label for="Severity">Tingkat Keparahan Penyakit</label>
                             <select id="Severity" name="Severity">
@@ -83,6 +88,17 @@
                                 <option value="Severe">Berat (Severe)</option>
                             </select>
                         </div>
+
+                        <!-- Diet & Lifestyle -->
+                        <div class="form-group">
+                            <label for="Daily_Caloric_Intake">Asupan Kalori Harian Aktual (kcal)</label>
+                            <input type="number" id="Daily_Caloric_Intake" name="Daily_Caloric_Intake" min="500" max="6000" step="50" value="2000" required placeholder="Contoh: 2000">
+                        </div>
+                        <div class="form-group">
+                            <label for="Adherence_to_Diet_Plan">Kepatuhan Diet Saat Ini (%)</label>
+                            <input type="number" id="Adherence_to_Diet_Plan" name="Adherence_to_Diet_Plan" min="0" max="100" step="1" value="70" required placeholder="0–100">
+                        </div>
+
                         <div class="form-group">
                             <label for="Dietary_Restrictions">Batasan Diet Khusus</label>
                             <select id="Dietary_Restrictions" name="Dietary_Restrictions">
@@ -93,13 +109,14 @@
                             </select>
                         </div>
                         <div class="form-group">
-                            <label for="Allergies">Alergi Makanan</label>
-                            <select id="Allergies" name="Allergies">
-                                <option value="None" selected>Tidak Ada Alergi</option>
-                                <option value="Peanuts">Kacang Tanah (Peanuts)</option>
-                                <option value="Gluten">Gandum / Gluten</option>
-                                <option value="Lactose">Susu / Laktosa</option>
-                                <option value="Shellfish">Makanan Laut Berkulit</option>
+                            <label for="Preferred_Cuisine">Preferensi Masakan</label>
+                            <select id="Preferred_Cuisine" name="Preferred_Cuisine">
+                                <option value="None" selected>Tidak Ada Preferensi</option>
+                                <option value="Mexican">Masakan Meksiko</option>
+                                <option value="Chinese">Masakan Tiongkok</option>
+                                <option value="Italian">Masakan Italia</option>
+                                <option value="Indian">Masakan India</option>
+                                <option value="Mediterranean">Masakan Mediterania</option>
                             </select>
                         </div>
 

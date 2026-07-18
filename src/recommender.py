@@ -2,20 +2,21 @@
 DietRecommender - Modul Rule-Based Filtering, Scoring & Explainability
 =======================================================================
 Menerima tipe diet hasil prediksi + dataframe makanan, lalu:
-  1. Memfilter makanan (Hard Constraint + Allergy Filter)
-  2. Memberi skor (Soft Constraint)
+  1. Memfilter makanan berdasarkan Hard Constraint nutrisi
+  2. Memberi skor per item (Soft Constraint)
   3. Menyusun menu harian (Breakfast + Lunch + Dinner + Snack)
   4. Menghitung total nutrisi
   5. Menghasilkan penjelasan rekomendasi
-  6. Menghasilkan user_insights dari fitur dataset baru
+  6. Menghasilkan user_insights dari fitur dataset
 
-Update: Mendukung fitur baru dari diet_recommendations_dataset.csv
+Mendukung fitur dari diet_recommendations_dataset.csv:
   - Severity              : modifikasi target kalori
-  - Allergies             : filter keras makanan yang mengandung alergen
   - Adherence_to_Diet_Plan: insight kepatuhan diet
   - Weekly_Exercise_Hours : insight gaya hidup
   - Dietary_Nutrient_Imbalance_Score: insight keseimbangan nutrisi
-  - Glucose_mg_dL / Blood_Pressure_mmHg: nama field klinis baru
+  - Glucose_mg_dL / Blood_Pressure_mmHg: nama field klinis
+
+Catatan: Fitur Allergies TIDAK dipertimbangkan sesuai batasan sistem di laporan.
 """
 
 import itertools
@@ -259,14 +260,6 @@ class DietRecommender:
     # --------------------------------------------------------------------------
     # Modul 1: Filter Makanan (Hard + Soft Constraint per item)
     # --------------------------------------------------------------------------
-    # Mapping alergen keyword dalam nama makanan
-    _ALLERGY_KEYWORDS = {
-        "Peanuts"   : ["peanut", "kacang tanah", "groundnut"],
-        "Gluten"    : ["wheat", "bread", "roti", "pasta", "flour", "gandum", "oat", "barley"],
-        "Lactose"   : ["milk", "susu", "cheese", "keju", "yogurt", "cream", "butter", "mentega"],
-        "Shellfish" : ["shrimp", "udang", "crab", "kepiting", "lobster", "prawn", "clam", "kerang"],
-    }
-
     def _filter_foods(
         self, diet_type: str, rules: dict, target_kcal: float,
         user_profile: Optional[dict] = None,
@@ -276,21 +269,9 @@ class DietRecommender:
         Hard constraint: hapus makanan yang melanggar batas MUTLAK per item.
         Soft constraint: beri skor item (0-1).
 
-        Fitur baru:
-          - Filter alergen berdasarkan Allergies dari profil pengguna
-          - Dietary_Restrictions juga dihormati sebagai soft/hard constraint
+        Catatan: Filter alergen TIDAK diterapkan sesuai batasan sistem di laporan.
         """
         df = self.food_df.copy()
-
-        # -- Filter Alergen (Hard Constraint dari profil pengguna) -------------
-        if user_profile:
-            allergy = user_profile.get("Allergies", "None")
-            if allergy and allergy != "None":
-                keywords = self._ALLERGY_KEYWORDS.get(allergy, [])
-                if keywords and "Food_Name" in df.columns:
-                    pattern = "|".join(keywords)
-                    mask    = df["Food_Name"].str.lower().str.contains(pattern, na=False)
-                    df      = df[~mask]  # hapus makanan yang mengandung alergen
 
         # -- Hard Constraints per item -----------------------------------------
         # Sodium: satu item tidak boleh melebihi 65% kuota harian
@@ -653,7 +634,7 @@ class DietRecommender:
     # Modul Baru: User Insights dari Fitur Dataset
     # --------------------------------------------------------------------------
     def _generate_user_insights(self, profile: dict, diet_type: str) -> dict:
-        """Hasilkan insight terstruktur dari fitur-fitur baru dataset."""
+        """Hasilkan insight terstruktur dari fitur-fitur dataset."""
         glucose   = profile.get("Glucose_mg_dL") or profile.get("Blood_Sugar_mgdL", 90)
         bp        = profile.get("Blood_Pressure_mmHg") or profile.get("Blood_Pressure_Systolic", 120)
         chol      = profile.get("Cholesterol_mg_dL") or profile.get("Cholesterol_mgdL", 180)
@@ -662,7 +643,6 @@ class DietRecommender:
         imbalance = profile.get("Dietary_Nutrient_Imbalance_Score", 2)
         severity  = profile.get("Severity", "Mild")
         restriction = profile.get("Dietary_Restrictions", "None")
-        allergy     = profile.get("Allergies", "None")
         cuisine     = profile.get("Preferred_Cuisine", "None")
 
         # Status glukosa
@@ -739,7 +719,6 @@ class DietRecommender:
             },
             "dietary_profile": {
                 "dietary_restrictions" : restriction,
-                "allergies"            : allergy,
                 "preferred_cuisine"    : cuisine,
                 "recommended_diet_type": diet_type,
             },

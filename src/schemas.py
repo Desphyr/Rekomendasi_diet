@@ -1,7 +1,9 @@
 """
 Input Validation — Pydantic Schemas & Validasi Profil Pengguna
 ==============================================================
-Update: Mendukung field baru dari diet_recommendations_dataset.csv
+Sesuai dengan laporan penelitian:
+  - Fitur alergi TIDAK dipertimbangkan (batasan sistem)
+  - Mendukung semua 20 fitur dataset diet_recommendations.csv
 """
 
 from pydantic import BaseModel, Field, model_validator
@@ -13,7 +15,6 @@ VALID_DISEASE      = ["Diabetes", "Hypertension", "Obesity", "None"]
 VALID_GENDER       = ["Male", "Female"]
 VALID_SEVERITY     = ["Mild", "Moderate", "Severe"]
 VALID_RESTRICTIONS = ["Low_Sugar", "Low_Sodium", "Low_Fat", "None"]
-VALID_ALLERGIES    = ["Peanuts", "Gluten", "Lactose", "Shellfish", "None"]
 VALID_CUISINES     = ["Mexican", "Chinese", "Italian", "Indian", "Mediterranean", "None"]
 
 
@@ -65,8 +66,6 @@ class UserProfile(BaseModel):
                        description="Skor ketidakseimbangan nutrisi (0=seimbang, 10=sangat tidak seimbang)")
     Dietary_Restrictions : Literal["Low_Sugar","Low_Sodium","Low_Fat","None"] = Field(
                        default="None", description="Batasan diet khusus")
-    Allergies      : Literal["Peanuts","Gluten","Lactose","Shellfish","None"] = Field(
-                       default="None", description="Alergi makanan")
     Preferred_Cuisine : Literal["Mexican","Chinese","Italian","Indian","Mediterranean","None"] = Field(
                        default="None", description="Preferensi jenis masakan")
 
@@ -117,4 +116,4 @@ class DSSResponse(BaseModel):
     recommended_menus    : list
     compliance_status    : str
     global_explanation   : list
-    user_insights        : dict   # insight tambahan dari fitur baru
+    user_insights        : dict   # insight tambahan dari fitur dataset
