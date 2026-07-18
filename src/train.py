@@ -37,9 +37,6 @@ from sklearn.metrics import (
     classification_report, confusion_matrix, accuracy_score
 )
 
-# -----------------------------------------------------------------------------
-# Konstanta
-# -----------------------------------------------------------------------------
 DATA_PATH  = "data/diet_recommendations.csv"
 MODEL_DIR  = "models"
 os.makedirs(MODEL_DIR, exist_ok=True)
@@ -67,10 +64,6 @@ CUISINE_CLASSES      = ["Mexican", "Chinese", "Italian", "Indian", "Mediterranea
 
 TARGET = "Diet_Recommendation"
 
-
-# -----------------------------------------------------------------------------
-# 1. Load & bersihkan data
-# -----------------------------------------------------------------------------
 def load_data(path: str) -> pd.DataFrame:
     df = pd.read_csv(path)
 
@@ -99,10 +92,6 @@ def load_data(path: str) -> pd.DataFrame:
     print("\nKolom tersedia:\n", list(df.columns))
     return df
 
-
-# -----------------------------------------------------------------------------
-# 2. Encode kategorikal sebelum pipeline
-# -----------------------------------------------------------------------------
 def encode_categoricals(df: pd.DataFrame, include_disease: bool = True) -> tuple[pd.DataFrame, list[str]]:
     """
     Encode semua fitur kategorikal:
@@ -148,10 +137,6 @@ def encode_categoricals(df: pd.DataFrame, include_disease: bool = True) -> tuple
 
     return df, dummy_cols
 
-
-# -----------------------------------------------------------------------------
-# 3. Bangun ColumnTransformer
-# -----------------------------------------------------------------------------
 def build_preprocessor() -> ColumnTransformer:
     """
     - Numerik         : StandardScaler
@@ -183,10 +168,6 @@ def build_preprocessor() -> ColumnTransformer:
     )
     return preprocessor
 
-
-# -----------------------------------------------------------------------------
-# 4. Training (satu varian)
-# -----------------------------------------------------------------------------
 def _run_training(df: pd.DataFrame, include_disease: bool = True, label: str = "") -> dict:
     """Jalankan training pipeline dan kembalikan artefak + metrik."""
     df_enc, dummy_cols = encode_categoricals(df, include_disease=include_disease)
@@ -257,10 +238,6 @@ def _run_training(df: pd.DataFrame, include_disease: bool = True, label: str = "
         "test_accuracy"       : acc,
     }
 
-
-# -----------------------------------------------------------------------------
-# 5. Ablation Study: dengan vs tanpa Disease_Type
-# -----------------------------------------------------------------------------
 def run_ablation_study(df: pd.DataFrame):
     """
     Ablation study untuk menganalisis sensitivitas performa model
@@ -296,9 +273,6 @@ def run_ablation_study(df: pd.DataFrame):
     return result_with, result_without
 
 
-# -----------------------------------------------------------------------------
-# 6. Training utama + simpan model
-# -----------------------------------------------------------------------------
 def train(df: pd.DataFrame):
     """Training penuh: jalankan ablation study lalu simpan model utama (dengan Disease_Type)."""
 
@@ -332,10 +306,6 @@ def train(df: pd.DataFrame):
 
     return result_with
 
-
-# -----------------------------------------------------------------------------
-# Entry Point
-# -----------------------------------------------------------------------------
 if __name__ == "__main__":
     df = load_data(DATA_PATH)
     train(df)

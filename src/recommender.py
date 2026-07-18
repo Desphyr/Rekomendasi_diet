@@ -26,10 +26,6 @@ from typing import Optional
 import pandas as pd
 import numpy as np
 
-
-# -----------------------------------------------------------------------------
-# Konstanta Nutrisi Harian (berdasarkan AKG Indonesia 2019)
-# -----------------------------------------------------------------------------
 DIET_RULES: dict = {
     "Balanced": {
         "daily_calories"   : (1600, 2200),   # min, max kcal
@@ -71,10 +67,6 @@ MEAL_CALORIE_RATIO = {
     "Snack"    : 0.10,
 }
 
-
-# -----------------------------------------------------------------------------
-# Dataclass untuk Menu & Output
-# -----------------------------------------------------------------------------
 @dataclass
 class MenuOption:
     """Representasi satu kombinasi menu harian lengkap."""
@@ -127,10 +119,6 @@ class DSSResult:
     global_explanation : list[str]
     user_insights      : dict = field(default_factory=dict)
 
-
-# -----------------------------------------------------------------------------
-# Kelas Utama: DietRecommender
-# -----------------------------------------------------------------------------
 class DietRecommender:
     """
     Hybrid DSS yang menggabungkan prediksi Random Forest dengan Rule-Based
@@ -153,9 +141,6 @@ class DietRecommender:
         self.top_n_menus     = top_n_menus
         self.target_calories = target_calories
 
-    # --------------------------------------------------------------------------
-    # Public API
-    # --------------------------------------------------------------------------
     def recommend(
         self,
         diet_type   : str,
@@ -221,9 +206,6 @@ class DietRecommender:
             user_insights     = user_insights,
         )
 
-    # --------------------------------------------------------------------------
-    # Estimasi Kalori (Harris-Benedict Equation)
-    # --------------------------------------------------------------------------
     def _estimate_calories(self, profile: dict) -> float:
         """Hitung TDEE menggunakan persamaan Harris-Benedict x faktor aktivitas.
 
@@ -250,16 +232,12 @@ class DietRecommender:
 
         tdee = bmr * activity_factor
 
-        # Blend dengan actual intake jika tersedia dan wajar
         actual_intake = profile.get("Daily_Caloric_Intake", 0)
         if 800 <= actual_intake <= 5000:
             tdee = tdee * 0.6 + actual_intake * 0.4
 
         return round(tdee, 0)
 
-    # --------------------------------------------------------------------------
-    # Modul 1: Filter Makanan (Hard + Soft Constraint per item)
-    # --------------------------------------------------------------------------
     def _filter_foods(
         self, diet_type: str, rules: dict, target_kcal: float,
         user_profile: Optional[dict] = None,
@@ -334,9 +312,6 @@ class DietRecommender:
 
         return round(max(0.0, min(1.0, score)), 4)
 
-    # --------------------------------------------------------------------------
-    # Modul 2: Pembentukan Kombinasi Menu
-    # --------------------------------------------------------------------------
     def _build_menu_candidates(
         self, filtered_df: pd.DataFrame, target_kcal: float
     ) -> list[MenuOption]:
@@ -375,9 +350,6 @@ class DietRecommender:
 
         return candidates
 
-    # --------------------------------------------------------------------------
-    # Modul 3: Scoring Menu (Hard + Soft Constraint level menu)
-    # --------------------------------------------------------------------------
     def _score_and_filter(
         self,
         candidates : list[MenuOption],
@@ -462,9 +434,7 @@ class DietRecommender:
 
         return round(max(0.0, min(1.0, score)), 4)
 
-    # --------------------------------------------------------------------------
-    # Modul 4: Explainability
-    # --------------------------------------------------------------------------
+
     def _explain(
         self,
         menu      : MenuOption,
@@ -630,9 +600,6 @@ class DietRecommender:
         )
         return exps
 
-    # --------------------------------------------------------------------------
-    # Modul Baru: User Insights dari Fitur Dataset
-    # --------------------------------------------------------------------------
     def _generate_user_insights(self, profile: dict, diet_type: str) -> dict:
         """Hasilkan insight terstruktur dari fitur-fitur dataset."""
         glucose   = profile.get("Glucose_mg_dL") or profile.get("Blood_Sugar_mgdL", 90)

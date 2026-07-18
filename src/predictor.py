@@ -115,7 +115,6 @@ class DietPredictor:
 
         df = pd.DataFrame([row])
 
-        # Pastikan kolom sesuai urutan training
         for col in self.feature_cols:
             if col not in df.columns:
                 df[col] = 0

@@ -4,11 +4,6 @@ from pathlib import Path
 from src.predictor   import DietPredictor
 from src.recommender import DietRecommender, DIET_RULES
 
-
-# =============================================================================
-# Profil Pengguna Contoh
-# Sesuai contoh kasus di laporan penelitian
-# =============================================================================
 DEMO_PROFILES = [
     {
         "name": "Kasus 1 — Pria Diabetes, BMI Tinggi",
@@ -82,9 +77,6 @@ DEMO_PROFILES = [
 ]
 
 
-# =============================================================================
-# Helper: hitung BMI jika belum ada
-# =============================================================================
 def compute_bmi(profile: dict) -> dict:
     p = profile.copy()
     if p.get("BMI") is None:
@@ -100,10 +92,6 @@ def compute_bmi(profile: dict) -> dict:
         p["Cholesterol_mg_dL"] = p["Cholesterol_mgdL"]
     return p
 
-
-# =============================================================================
-# Cetak hasil dengan format rapi
-# =============================================================================
 def print_result(case_name: str, profile: dict, result, target_kcal: float):
     sep = "=" * 65
     print(f"\n{sep}")
@@ -141,10 +129,6 @@ def print_result(case_name: str, profile: dict, result, target_kcal: float):
 
     print(sep)
 
-
-# =============================================================================
-# Main
-# =============================================================================
 def main():
     print("\n" + "=" * 65)
     print("  DSS DIET — Demo CLI")

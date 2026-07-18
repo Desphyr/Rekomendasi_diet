@@ -21,7 +21,7 @@ VALID_CUISINES     = ["Mexican", "Chinese", "Italian", "Indian", "Mediterranean"
 class UserProfile(BaseModel):
     """Schema input profil pengguna untuk sistem DSS."""
 
-    # ── Data Dasar ─────────────────────────────────────────────────────────────
+    # ── Data Dasar
     Age          : int   = Field(..., ge=10, le=100,  description="Usia (tahun)")
     Gender       : Literal["Male", "Female"] = Field(..., description="Jenis kelamin")
     Weight_kg    : float = Field(..., gt=20, le=300,  description="Berat badan (kg)")
@@ -30,20 +30,20 @@ class UserProfile(BaseModel):
                        default=None, ge=10, le=70,
                        description="BMI (dihitung otomatis jika tidak diisi)")
 
-    # ── Aktivitas Fisik ────────────────────────────────────────────────────────
+    # Aktivitas Fisik
     Activity_Level : Literal["Sedentary","Light","Moderate","Active","Very_Active"] = Field(
                        ..., description="Tingkat aktivitas fisik harian")
     Weekly_Exercise_Hours : float = Field(
                        default=3.0, ge=0, le=40,
                        description="Jam olahraga per minggu")
 
-    # ── Kondisi Medis ──────────────────────────────────────────────────────────
+    # Kondisi Medis 
     Disease_Type : Literal["Diabetes","Hypertension","Obesity","None"] = Field(
                        default="None", description="Riwayat penyakit utama")
     Severity     : Literal["Mild","Moderate","Severe"] = Field(
                        default="Mild", description="Tingkat keparahan penyakit")
 
-    # ── Data Klinis / Laboratorium ─────────────────────────────────────────────
+    # ── Data Klinis / Laboratorium
     Glucose_mg_dL       : float = Field(
                        default=90.0, ge=40, le=600,
                        description="Kadar glukosa darah (mg/dL)")
@@ -54,7 +54,7 @@ class UserProfile(BaseModel):
                        default=180.0, ge=100, le=400,
                        description="Kadar kolesterol total (mg/dL)")
 
-    # ── Data Diet & Nutrisi ────────────────────────────────────────────────────
+    # Data Diet & Nutrisi
     Daily_Caloric_Intake : float = Field(
                        default=2000.0, ge=500, le=6000,
                        description="Asupan kalori harian aktual (kcal)")
@@ -77,7 +77,7 @@ class UserProfile(BaseModel):
     Cholesterol_mgdL       : Optional[float] = Field(
                        default=None, description="[Deprecated] Gunakan Cholesterol_mg_dL")
 
-    # ── Pengaturan Output ──────────────────────────────────────────────────────
+    # Pengaturan Output
     top_n_menus     : int            = Field(default=3, ge=1, le=10,
                        description="Jumlah alternatif menu yang diminta")
     target_calories : Optional[float] = Field(
@@ -116,4 +116,4 @@ class DSSResponse(BaseModel):
     recommended_menus    : list
     compliance_status    : str
     global_explanation   : list
-    user_insights        : dict   # insight tambahan dari fitur dataset
+    user_insights        : dict 
