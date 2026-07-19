@@ -29,6 +29,8 @@ import numpy as np
 import pandas as pd
 
 from sklearn.ensemble import RandomForestClassifier
+from sklearn.tree import DecisionTreeClassifier
+from sklearn.linear_model import LogisticRegression
 from sklearn.model_selection import train_test_split, StratifiedKFold, cross_val_score
 from sklearn.preprocessing import LabelEncoder, StandardScaler, OrdinalEncoder
 from sklearn.compose import ColumnTransformer
@@ -168,7 +170,10 @@ def build_preprocessor() -> ColumnTransformer:
     )
     return preprocessor
 
-def _run_training(df: pd.DataFrame, include_disease: bool = True, label: str = "") -> dict:
+# -----------------------------------------------------------------------------
+# 4. Training (satu varian)
+# -----------------------------------------------------------------------------
+def _run_training(df: pd.DataFrame, classifier=None, include_disease: bool = True, label: str = "") -> dict:
     """Jalankan training pipeline dan kembalikan artefak + metrik."""
     df_enc, dummy_cols = encode_categoricals(df, include_disease=include_disease)
 
@@ -192,20 +197,21 @@ def _run_training(df: pd.DataFrame, include_disease: bool = True, label: str = "
 
     preprocessor = build_preprocessor()
 
-    rf = RandomForestClassifier(
-        n_estimators=500,
-        max_depth=None,
-        min_samples_split=3,
-        min_samples_leaf=1,
-        max_features="sqrt",
-        class_weight="balanced",
-        random_state=42,
-        n_jobs=-1
-    )
+    if classifier is None:
+        classifier = RandomForestClassifier(
+            n_estimators=500,
+            max_depth=None,
+            min_samples_split=3,
+            min_samples_leaf=1,
+            max_features="sqrt",
+            class_weight="balanced",
+            random_state=42,
+            n_jobs=-1
+        )
 
     pipeline = Pipeline([
         ("preprocessor", preprocessor),
-        ("classifier", rf)
+        ("classifier", classifier)
     ])
 
     # Cross-validation
@@ -265,16 +271,46 @@ def run_ablation_study(df: pd.DataFrame):
     diff = result_with["test_accuracy"] - result_without["test_accuracy"]
     print(f"\n  Selisih akurasi (dengan - tanpa): {diff:+.4f}")
     if abs(diff) < 0.02:
-        print("  → Dampak Disease_Type relatif KECIL (< 2%): model robust tanpa atribut ini.")
+        print("  -> Dampak Disease_Type relatif KECIL (< 2%): model robust tanpa atribut ini.")
     else:
-        print(f"  → Disease_Type berkontribusi signifikan ({abs(diff)*100:.1f}%) terhadap akurasi.")
+        print(f"  -> Disease_Type berkontribusi signifikan ({abs(diff)*100:.1f}%) terhadap akurasi.")
     print("=" * 60)
 
     return result_with, result_without
 
+def run_algorithm_comparison(df: pd.DataFrame):
+    """Bandingkan performa Random Forest dengan Decision Tree & Logistic Regression"""
+    print("\n" + "=" * 60)
+    print("  PERBANDINGAN ALGORITMA KLASIFIKASI")
+    print("=" * 60)
+
+    print("\n>>> 1. Random Forest (Default Model)")
+    rf_clf = RandomForestClassifier(n_estimators=500, class_weight="balanced", random_state=42, n_jobs=-1)
+    res_rf = _run_training(df, classifier=rf_clf, label="Random Forest")
+
+    print("\n>>> 2. Decision Tree")
+    dt_clf = DecisionTreeClassifier(class_weight="balanced", random_state=42)
+    res_dt = _run_training(df, classifier=dt_clf, label="Decision Tree")
+
+    print("\n>>> 3. Logistic Regression")
+    lr_clf = LogisticRegression(max_iter=2000, class_weight="balanced", random_state=42)
+    res_lr = _run_training(df, classifier=lr_clf, label="Logistic Regression")
+
+    print("\n" + "=" * 60)
+    print("  HASIL PERBANDINGAN ALGORITMA")
+    print("=" * 60)
+    print(f"  {'Algoritma':<25} {'CV Acc':>10} {'Test Acc':>10}")
+    print(f"  {'-'*55}")
+    print(f"  {'Random Forest':<25} {res_rf['cv_mean']:>9.4f}  {res_rf['test_accuracy']:>9.4f}")
+    print(f"  {'Decision Tree':<25} {res_dt['cv_mean']:>9.4f}  {res_dt['test_accuracy']:>9.4f}")
+    print(f"  {'Logistic Regression':<25} {res_lr['cv_mean']:>9.4f}  {res_lr['test_accuracy']:>9.4f}")
+    print("=" * 60)
 
 def train(df: pd.DataFrame):
     """Training penuh: jalankan ablation study lalu simpan model utama (dengan Disease_Type)."""
+
+    # Perbandingan Algoritma
+    run_algorithm_comparison(df)
 
     # Ablation study
     result_with, result_without = run_ablation_study(df)
