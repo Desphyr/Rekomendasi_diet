@@ -12,9 +12,9 @@ import requests
 # -----------------------------------------------------------------------
 # Konfigurasi URL API
 # -----------------------------------------------------------------------
-# Ganti dengan URL publik dari Render setelah deploy, contoh:
-# API_URL = "https://rekomendasi-diet-api.onrender.com"
-API_URL = "URL_DARI_RENDER"
+# Ganti dengan URL publik dari Hugging Face Space setelah deploy, contoh:
+# API_URL = "https://username-api-rekomendasi-diet.hf.space"
+API_URL = "URL_DARI_HUGGINGFACE"
 RECOMMEND_ENDPOINT = f"{API_URL}/recommend"
 
 st.set_page_config(page_title="Diet DSS — Rekomendasi Diet Harian", page_icon="🥗")
