@@ -1,148 +1,98 @@
 """
-FastAPI Application — Diet DSS REST API
-========================================
-Endpoint:
-  POST /recommend  → Terima profil pengguna, kembalikan rekomendasi menu diet
-  GET  /health     → Health check
-  GET  /diet-rules → Tampilkan semua aturan diet yang digunakan
+Streamlit Frontend — Diet DSS
+=============================
+Antarmuka pengguna untuk Sistem Pendukung Keputusan Rekomendasi Menu Diet.
+Frontend ini TIDAK menjalankan FastAPI sama sekali — ia hanya mengirim
+request HTTP ke API yang sudah berjalan terpisah (di Render).
 """
 
-import os
-import socket
-from pathlib import Path
+import streamlit as st
+import requests
 
-import pandas as pd
-from fastapi import FastAPI, HTTPException
-from fastapi.middleware.cors import CORSMiddleware
-from fastapi.staticfiles import StaticFiles
-from fastapi.responses import FileResponse
+# -----------------------------------------------------------------------
+# Konfigurasi URL API
+# -----------------------------------------------------------------------
+# Ganti dengan URL publik dari Render setelah deploy, contoh:
+# API_URL = "https://rekomendasi-diet-api.onrender.com"
+API_URL = "URL_DARI_RENDER"
+RECOMMEND_ENDPOINT = f"{API_URL}/recommend"
 
-from src.schemas    import UserProfile, DSSResponse
-from src.predictor  import DietPredictor
-from src.recommender import DietRecommender, DIET_RULES
+st.set_page_config(page_title="Diet DSS — Rekomendasi Diet Harian", page_icon="🥗")
 
-BASE_DIR = Path(__file__).resolve().parent
-STATIC_DIR = BASE_DIR / "static"
-DATA_DIR = BASE_DIR / "data"
+st.title("🥗 Diet DSS — Rekomendasi Diet Harian")
+st.caption("Sistem hybrid Random Forest + Rule-Based Filtering")
 
-
-def get_available_port(start_port: int = 8000, host: str = "127.0.0.1") -> int:
-    """Return a free port, falling back to the next available one."""
-    preferred_port = int(os.getenv("PORT", str(start_port)))
-
-    for candidate in [preferred_port, *range(preferred_port + 1, preferred_port + 20)]:
-        with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as sock:
-            try:
-                sock.bind((host, candidate))
-                return candidate
-            except OSError:
-                continue
-
-    raise RuntimeError("Tidak ada port yang tersedia untuk menjalankan server.")
-
-app = FastAPI(
-    title       = "Diet DSS — Sistem Pendukung Keputusan Rekomendasi Menu Diet",
-    description = (
-        "Sistem hybrid berbasis Random Forest + Rule-Based Filtering "
-        "untuk merekomendasikan menu diet harian yang optimal berdasarkan "
-        "profil kesehatan pengguna."
-    ),
-    version     = "1.0.0",
-)
-
-app.add_middleware(
-    CORSMiddleware,
-    allow_origins=["*"],
-    allow_methods=["*"],
-    allow_headers=["*"],
-)
-
-# Mount static folder
-app.mount("/static", StaticFiles(directory=str(STATIC_DIR)), name="static")
-
-@app.get("/", tags=["System"])
-def serve_ui():
-    """Serve the frontend UI."""
-    return FileResponse(str(STATIC_DIR / "index.html"))
-
-try:
-    predictor = DietPredictor()
-    food_path = DATA_DIR / "food_nutrition.csv"
-    food_df   = pd.read_csv(food_path)
-    print("[OK] Model dan database makanan berhasil dimuat.")
-except FileNotFoundError as e:
-    print(f"[!] Warning: {e}")
-    predictor = None
-    food_df   = None
-
-
-def start_server(host: str = "0.0.0.0", port: int | None = None):
-    """Start the app on an available port."""
-    import uvicorn
-
-    resolved_port = get_available_port(start_port=port or 8000, host="127.0.0.1")
-    print(f"[INFO] Menjalankan server di http://127.0.0.1:{resolved_port}")
-    uvicorn.run(app, host=host, port=resolved_port, reload=False)
-
-@app.get("/health", tags=["System"])
-def health_check():
-    """Cek status sistem."""
-    return {
-        "status"       : "OK",
-        "model_loaded" : predictor is not None,
-        "food_db_loaded": food_df is not None and len(food_df) > 0,
-    }
-
-
-@app.get("/diet-rules", tags=["System"])
-def get_diet_rules():
-    """Kembalikan semua aturan nutrisi yang digunakan sistem."""
-    return {"diet_rules": DIET_RULES}
-
-
-@app.post("/recommend", response_model=DSSResponse, tags=["Recommendation"])
-def recommend(profile: UserProfile):
-    """
-    Endpoint utama: Terima profil pengguna, kembalikan rekomendasi menu diet.
-
-    **Workflow:**
-    1. Validasi input (Pydantic)
-    2. Prediksi tipe diet (Random Forest)
-    3. Filter & scoring makanan (Rule-Based)
-    4. Susun & ranking menu harian
-    5. Hasilkan penjelasan
-    """
-    if predictor is None or food_df is None:
-        raise HTTPException(
-            status_code=503,
-            detail="Model belum dilatih. Jalankan 'python src/train.py' terlebih dahulu."
+# -----------------------------------------------------------------------
+# Form input profil pengguna
+# -----------------------------------------------------------------------
+# PENTING: nama field di dalam `payload` di bawah HARUS SAMA PERSIS dengan
+# field yang didefinisikan pada `UserProfile` di src/schemas.py. Contoh di
+# bawah ini memakai nama field umum (age, gender, weight_kg, dst.) —
+# sesuaikan dulu dengan schema Anda yang sebenarnya sebelum dipakai.
+with st.form("profile_form"):
+    col1, col2 = st.columns(2)
+    with col1:
+        age = st.number_input("Usia", min_value=1, max_value=120, value=25)
+        weight_kg = st.number_input("Berat badan (kg)", min_value=1.0, value=60.0)
+        height_cm = st.number_input("Tinggi badan (cm)", min_value=1.0, value=165.0)
+    with col2:
+        gender = st.selectbox("Jenis kelamin", ["Male", "Female"])
+        activity_level = st.selectbox(
+            "Tingkat aktivitas",
+            ["Sedentary", "Lightly Active", "Moderately Active", "Very Active"],
+        )
+        disease_type = st.selectbox(
+            "Kondisi kesehatan",
+            ["None", "Diabetes", "Hypertension", "Obesity", "Heart Disease"],
         )
 
-    user_dict = profile.to_dict()
-
-    diet_type, probabilities = predictor.predict(user_dict)
-
-    recommender = DietRecommender(
-        food_df        = food_df,
-        top_n_menus    = profile.top_n_menus,
-        target_calories= profile.target_calories,
+    st.divider()
+    target_calories = st.number_input(
+        "Target kalori harian (kkal) — kosongkan 0 untuk estimasi otomatis",
+        min_value=0, value=0,
     )
-    result = recommender.recommend(diet_type, probabilities, user_dict)
+    top_n_menus = st.slider("Jumlah menu yang direkomendasikan", 1, 10, 5)
 
-    target_kcal = profile.target_calories or recommender._estimate_calories(user_dict)
+    submitted = st.form_submit_button("Dapatkan Rekomendasi")
 
-    return DSSResponse(
-        status              = "success",
-        diet_type           = result.diet_type,
-        diet_probability    = result.diet_probability,
-        diet_description    = result.diet_description,
-        target_calories_kcal= round(target_kcal, 0),
-        recommended_menus   = result.recommended_menus,
-        compliance_status   = result.compliance_status,
-        global_explanation  = result.global_explanation,
-        user_insights       = result.user_insights,
-    )
+# -----------------------------------------------------------------------
+# Panggil API saat form disubmit
+# -----------------------------------------------------------------------
+if submitted:
+    payload = {
+        "age": age,
+        "gender": gender,
+        "weight_kg": weight_kg,
+        "height_cm": height_cm,
+        "activity_level": activity_level,
+        "disease_type": disease_type,
+        "target_calories": target_calories or None,
+        "top_n_menus": top_n_menus,
+    }
 
+    try:
+        with st.spinner("Menghubungi API dan menyusun rekomendasi..."):
+            response = requests.post(RECOMMEND_ENDPOINT, json=payload, timeout=30)
 
-if __name__ == "__main__":
-    start_server()
+        if response.status_code == 200:
+            data = response.json()
+            st.success("Rekomendasi berhasil dibuat!")
+
+            st.subheader(f"Tipe Diet: {data.get('diet_type')}")
+            st.write(f"Probabilitas: {data.get('diet_probability')}")
+            st.write(data.get("diet_description"))
+            st.metric("Target Kalori Harian", f"{data.get('target_calories_kcal')} kkal")
+
+            st.subheader("Menu yang Direkomendasikan")
+            st.write(data.get("recommended_menus"))
+
+            with st.expander("Penjelasan & Insight"):
+                st.write(data.get("global_explanation"))
+                st.write(data.get("user_insights"))
+        else:
+            st.error(f"Gagal terhubung ke API (status {response.status_code}).")
+            st.write(response.text)
+
+    except requests.exceptions.RequestException as e:
+        st.error("Tidak dapat menghubungi API. Periksa kembali API_URL di atas.")
+        st.exception(e)
